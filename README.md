@@ -249,6 +249,7 @@ Variância (ANOVA)](https://perguntasaopo.files.wordpress.com/2012/02/aula_10_an
   * [Writing an R package from scratch](https://hilaryparker.com/2014/04/29/writing-an-r-package-from-scratch/)
   * [Data Tidying - Visualizacao do tidyverse - imagens muito boas para apresentacao](http://garrettgman.github.io/tidying/)
   * [Datapasta allows you to copy and paste code into R](https://github.com/MilesMcBain/datapasta)
+  * [askpass - login to RStudio](https://github.com/jeroen/askpass#readme)  
   * [6 Reasons To Learn R For Business](https://www.business-science.io/business/2017/12/27/six-reasons-to-use-R-for-business.html)
   
 ## Palestras sobre R
