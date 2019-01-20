@@ -593,6 +593,7 @@ Variância (ANOVA)](https://perguntasaopo.files.wordpress.com/2012/02/aula_10_an
   * [Creating a basic template package in R](http://ismayc.github.io/ecots2k16/template_pkg/)
   * [Remedy - A package for easier Markdown writing](https://www.r-bloggers.com/remedy-is-now-on-cran/amp/)
   * [Alternative to Latex for High Quality Reports with RMarkdown](https://speakerdeck.com/rlesur/alternative-to-latex-for-high-quality-reports-with-rmarkdown?slide=14)
+  * [Pimp my RMD: a few tips for R Markdown](https://holtzy.github.io/Pimp-my-rmd/)
 
 # Shiny 
 
