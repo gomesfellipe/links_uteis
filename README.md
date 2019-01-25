@@ -442,6 +442,7 @@ Variância (ANOVA)](https://perguntasaopo.files.wordpress.com/2012/02/aula_10_an
 ## Seleção de Variáveis
 
   * [Seleção de recursos em R com o pacote Boruta R](https://www.datacamp.com/community/tutorials/feature-selection-R-boruta)
+  * [Feature Selection using Genetic Algorithms in R](https://blog.datascienceheroes.com/feature-selection-using-genetic-algorithms-in-r/)
 
 ## Árvores
 
