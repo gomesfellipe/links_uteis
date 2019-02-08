@@ -6,14 +6,6 @@ Este repositório esta em constante construção!
 
 ## Por que um repositório de links?
 
-Todo dia muito conteúdo sobre estatística, machine learning, programação em R, Python e tantos outros assuntos que interessam a quem estuda Ciência de Dados é gerado e nem sempre é possíve![](https://img.shields.io/badge/version-0.0.0-green.svg) ![](https://img.shields.io/github/last-commit/gomesfellipe/links_uteis.svg) 
-
-# Links úteis <img src="https://analizare.com.br/wp-content/uploads/2017/05/links-uteis.png" align="right" height="139" />
-
-Este repositório esta em constante construção! 
-
-## Por que um repositório de links?
-
 Todo dia muito conteúdo sobre estatística, machine learning, programação em R, Python e tantos outros assuntos que interessam a quem estuda Ciência de Dados é gerado e nem sempre é possível acompanhar tanto conteúdo!
 
 Os links guardados que acho interessante porque já me ajudaram ou poderiam vir a me ajudar no futuro se acumulam cada dia mais e para facilitar o acesso a estes links quando estou procurando por referências úteis para resolver os desafios do trabalho criei essa lista com alguns links que encontro por ai nos momentos de leitura, espero que ajude! 
