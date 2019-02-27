@@ -196,6 +196,7 @@ Making Data-Driven Decisions - MIT](https://bigdataanalytics.mit.edu/)
   * [Shiny Server on Docker: CentOS 7 Edition](https://www.datascienceriot.com//r/shiny-docker/)
   * [Lançamento OpenCPU 2.1: serviços escalonáveis](https://www.opencpu.org/posts/opencpu-201/)
   * [CONTAINERS ARE NOT VMS](https://blog.docker.com/2016/03/containers-are-not-vms/)
+  * [Running your R script in Docker](https://www.r-bloggers.com/running-your-r-script-in-docker/amp/)
 
 # Elastic Search
 
@@ -327,6 +328,8 @@ Variância (ANOVA)](https://perguntasaopo.files.wordpress.com/2012/02/aula_10_an
   * [Reproducible finance with R](http://www.reproduciblefinance.com/)
   * [Métodos Computacionais em Inferência Estatística 20ªSINAPE](http://www.leg.ufpr.br/~paulojus/mcie/MCIE.pdf)
   * [Feature Engineering and Selection: A Practical Approach for Predictive Models](https://bookdown.org/max/FES/)
+  * [Machine Learning Algorithms From Scratch - link para comprar](https://machinelearningmastery.com/machine-learning-algorithms-from-scratch/)
+  * [Mastering Software Development in R](https://bookdown.org/rdpeng/RProgDA/)
 
 # Machine Learning
 
@@ -410,6 +413,7 @@ Variância (ANOVA)](https://perguntasaopo.files.wordpress.com/2012/02/aula_10_an
   * [Empurrando os Mínimos Quadrados Ordinários até o limite com Xy()](https://www.statworx.com/de/blog/pushing-ordinary-least-squares-to-the-limit-with-xy/)
   * [Intuitive Machine Learning : Gradient Descent Simplified
 ](http://ucanalytics.com/blogs/intuitive-machine-learning-gradient-descent-simplified/)
+  * [Quantile Regression in Python](https://www.datasciencecentral.com/profiles/blogs/quantile-regression-in-python) 
 
   
 ## Modelos Generalizados
@@ -499,6 +503,8 @@ Variância (ANOVA)](https://perguntasaopo.files.wordpress.com/2012/02/aula_10_an
   * [Linear, Quadratic, and Regularized Discriminant Analysis](https://www.r-bloggers.com/linear-quadratic-and-regularized-discriminant-analysis/amp/)
   * [Spectral clustering - The intuition and math behind how it works!](https://towardsdatascience.com/spectral-clustering-82d3cff3d3b7)
   * [YOUTUBE - Principal Component Analysis (PCA)](https://www.youtube.com/watch?v=g-Hb26agBFg&app=desktop)
+  * [10 Tips for Choosing the Optimal Number of Clusters - visualizações muito boas](https://towardsdatascience.com/10-tips-for-choosing-the-optimal-number-of-clusters-277e93d72d92)
+  * [K-Prototype in Clustering Mixed attributes](https://medium.com/@Chamanijks/k-prototype-in-clustering-mixed-attributes-e6907db91914)
 
 ## Semi-Supervisionado
 
@@ -698,6 +704,7 @@ ou organizações maiores.](https://www.r-bloggers.com/shinyproxy-1-1-1-released
   * [A Eficácia Irrazoável de Redes Neurais Recorrentes](http://karpathy.github.io/2015/05/21/rnn-effectiveness/)
   * [How to build your own Neural Network from scratch in Python](https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6)
   * [YOUTUBE - Backpropagation calculus | Deep learning, chapter 4](https://www.youtube.com/watch?v=tIeHLnjs5U8)
+  * [TL-GAN: transparent latent-space GAN - interface para alterar rostos com GAN](https://github.com/SummitKwan/transparent_latent_gan)
 
 ## Deep Learning  
 
