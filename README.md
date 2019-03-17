@@ -22,6 +22,7 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
   * [Introduction to summarytools](https://cran.r-project.org/web/packages/summarytools/vignettes/Introduction.html)
   * [GUIA QUARTZ PARA LIMPEZA DE DADOS](https://escoladedados.org/2016/09/08/guia-quartz-para-limpeza-de-dados/)
   * [Using the ExPanDaR package for panel data exploration](https://joachim-gassen.github.io/2018/10/using-the-expandar-package-for-panel-data-exploration/)
+  * [visdat - Preliminary Exploratory Visualisation of Data ](https://github.com/ropensci/visdat)
   
 # Amostragem  
   
@@ -71,6 +72,7 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
   * [**Calendar Heatmap** with ggplot2](https://rpubs.com/haj3/calheatmap)
   * [Gráficos sem programar no RStudio com **esquisse**](https://www.datameister.com.br/inicio-1/criando-gr%C3%A1ficos-sem-programa%C3%A7%C3%A3o-no-rstudio-com-equisse)
   * [Create data visualizations like BBC News with the BBC’s R Cookbook](https://www.r-bloggers.com/create-data-visualizations-like-bbc-news-with-the-bbcs-r-cookbook/amp/)
+  * [The ggforce Awakens (again)](https://www.data-imaginist.com/2019/the-ggforce-awakens-again/)
 
 ## Animação de Gráficos
 
@@ -231,6 +233,8 @@ Variância (ANOVA)](https://perguntasaopo.files.wordpress.com/2012/02/aula_10_an
   * [Common Probability Distributions: The Data Scientist’s Crib Sheet](https://www.datasciencecentral.com/profiles/blogs/common-probability-distributions-the-data-scientist-s-crib-sheet?utm_content=buffer02e19&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
   * [CheatSheet de distribuições de probabilidade](http://web.cs.elte.hu/~mesti/valszam/kepletek)
   * [JOHNSON TRANSFORMATION FOR NON-NORMAL DATA](https://rexplorations.wordpress.com/2015/11/03/johnson-transformation-for-non-normal-data/)
+  * [bestNormalize: Flexibly calculate the best normalizing transformation for a vector
+Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize)
 
 # Análise de SObrevivência
 
@@ -330,6 +334,7 @@ Variância (ANOVA)](https://perguntasaopo.files.wordpress.com/2012/02/aula_10_an
   * [Feature Engineering and Selection: A Practical Approach for Predictive Models](https://bookdown.org/max/FES/)
   * [Machine Learning Algorithms From Scratch - link para comprar](https://machinelearningmastery.com/machine-learning-algorithms-from-scratch/)
   * [Mastering Software Development in R](https://bookdown.org/rdpeng/RProgDA/)
+  * [H2O Tutorials](http://docs.h2o.ai/h2o-tutorials/latest-stable/)
 
 # Machine Learning
 
@@ -477,7 +482,7 @@ Variância (ANOVA)](https://perguntasaopo.files.wordpress.com/2012/02/aula_10_an
 ## SVM
 
   * [Understanding Linear SVM with R](https://datascienceplus.com/understanding-linear-svm-with-r/)
-  * [SUPPORT VECTOR MACHINE CLASSIFIER IMPLEMENTATION IN R WITH CARET PACKAGE](http://dataaspirant.com/2017/01/19/support-vector-machine-classifier-implementation-r-caret-package/)
+  * [SUPPORT VECTOR MACHINE CLASSIFIER IMPLEMENTATION IN R WITH CARET PACKAGE](http://dataaspirant.com/2017/01/19/spuport-vector-machine-classifier-implementation-r-caret-package/)
 
 ## Nao Supervisionado
 
@@ -505,6 +510,8 @@ Variância (ANOVA)](https://perguntasaopo.files.wordpress.com/2012/02/aula_10_an
   * [YOUTUBE - Principal Component Analysis (PCA)](https://www.youtube.com/watch?v=g-Hb26agBFg&app=desktop)
   * [10 Tips for Choosing the Optimal Number of Clusters - visualizações muito boas](https://towardsdatascience.com/10-tips-for-choosing-the-optimal-number-of-clusters-277e93d72d92)
   * [K-Prototype in Clustering Mixed attributes](https://medium.com/@Chamanijks/k-prototype-in-clustering-mixed-attributes-e6907db91914)
+  * [Artigo - Visualizing Data using t-SNE](http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf)
+  * [Introduction to t-SNE - datacamp](https://www.datacamp.com/community/tutorials/introduction-t-sne)
 
 ## Semi-Supervisionado
 
@@ -589,6 +596,8 @@ Variância (ANOVA)](https://perguntasaopo.files.wordpress.com/2012/02/aula_10_an
   * [yardstick is a package to estimate how well models are working](https://github.com/tidymodels/yardstick)
   * [Gráficos do ggplot2 sem programar com equisse](https://www.datameister.com.br/inicio-1/criando-gr%C3%A1ficos-sem-programa%C3%A7%C3%A3o-no-rstudio-com-equisse)
   * [finalfit package provides functions that help you quickly create elegant final results](https://finalfit.org/articles/finalfit.html)
+  * [bestNormalize: Flexibly calculate the best normalizing transformation for a vector
+Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize)
 
 # RMarkdown
 
@@ -695,6 +704,10 @@ ou organizações maiores.](https://www.r-bloggers.com/shinyproxy-1-1-1-released
   * [Por que R para ciência de dados - e não Python? ](http://blog.ephorie.de/why-r-for-data-science-and-not-python)
   * [How to Learn Python in 30 days](https://www.datasciencecentral.com/m/blogpost?id=6448529%3ABlogPost%3A792505)
 
+# Projetos
+
+  * [Data-science? Agile? Cycles? My method for managing data-science projects in the Hi-tech industry.](https://towardsdatascience.com/data-science-agile-cycles-my-method-for-managing-data-science-projects-in-the-hi-tech-industry-b289e8a72818)
+
 # Redes Neurais 
 
   * [Construindo uma rede neural a partir do zero em R](https://selbydavid.com/2018/01/09/neural-network/)
@@ -799,6 +812,15 @@ Conditional GANs (cGANs)](https://blogs.rstudio.com/tensorflow/posts/2018-09-20-
   * [WORD ASSOCIATIONS FROM THE SMALL WORLD OF WORDS](https://juliasilge.com/blog/word-associations/)
   * [RPubs - Text-Mining with rvest and qdap
 ](https://rpubs.com/Custer/text)
+  * [Distributed Representations of Words and Phrases
+and their Compositionality - artigo word2vec google](https://arxiv.org/pdf/1310.4546.pdf)
+  * [Word2Vec Experiments - telesens](http://www.telesens.co/2018/02/08/word2vec-experiments/#4_Creating_a_Batch)
+  * [Training and Visualising Word Vectors](https://towardsdatascience.com/training-and-visualising-word-vectors-2f946c6430f8)
+  * [The amazing power of word vectors](https://blog.acolyer.org/2016/04/21/the-amazing-power-of-word-vectors/)
+  * [Making sense of word2vec](https://rare-technologies.com/making-sense-of-word2vec/)
+  * [Lecture 2 | Word Vector Representations: word2vec - Video do youtube 
+Stanford University School of Engineering
+](https://www.youtube.com/watch?v=ERibwqs9p38)
 
 ### NLP - Processamento de linguagem natural 
 
