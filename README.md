@@ -289,6 +289,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Storytelling with Data](http://www.storytellingwithdata.com/)
   * [Este mapa alucinante explica como tudo na matemática está conectado](https://hypescience.com/este-mapa-alucinante-explica-como-tudo-na-matematica-esta-conectado/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+feedburner%2Fxgpv+%28HypeScience%29)
   * [The 5 Basic Statistics Concepts Data Scientists Need to Know](https://towardsdatascience.com/the-5-basic-statistics-concepts-data-scientists-need-to-know-2c96740377ae)
+  * [24 Data Science, R, Python, Excel, and Machine Learning Cheat Sheets](https://www.datasciencecentral.com/profiles/blogs/20-data-science-r-python-excel-and-machine-learning-cheat-sheets)
   
 # Git e Github  
   
@@ -399,6 +400,8 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 ## Supervisionado
   
   * [Dicas de aprendizado supervisionado - MIT stanford.edu em PORTUGUES](https://stanford.edu/~shervine/l/pt/teaching/cs-229/dicas-aprendizado-supervisionado)
+  * [sparklyr: supervised learning](https://samuelmacedo.netlify.com/2018/05/sparklyr-supervised-learning/)
+  * [AdaBoost, Clearly Explained - video youtube](https://www.youtube.com/watch?v=LsK-xG1cLYA&feature=youtu.be)
 
 ## Modelos de Regressão
 
@@ -419,6 +422,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Intuitive Machine Learning : Gradient Descent Simplified
 ](http://ucanalytics.com/blogs/intuitive-machine-learning-gradient-descent-simplified/)
   * [Quantile Regression in Python](https://www.datasciencecentral.com/profiles/blogs/quantile-regression-in-python) 
+  * [What is logistic in the logistic regression?](https://www.r-bloggers.com/what-is-logistic-in-the-logistic-regression/amp/)
 
   
 ## Modelos Generalizados
@@ -445,6 +449,10 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Uma explicação visual para função de custo “binary cross-entropy” ou “log loss”](https://medium.com/ensina-ai/uma-explica%C3%A7%C3%A3o-visual-para-fun%C3%A7%C3%A3o-de-custo-binary-cross-entropy-ou-log-loss-eaee662c396c)
   * [Artigo sobre curva ROC](http://conteudo.icmc.usp.br/pessoas/gbatista/files/ieee_la2008.pdf)
   * [Critérios de Seleção de Modelos](https://uc-r.github.io/model_selection)
+
+## Sistema de recomendação
+
+  * [Deep Learning para Sistemas de Recomendação (Parte 1) — Introdução](https://medium.com/data-hackers/deep-learning-para-sistemas-de-recomenda%C3%A7%C3%A3o-parte-1-introdu%C3%A7%C3%A3o-b19a896c471e)
   
 ## Tunnig do modelo
 
@@ -512,6 +520,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [K-Prototype in Clustering Mixed attributes](https://medium.com/@Chamanijks/k-prototype-in-clustering-mixed-attributes-e6907db91914)
   * [Artigo - Visualizing Data using t-SNE](http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf)
   * [Introduction to t-SNE - datacamp](https://www.datacamp.com/community/tutorials/introduction-t-sne)
+  * [How to Automatically Determine the Number of Clusters in your Data - and more](https://www.datasciencecentral.com/profiles/blogs/how-to-automatically-determine-the-number-of-clusters-in-your-dat)
 
 ## Semi-Supervisionado
 
@@ -523,6 +532,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Why ROC curves are a bad idea to explain your model to business people - Intro modelplotr](https://modelplot.github.io/intro_modelplotr.html)
   * [Animations with receiver operating characteristic curve (ROC curve)](https://github.com/dariyasydykova/open_projects/tree/master/ROC_animation)
   * [Exploring Models with lime](https://www.r-bloggers.com/exploring-models-with-lime/amp/)
+  * [ROC Curve Explained in One Picture](https://www.datasciencecentral.com/profiles/blogs/roc-curve-explained-in-one-picture)
 
 # Mapas
 
@@ -707,6 +717,7 @@ ou organizações maiores.](https://www.r-bloggers.com/shinyproxy-1-1-1-released
 # Projetos
 
   * [Data-science? Agile? Cycles? My method for managing data-science projects in the Hi-tech industry.](https://towardsdatascience.com/data-science-agile-cycles-my-method-for-managing-data-science-projects-in-the-hi-tech-industry-b289e8a72818)
+  * [Structuring R projects](https://chrisvoncsefalvay.com/structuring-r-projects/)
 
 # Redes Neurais 
 
@@ -782,6 +793,10 @@ Conditional GANs (cGANs)](https://blogs.rstudio.com/tensorflow/posts/2018-09-20-
   
   * [R Markdown: How to number and reference tables](https://datascienceplus.com/r-markdown-how-to-number-and-reference-tables/)
   * [R xlsx package : A quick start guide to manipulate Excel files in R](/r-xlsx-package-a-quick-start-guide-to-manipulate-excel-files-in-r)
+
+# Tensor flow
+
+  * [TensorSpace.js - Neural network 3D visualization framework (playgroud)](https://github.com/tensorspace-team/tensorspace)
 
 # Text Mining
   
