@@ -73,6 +73,7 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
   * [Gráficos sem programar no RStudio com **esquisse**](https://www.datameister.com.br/inicio-1/criando-gr%C3%A1ficos-sem-programa%C3%A7%C3%A3o-no-rstudio-com-equisse)
   * [Create data visualizations like BBC News with the BBC’s R Cookbook](https://www.r-bloggers.com/create-data-visualizations-like-bbc-news-with-the-bbcs-r-cookbook/amp/)
   * [The ggforce Awakens (again)](https://www.data-imaginist.com/2019/the-ggforce-awakens-again/)
+  * [Graph analysis using the tidyverse](https://rviews.rstudio.com/2019/03/06/intro-to-graph-analysis/)
 
 ## Animação de Gráficos
 
@@ -221,6 +222,7 @@ Making Data-Driven Decisions - MIT](https://bigdataanalytics.mit.edu/)
   * [Z-test](http://www.dummies.com/education/math/statistics/z-testing-r/)
   * [Testes de variância e Análise de
 Variância (ANOVA)](https://perguntasaopo.files.wordpress.com/2012/02/aula_10_anova.pdf)
+  * [A Visual Demonstration of a Chi Squared Test](https://myko101.home.blog/2019/03/09/a-visual-demonstration-of-a-chi-squared-test/)
 
 ## Inferencia Bayesiana
 
@@ -290,6 +292,11 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Este mapa alucinante explica como tudo na matemática está conectado](https://hypescience.com/este-mapa-alucinante-explica-como-tudo-na-matematica-esta-conectado/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+feedburner%2Fxgpv+%28HypeScience%29)
   * [The 5 Basic Statistics Concepts Data Scientists Need to Know](https://towardsdatascience.com/the-5-basic-statistics-concepts-data-scientists-need-to-know-2c96740377ae)
   * [24 Data Science, R, Python, Excel, and Machine Learning Cheat Sheets](https://www.datasciencecentral.com/profiles/blogs/20-data-science-r-python-excel-and-machine-learning-cheat-sheets)
+  
+# Forecast  
+  
+  * [Selecting Forecasting Methods in Data Science](https://www.datasciencecentral.com/profiles/blogs/selecting-forecasting-methods-in-data-science)
+  
   
 # Git e Github  
   
@@ -423,6 +430,9 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 ](http://ucanalytics.com/blogs/intuitive-machine-learning-gradient-descent-simplified/)
   * [Quantile Regression in Python](https://www.datasciencecentral.com/profiles/blogs/quantile-regression-in-python) 
   * [What is logistic in the logistic regression?](https://www.r-bloggers.com/what-is-logistic-in-the-logistic-regression/amp/)
+  * [Regularization Part 2: Lasso Regression - video youtube](https://www.youtube.com/watch?v=NGf0voTMlcs&feature=youtu.be)
+  * [Regularization Part 3: Elastic Net Regression - video youtube](https://www.youtube.com/watch?v=1dKRdX9bfIo&feature=youtu.be)
+  * [Robust and Resistant Regression - artigo](http://www.biostat.jhsph.edu/~iruczins/teaching/jf/ch13.pdf)
 
   
 ## Modelos Generalizados
@@ -533,6 +543,8 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Animations with receiver operating characteristic curve (ROC curve)](https://github.com/dariyasydykova/open_projects/tree/master/ROC_animation)
   * [Exploring Models with lime](https://www.r-bloggers.com/exploring-models-with-lime/amp/)
   * [ROC Curve Explained in One Picture](https://www.datasciencecentral.com/profiles/blogs/roc-curve-explained-in-one-picture)
+  * [Visualizing ML Models with LIME](http://uc-r.github.io/lime)
+  * [shapper is on CRAN, it’s an R wrapper over SHAP explainer for black-box models](http://smarterpoland.pl/index.php/2019/03/shapper-is-on-cran-its-an-r-wrapper-over-shap-explainer-for-black-box-models/)
 
 # Mapas
 
@@ -578,6 +590,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Parece bom - Getting Started with naniar](https://cran.r-project.org/web/packages/naniar/vignettes/getting-started-w-naniar.html)
   * [Detectando outliers com heatmap](http://blog.revolutionanalytics.com/2018/03/outliers.html)
   * [Detectando valores faltantes](https://cran.r-project.org/web/packages/Amelia/vignettes/amelia.pdf) 
+  * [Outlier Detection with Extended Isolation Forest](https://towardsdatascience.com/outlier-detection-with-extended-isolation-forest-1e248a3fe97b)
   
 # Pacotes
 
