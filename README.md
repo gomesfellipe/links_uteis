@@ -200,6 +200,7 @@ Making Data-Driven Decisions - MIT](https://bigdataanalytics.mit.edu/)
   * [Lançamento OpenCPU 2.1: serviços escalonáveis](https://www.opencpu.org/posts/opencpu-201/)
   * [CONTAINERS ARE NOT VMS](https://blog.docker.com/2016/03/containers-are-not-vms/)
   * [Running your R script in Docker](https://www.r-bloggers.com/running-your-r-script-in-docker/amp/)
+  * [How I implemented googleSignIn in R (shiny) and lived](https://www.r-bloggers.com/how-i-implemented-googlesignin-in-r-shiny-and-lived/amp/)
 
 # Elastic Search
 
@@ -210,6 +211,7 @@ Making Data-Driven Decisions - MIT](https://bigdataanalytics.mit.edu/)
 
   * [HANDBOOK - Summary and Analysis of Extension Program Evaluation in R](http://rcompanion.org/handbook/)
   * [CheetSheet Super resumão resumido](https://www.sas.upenn.edu/~astocker/lab/teaching-files/PSYC739-2016/probability_cheatsheet.pdf)
+  * [A bit more understanding of Cronbach’s alpha](https://theressomethingaboutr.wordpress.com/2019/03/27/a-bit-more-understanding-of-cronbachs-alpha/amp/)
 
 ## Estatística Descritiva
 
@@ -278,6 +280,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Data Science CheatSheet](https://www.datasciencecentral.com/profiles/blogs/data-science-cheat-sheet)
   * [Command Line Tricks For Data Scientists](https://www.kdnuggets.com/2018/06/command-line-tricks-data-scientists.html#%2EWxk4tlXckNQ%2Elinkedin)
   * [Python vs (and) R for Data Science](https://medium.com/@brianray_7981/python-vs-and-r-for-data-science-833b48ccc91d)
+  * [R vs Python: Which is better for Data Science?](https://blog.datasciencedojo.com/r-vs-python-which-is-better-for-data-science/)
   * [R vs Python: Usability, Popularity, Pros & Cons, Jobs, and Salaries](https://www.datasciencecentral.com/profiles/blogs/r-vs-python-meta-review-on-usability-popularity-pros-amp-cons)
   * [When “learning Python” becomes “practicing R” ](https://www.r-bloggers.com/when-learning-python-becomes-practicing-r-spoiler/amp/)
   * [Diferença entre Estatístico, Cientista de Dados, Engenheiro de Dados e Engenheiro de Software](http://datascienceacademy.com.br/blog/a-diferenca-entre-cientistas-de-dados-engenheiros-de-dados-estatisticos-e-engenheiros-de-software/)
@@ -292,6 +295,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Este mapa alucinante explica como tudo na matemática está conectado](https://hypescience.com/este-mapa-alucinante-explica-como-tudo-na-matematica-esta-conectado/?utm_source=feedburner&utm_medium=email&utm_campaign=Feed%3A+feedburner%2Fxgpv+%28HypeScience%29)
   * [The 5 Basic Statistics Concepts Data Scientists Need to Know](https://towardsdatascience.com/the-5-basic-statistics-concepts-data-scientists-need-to-know-2c96740377ae)
   * [24 Data Science, R, Python, Excel, and Machine Learning Cheat Sheets](https://www.datasciencecentral.com/profiles/blogs/20-data-science-r-python-excel-and-machine-learning-cheat-sheets)
+  * [The one critical skill many data scientists are missing](https://venturebeat.com/2017/02/18/the-one-critical-skill-many-data-scientists-are-missing/)
   
 # Forecast  
   
@@ -433,6 +437,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Regularization Part 2: Lasso Regression - video youtube](https://www.youtube.com/watch?v=NGf0voTMlcs&feature=youtu.be)
   * [Regularization Part 3: Elastic Net Regression - video youtube](https://www.youtube.com/watch?v=1dKRdX9bfIo&feature=youtu.be)
   * [Robust and Resistant Regression - artigo](http://www.biostat.jhsph.edu/~iruczins/teaching/jf/ch13.pdf)
+  * [3 Types of Regression in One Picture](https://www.datasciencecentral.com/profiles/blogs/3-types-of-regression-in-one-picture-baba-png)
 
   
 ## Modelos Generalizados
@@ -531,6 +536,9 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Artigo - Visualizing Data using t-SNE](http://www.jmlr.org/papers/volume9/vandermaaten08a/vandermaaten08a.pdf)
   * [Introduction to t-SNE - datacamp](https://www.datacamp.com/community/tutorials/introduction-t-sne)
   * [How to Automatically Determine the Number of Clusters in your Data - and more](https://www.datasciencecentral.com/profiles/blogs/how-to-automatically-determine-the-number-of-clusters-in-your-dat)
+  * [Spectrum - Spectrum is a fast self-tuning spectral clustering method for single or multi-view data](https://cran.r-project.org/web/packages/Spectrum/vignettes/Spectrum_vignette.pdf)
+
+
 
 ## Semi-Supervisionado
 
@@ -726,6 +734,7 @@ ou organizações maiores.](https://www.r-bloggers.com/shinyproxy-1-1-1-released
   * [Comparativo R e Python](https://pandas.pydata.org/pandas-docs/stable/comparison_with_r.html)
   * [Por que R para ciência de dados - e não Python? ](http://blog.ephorie.de/why-r-for-data-science-and-not-python)
   * [How to Learn Python in 30 days](https://www.datasciencecentral.com/m/blogpost?id=6448529%3ABlogPost%3A792505)
+  * [The reticulate package solves the hardest problem in data science: people](https://www.r-bloggers.com/the-reticulate-package-solves-the-hardest-problem-in-data-science-people/amp/)
 
 # Projetos
 
@@ -742,6 +751,7 @@ ou organizações maiores.](https://www.r-bloggers.com/shinyproxy-1-1-1-released
   * [How to build your own Neural Network from scratch in Python](https://towardsdatascience.com/how-to-build-your-own-neural-network-from-scratch-in-python-68998a08e4f6)
   * [YOUTUBE - Backpropagation calculus | Deep learning, chapter 4](https://www.youtube.com/watch?v=tIeHLnjs5U8)
   * [TL-GAN: transparent latent-space GAN - interface para alterar rostos com GAN](https://github.com/SummitKwan/transparent_latent_gan)
+  * [“GANs” vs “ODEs”: the end of mathematical modeling?](https://towardsdatascience.com/gans-vs-odes-the-end-of-mathematical-modeling-ec158f04acb9)
 
 ## Deep Learning  
 
@@ -766,6 +776,7 @@ Conditional GANs (cGANs)](https://blogs.rstudio.com/tensorflow/posts/2018-09-20-
 
   * [Reconhecimento facial com R](https://www.stoltzmaniac.com/facial-recognition-in-r/)
   * [Analisando face emotions no R](http://thinktostart.com/analyze-face-emotions-r/)
+  * [Human Face Detection with R](http://bnosac.be/index.php/blog/89-human-face-detection-with-r)
 
 ## Reconhecimento de objetos
 
