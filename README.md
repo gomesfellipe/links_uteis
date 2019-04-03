@@ -771,6 +771,8 @@ Conditional GANs (cGANs)](https://blogs.rstudio.com/tensorflow/posts/2018-09-20-
   * [Aprendizagem Profunda Intuitiva Parte 1a: Introdução às Redes Neurais](https://towardsdatascience.com/intuitive-deep-learning-part-1a-introduction-to-neural-networks-aaeb3a1500df)
   * [Aprendizagem Profunda Intuitiva Parte 1b: Introdução às Redes Neurais](https://medium.com/intuitive-deep-learning/intuitive-deep-learning-part-1b-introduction-to-neural-networks-8565d97ddd2d)
   * [Por que o GEMM está no centro do aprendizado profundo](https://petewarden.com/2015/04/20/why-gemm-is-at-the-heart-of-deep-learning/)
+  * [Are Deep Neural Networks Dramatically Overfitted?](https://lilianweng.github.io/lil-log/2019/03/14/are-deep-neural-networks-dramatically-overfitted.html)
+  * [Convolutional Neural Networks (CNN) Simplified (Part 4) (Com vídeo!)](http://ucanalytics.com/blogs/convolutional-neural-networks-cnn-simplified-part-4/)
 
 ## Reconhecimento facial
 
