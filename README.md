@@ -29,6 +29,8 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
   * [Getting started with the pwr package](https://cran.r-project.org/web/packages/pwr/vignettes/pwr-vignette.html)
   * [OPDOE: Optimal Design of Experiments](https://cran.r-project.org/web/packages/OPDOE/index.html)
   * [G*Power: Statistical Power Analyses for Windows and Mac](http://www.gpower.hhu.de/)
+  * [An Alternative to Cohen's Standardized Mean Difference Effect Size: A Robust Parameter and Confidence Interval in the Two Independent Groups Case.](https://www.researchgate.net/publication/7545280_An_Alternative_to_Cohen%27s_Standardized_Mean_Difference_Effect_Size_A_Robust_Parameter_and_Confidence_Interval_in_the_Two_Independent_Groups_Case)
+  * [Effect Sizes for Research: Univariate and Multivariate Applications, Second Edition](https://www.amazon.com/Effect-Sizes-Research-Multivariate-Applications/dp/0415877695)
   
 # Gráficos
 
@@ -201,6 +203,7 @@ Making Data-Driven Decisions - MIT](https://bigdataanalytics.mit.edu/)
   * [CONTAINERS ARE NOT VMS](https://blog.docker.com/2016/03/containers-are-not-vms/)
   * [Running your R script in Docker](https://www.r-bloggers.com/running-your-r-script-in-docker/amp/)
   * [How I implemented googleSignIn in R (shiny) and lived](https://www.r-bloggers.com/how-i-implemented-googlesignin-in-r-shiny-and-lived/amp/)
+  * [Shiny Apps for Interactive Data Analysis - Exemplo de Shiny muito bom](https://blog.rsquaredacademy.com/shiny-apps/)
 
 # Elastic Search
 
@@ -296,6 +299,8 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [The 5 Basic Statistics Concepts Data Scientists Need to Know](https://towardsdatascience.com/the-5-basic-statistics-concepts-data-scientists-need-to-know-2c96740377ae)
   * [24 Data Science, R, Python, Excel, and Machine Learning Cheat Sheets](https://www.datasciencecentral.com/profiles/blogs/20-data-science-r-python-excel-and-machine-learning-cheat-sheets)
   * [The one critical skill many data scientists are missing](https://venturebeat.com/2017/02/18/the-one-critical-skill-many-data-scientists-are-missing/)
+  * [Differences Between AI and Machine Learning and Why it Matters](https://medium.com/datadriveninvestor/differences-between-ai-and-machine-learning-and-why-it-matters-1255b182fc6)
+  * [Best Practices for Administering RStudio in Production - Nathan Stephens](https://resources.rstudio.com/webinars/best-practices-for-administering-rstudio-in-production-nathan-stephens)
   
 # Forecast  
   
