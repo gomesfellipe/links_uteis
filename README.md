@@ -301,6 +301,8 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [The one critical skill many data scientists are missing](https://venturebeat.com/2017/02/18/the-one-critical-skill-many-data-scientists-are-missing/)
   * [Differences Between AI and Machine Learning and Why it Matters](https://medium.com/datadriveninvestor/differences-between-ai-and-machine-learning-and-why-it-matters-1255b182fc6)
   * [Best Practices for Administering RStudio in Production - Nathan Stephens](https://resources.rstudio.com/webinars/best-practices-for-administering-rstudio-in-production-nathan-stephens)
+  * [A diferença real entre estatísticas e aprendizado de máquina](https://towardsdatascience.com/the-actual-difference-between-statistics-and-machine-learning-64b49f07ea3)
+  * [Statistics versus machine learning](https://www.nature.com/articles/nmeth.4642)
   
 # Forecast  
   
@@ -443,6 +445,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Regularization Part 3: Elastic Net Regression - video youtube](https://www.youtube.com/watch?v=1dKRdX9bfIo&feature=youtu.be)
   * [Robust and Resistant Regression - artigo](http://www.biostat.jhsph.edu/~iruczins/teaching/jf/ch13.pdf)
   * [3 Types of Regression in One Picture](https://www.datasciencecentral.com/profiles/blogs/3-types-of-regression-in-one-picture-baba-png)
+  * [Behind the Scenes with Lasso](https://healthcare.ai/behind-scenes-lasso/)
 
   
 ## Modelos Generalizados
@@ -686,6 +689,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [ADICIONE JAVASCRIPT, CSS E HTML PERSONALIZADOS EM SHINY](https://www.listendata.com/2018/12/javascript-shiny-r.html)
   * [ShinyShortcuts](https://github.com/cran/shinyShortcut)
   * [ShinyMaterial - Material design in Shiny apps](https://ericrayanderson.github.io/shinymaterial/)
+  * [Announcing the 1st Shiny Contest - Para inspiração](https://blog.rstudio.com/2019/01/07/first-shiny-contest/)
 
 ## Shinydashboard
 
