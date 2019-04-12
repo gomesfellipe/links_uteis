@@ -691,6 +691,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [ShinyMaterial - Material design in Shiny apps](https://ericrayanderson.github.io/shinymaterial/)
   * [Announcing the 1st Shiny Contest - Para inspiração](https://blog.rstudio.com/2019/01/07/first-shiny-contest/)
   * [waypointer - Simple animated waypoints for shiny](https://github.com/RinteRface/waypointer)
+  * [shinytools](https://github.com/ardata-fr/shinytools)
 
 ## Shinydashboard
 
