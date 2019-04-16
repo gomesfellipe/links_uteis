@@ -872,10 +872,21 @@ and their Compositionality - artigo word2vec google](https://arxiv.org/pdf/1310.
   * [Lecture 2 | Word Vector Representations: word2vec - Video do youtube 
 Stanford University School of Engineering
 ](https://www.youtube.com/watch?v=ERibwqs9p38)
+  * [SMART Information Retrieval System - Wikipedia](https://en.wikipedia.org/wiki/SMART_Information_Retrieval_System)
+
 
 ### NLP - Processamento de linguagem natural 
 
   * [cleanNLP - R package providing annotators and a tidy data model for natural language processing](https://github.com/statsmaths/cleannlp)
+  * [Build a Simple Cosine Similarity Search Engine in R](http://rstudio-pubs-static.s3.amazonaws.com/266142_e947ad96bead4abdb3d0fa8a539f7511.html)
+  * [Build a search engine in 20 minutes or less](https://anythingbutrbitrary.blogspot.com/2013/03/build-search-engine-in-20-minutes-or.html)
+  * [How to get started with Word2Vec — and then how to make it work](https://medium.freecodecamp.org/how-to-get-started-with-word2vec-and-then-how-to-make-it-work-d0a2fca9dad3)
+  * [Latent semantic analysis](https://en.wikipedia.org/wiki/Latent_semantic_analysis)
+  * [Stop Using word2vec](https://multithreaded.stitchfix.com/blog/2017/10/18/stop-using-word2vec/)
+  * [Word Tensors](https://multithreaded.stitchfix.com/blog/2017/10/25/word-tensors/)
+  * [WORD VECTORS WITH TIDY DATA PRINCIPLES - Julia Silge](https://juliasilge.com/blog/tidy-word-vectors/)
+  * [GloVe vs word2vec revisited](http://dsnotes.com/post/glove-enwiki/)
+  * [Introducing text2vec 0.4](http://dsnotes.com/post/text2vec-0-4/)
 
 ### Regex
 
