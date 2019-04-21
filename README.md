@@ -76,6 +76,7 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
   * [Create data visualizations like BBC News with the BBC’s R Cookbook](https://www.r-bloggers.com/create-data-visualizations-like-bbc-news-with-the-bbcs-r-cookbook/amp/)
   * [The ggforce Awakens (again)](https://www.data-imaginist.com/2019/the-ggforce-awakens-again/)
   * [Graph analysis using the tidyverse](https://rviews.rstudio.com/2019/03/06/intro-to-graph-analysis/)
+  * [Tidy correlation tests in R](https://dominicroye.github.io/en/2019/tidy-correlation-tests-in-r/)
 
 ## Animação de Gráficos
 
@@ -228,6 +229,46 @@ Making Data-Driven Decisions - MIT](https://bigdataanalytics.mit.edu/)
   * [Testes de variância e Análise de
 Variância (ANOVA)](https://perguntasaopo.files.wordpress.com/2012/02/aula_10_anova.pdf)
   * [A Visual Demonstration of a Chi Squared Test](https://myko101.home.blog/2019/03/09/a-visual-demonstration-of-a-chi-squared-test/)
+  
+# Anova / Planejamento de Experimento
+
+  * [ANCOVA example](https://ibecav.github.io/ancova_example/)
+  * <https://www.researchgate.net/post/How_can_I_write_a_clear_rationale_for_the_3-way_interaction_2_x_2_x_2>
+  * <https://stats.stackexchange.com/questions/245239/in-three-way-anova-how-to-interpret-the-three-way-interaction>
+  * <https://stats.idre.ucla.edu/stata/faq/how-can-i-understand-a-3-way-continuous-interaction-stata-12/>
+  * <http://psycnet.apa.org/fulltext/2006-08435-013.html>
+  * [Definição e Interpretação de Efeitos de Interação](http://psycnet.apa.org/fulltext/1989-14220-001.html)
+  * [Testing and Dropping Interaction Terms in Regression and ANOVA models](https://www.theanalysisfactor.com/testing-and-dropping-interaction-terms/)
+  * <https://stats.stackexchange.com/questions/22916/treatment-of-interactions-in-multiple-regression>
+  * <https://www.theanalysisfactor.com/why-anova-and-linear-regression-are-the-same-analysis/>
+  * <https://stats.stackexchange.com/questions/190984/anova-vs-multiple-linear-regression-why-is-anova-so-commonly-used-in-experiment>
+  * <https://stats.stackexchange.com/questions/76250/r-anova-and-linear-regression/76292#76292>
+  * <https://www.researchgate.net/post/Can_anyone_help_me_to_get_the_core_differences_between_regression_model_and_ANOVA_model2>
+  * <https://www.researchgate.net/post/Two-Way_ANOVA_or_Mixed_ANOVA>
+  * <https://stats.stackexchange.com/questions/13241/the-order-of-variables-in-anova-matters-doesnt-it>
+  * <https://stats.stackexchange.com/questions/212496/why-do-p-values-change-in-significance-when-changing-the-order-of-covariates-in>
+  * <https://stats.stackexchange.com/questions/45878/r-model-tables-incorrect-means-possible-bug>
+  * <https://www.researchgate.net/post/Kruskal-Wallis_test_on_Interaction_following_by_a_pairwisewilcoxtest>
+  * [rcompanion.org/handbook - Kruskal–Wallis Test](http://rcompanion.org/handbook/F_08.html)
+  * [Experimentos fatoriais - LEG](http://www.leg.ufpr.br/~fernandomayer/aulas/ce074-2015-02/ce074_aula04_2015-02.html)
+  * <https://stats.stackexchange.com/questions/78365/what-is-the-non-parametric-equivalent-of-a-two-way-anova-that-can-include-intera>
+  * <http://www.talkstats.com/threads/non-parametric-equivalent-of-a-factorial-anova-not-repeated-measures.21958/>
+  * <https://stats.idre.ucla.edu/?s=non+parametric+anova+fatorial>
+  * <https://www.researchgate.net/post/Is_there_a_non-parametric_equivalent_of_a_2-way_ANOVA>
+  * [ rcompanion.org/handbook -  Two-way Ordinal Regression with CLM](http://rcompanion.org/handbook/G_11.html)
+  * <https://www.theanalysisfactor.com/non-parametric-anova-in-spss/>
+  * [Planeamento	Experimental		
+usando ANOVA de 1 e 2 fatores	com	R – uma breve abordagem prática - PDF](https://repositorioaberto.uab.pt/bitstream/10400.2/6389/1/R_textAnova12_v5_ReposAb.pdf)
+  * [Rank Transformations as a Bridge between Parametric and Nonparametric Statistics](https://www.tandfonline.com/doi/abs/10.1080/00031305.1981.10479327)
+  * [The Aligned Rank Transform for Nonparametric Factorial
+Analyses Using Only ANOVA Procedures](https://faculty.washington.edu/leahkf/pubs/CHI2011-wobbrock-AlignedRankTransform.pdf)
+  * <https://stats.stackexchange.com/questions/78365/what-is-the-non-parametric-equivalent-of-a-two-way-anova-that-can-include-intera>
+  * [Interaction Effects in Regression](file:///C:/Users/gomes/Downloads/interaction.pdf)
+  * <https://stats.stackexchange.com/questions/91872/alternatives-to-one-way-anova-for-heteroskedastic-data>
+  * <https://stats.idre.ucla.edu/r/faq/how-can-i-do-post-hoc-pairwise-comparisons-in-r/>
+  * <https://stackoverflow.com/questions/12288312/in-r-how-do-i-run-a-two-way-anova-that-uses-type-iii-errors-and-looks-at-pairwi>
+
+    
 
 ## Inferencia Bayesiana
 
@@ -303,6 +344,8 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Best Practices for Administering RStudio in Production - Nathan Stephens](https://resources.rstudio.com/webinars/best-practices-for-administering-rstudio-in-production-nathan-stephens)
   * [A diferença real entre estatísticas e aprendizado de máquina](https://towardsdatascience.com/the-actual-difference-between-statistics-and-machine-learning-64b49f07ea3)
   * [Statistics versus machine learning](https://www.nature.com/articles/nmeth.4642)
+  * [Why GitHub Won't Help You With Hiring](https://www.benfrederickson.com/github-wont-help-with-hiring/)
+  * [Matemática que você não precisa saber para aprendizado de máquina](https://www.datasciencecentral.com/profiles/blogs/math-you-don-t-need-to-know-for-ml)
   
 # Forecast  
   
@@ -354,6 +397,8 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Machine Learning Algorithms From Scratch - link para comprar](https://machinelearningmastery.com/machine-learning-algorithms-from-scratch/)
   * [Mastering Software Development in R](https://bookdown.org/rdpeng/RProgDA/)
   * [H2O Tutorials](http://docs.h2o.ai/h2o-tutorials/latest-stable/)
+  * [An Introduction to Statistical Learning - with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/)
+  * [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
 
 # Machine Learning
 
@@ -446,6 +491,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Robust and Resistant Regression - artigo](http://www.biostat.jhsph.edu/~iruczins/teaching/jf/ch13.pdf)
   * [3 Types of Regression in One Picture](https://www.datasciencecentral.com/profiles/blogs/3-types-of-regression-in-one-picture-baba-png)
   * [Behind the Scenes with Lasso](https://healthcare.ai/behind-scenes-lasso/)
+  * [Difference Between Correlation and Regression in Statistics](https://www.datasciencecentral.com/profiles/blogs/difference-between-correlation-and-regression-in-statistics)
 
   
 ## Modelos Generalizados
@@ -505,6 +551,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Luz na Aprendizagem de Máquina de Matemática: Guia Intuitivo para Entender Árvores de Decisão](https://towardsdatascience.com/light-on-math-machine-learning-intuitive-guide-to-understanding-decision-trees-adb2165ccab7)
   * [Machine Learning Basics - Gradient Boosting & XGBoost](https://shirinsplayground.netlify.com/2018/11/ml_basics_gbm/)
   * [How to use DALEX with the xgboost models](https://pbiecek.github.io/DALEX/articles/DALEX_and_xgboost.html#regression)
+  * [The Complete Guide to Decision Trees](https://towardsdatascience.com/the-complete-guide-to-decision-trees-28a4e3c7be14)
 
 ## knn
 
@@ -691,6 +738,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [ShinyMaterial - Material design in Shiny apps](https://ericrayanderson.github.io/shinymaterial/)
   * [Announcing the 1st Shiny Contest - Para inspiração](https://blog.rstudio.com/2019/01/07/first-shiny-contest/)
   * [waypointer - Simple animated waypoints for shiny](https://github.com/RinteRface/waypointer)
+  * [Styling DataTables](http://www.stencilled.me/post/2019-04-20-stylingdt/)
 
 ## Shinydashboard
 
