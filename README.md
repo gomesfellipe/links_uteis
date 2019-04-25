@@ -399,6 +399,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [H2O Tutorials](http://docs.h2o.ai/h2o-tutorials/latest-stable/)
   * [An Introduction to Statistical Learning - with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/)
   * [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
+  * [R Graphics Cookbook, 2nd edition](https://r-graphics.org/)
 
 # Machine Learning
 
@@ -492,6 +493,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [3 Types of Regression in One Picture](https://www.datasciencecentral.com/profiles/blogs/3-types-of-regression-in-one-picture-baba-png)
   * [Behind the Scenes with Lasso](https://healthcare.ai/behind-scenes-lasso/)
   * [Difference Between Correlation and Regression in Statistics](https://www.datasciencecentral.com/profiles/blogs/difference-between-correlation-and-regression-in-statistics)
+  * [Logistic Regression in One Picture](https://www.datasciencecentral.com/profiles/blogs/logistic-regression-in-one-picture)
 
   
 ## Modelos Generalizados
@@ -592,6 +594,8 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Introduction to t-SNE - datacamp](https://www.datacamp.com/community/tutorials/introduction-t-sne)
   * [How to Automatically Determine the Number of Clusters in your Data - and more](https://www.datasciencecentral.com/profiles/blogs/how-to-automatically-determine-the-number-of-clusters-in-your-dat)
   * [Spectrum - Spectrum is a fast self-tuning spectral clustering method for single or multi-view data](https://cran.r-project.org/web/packages/Spectrum/vignettes/Spectrum_vignette.pdf)
+  * [Como determinar automaticamente o número de clusters nos seus dados - e mais](https://www.datasciencecentral.com/profiles/blogs/how-to-automatically-determine-the-number-of-clusters-in-your-dat)
+  * [Determining The Optimal Number Of Clusters: 3 Must Know Methods](https://www.datanovia.com/en/lessons/determining-the-optimal-number-of-clusters-3-must-know-methods/)
 
 
 
@@ -739,6 +743,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Announcing the 1st Shiny Contest - Para inspiração](https://blog.rstudio.com/2019/01/07/first-shiny-contest/)
   * [waypointer - Simple animated waypoints for shiny](https://github.com/RinteRface/waypointer)
   * [Styling DataTables](http://www.stencilled.me/post/2019-04-20-stylingdt/)
+  * [Stencilled - Download and Email reports in R Shiny app](http://www.stencilled.me/post/2019-04-14-downloadshiny/)
 
 ## Shinydashboard
 
