@@ -286,7 +286,7 @@ Analyses Using Only ANOVA Procedures](https://faculty.washington.edu/leahkf/pubs
   * [bestNormalize: Flexibly calculate the best normalizing transformation for a vector
 Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize)
 
-# Análise de SObrevivência
+# Análise de Sobrevivência
 
   * [Análise de Sobrevivência Aplicada - Enrico e Suely](https://docs.ufpr.br/~giolo/Livro/)  
 
