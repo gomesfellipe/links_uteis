@@ -275,6 +275,8 @@ Analyses Using Only ANOVA Procedures](https://faculty.washington.edu/leahkf/pubs
    * [Tutorial para iniciantes em Inferência Bayesiana](https://www.analyticsvidhya.com/blog/2016/06/bayesian-statistics-beginners-simple-english/)
   * [Bayesplot - plotando modelo bayesianos](http://mc-stan.org/bayesplot/index.html)  
   * [How Bayesian inference works - Data Science and Robots Blog](https://brohrer.github.io/how_bayesian_inference_works.html)
+  * [bayestestR - Utilities for analyzing Bayesian models and posterior distributions ](https://github.com/easystats/bayestestR#documentation)
+  * [Describe and understand Bayesian models and posteriors using bayestestR](ps://easystats.github.io/blog/posts/bayestestr_presentation/)
 
 ## Distribuições de probabilidade
 
@@ -400,6 +402,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [An Introduction to Statistical Learning - with Applications in R](http://www-bcf.usc.edu/~gareth/ISL/)
   * [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
   * [R Graphics Cookbook, 2nd edition](https://r-graphics.org/)
+  * [Introduction to Econometrics with R](https://www.econometrics-with-r.org/)
 
 # Machine Learning
 
@@ -504,8 +507,9 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 ## Modelos Mistos
 
   * [Introdução aos Modelos Mistos no RPubs muito boa](https://rpubs.com/melinatarituba/309285)
+  * [A Practical Guide to Mixed Models in R](https://www.juliapilowsky.com/2018/10/19/a-practical-guide-to-mixed-models-in-r/)
 
-## Seleção de Modelos
+## Seleção de Modelos / Interpretação
   
   * [Compare Models And Select The Best Using The Caret R Package](https://machinelearningmastery.com/compare-models-and-select-the-best-using-the-caret-r-package/)
   * [Critérios de Seleção de Modelos](https://uc-r.github.io/model_selection)
@@ -520,6 +524,8 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Uma explicação visual para função de custo “binary cross-entropy” ou “log loss”](https://medium.com/ensina-ai/uma-explica%C3%A7%C3%A3o-visual-para-fun%C3%A7%C3%A3o-de-custo-binary-cross-entropy-ou-log-loss-eaee662c396c)
   * [Artigo sobre curva ROC](http://conteudo.icmc.usp.br/pessoas/gbatista/files/ieee_la2008.pdf)
   * [Critérios de Seleção de Modelos](https://uc-r.github.io/model_selection)
+  * [DALEX - Descriptive mAchine Learning EXplanations ](https://github.com/pbiecek/DALEX/)
+  * [DALEX for Multi Layer Perceptron with H2O and Keras](https://rawgit.com/pbiecek/DALEX_docs/master/vignettes/DALEX_and_keras.html)
 
 ## Sistema de recomendação
 
@@ -563,6 +569,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 
   * [Understanding Linear SVM with R](https://datascienceplus.com/understanding-linear-svm-with-r/)
   * [SUPPORT VECTOR MACHINE CLASSIFIER IMPLEMENTATION IN R WITH CARET PACKAGE](http://dataaspirant.com/2017/01/19/spuport-vector-machine-classifier-implementation-r-caret-package/)
+  * [Learn Support Vector Machine (SVM) from Scratch in R](https://www.datasciencecentral.com/profiles/blogs/learn-support-vector-machine-svm-from-scratch-in-r)
 
 ## Nao Supervisionado
 
@@ -596,6 +603,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Spectrum - Spectrum is a fast self-tuning spectral clustering method for single or multi-view data](https://cran.r-project.org/web/packages/Spectrum/vignettes/Spectrum_vignette.pdf)
   * [Como determinar automaticamente o número de clusters nos seus dados - e mais](https://www.datasciencecentral.com/profiles/blogs/how-to-automatically-determine-the-number-of-clusters-in-your-dat)
   * [Determining The Optimal Number Of Clusters: 3 Must Know Methods](https://www.datanovia.com/en/lessons/determining-the-optimal-number-of-clusters-3-must-know-methods/)
+  * [Introdução à Análise de Componentes Principais](https://www.datasciencecentral.com/profiles/blogs/introduction-to-principal-component-analysis)
 
 
 
@@ -815,6 +823,7 @@ ou organizações maiores.](https://www.r-bloggers.com/shinyproxy-1-1-1-released
   * [YOUTUBE - Backpropagation calculus | Deep learning, chapter 4](https://www.youtube.com/watch?v=tIeHLnjs5U8)
   * [TL-GAN: transparent latent-space GAN - interface para alterar rostos com GAN](https://github.com/SummitKwan/transparent_latent_gan)
   * [“GANs” vs “ODEs”: the end of mathematical modeling?](https://towardsdatascience.com/gans-vs-odes-the-end-of-mathematical-modeling-ec158f04acb9)
+  * [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)
 
 ## Deep Learning  
 
@@ -886,6 +895,7 @@ Conditional GANs (cGANs)](https://blogs.rstudio.com/tensorflow/posts/2018-09-20-
 # Tensor flow
 
   * [TensorSpace.js - Neural network 3D visualization framework (playgroud)](https://github.com/tensorspace-team/tensorspace)
+  * [Experimenting with autoregressive flows in TensorFlow Probability](https://blogs.rstudio.com/tensorflow/posts/2019-04-24-autoregressive-flows/?utm_content=bufferb57dd&utm_medium=social&utm_source=linkedin&utm_campaign=buffer)
 
 # Text Mining
   
@@ -926,6 +936,7 @@ and their Compositionality - artigo word2vec google](https://arxiv.org/pdf/1310.
 Stanford University School of Engineering
 ](https://www.youtube.com/watch?v=ERibwqs9p38)
   * [SMART Information Retrieval System - Wikipedia](https://en.wikipedia.org/wiki/SMART_Information_Retrieval_System)
+  * [textfeatures  - Easily extract useful features from character objects.](https://textfeatures.mikewk.com/)
 
 
 ### NLP - Processamento de linguagem natural 
