@@ -277,6 +277,7 @@ Analyses Using Only ANOVA Procedures](https://faculty.washington.edu/leahkf/pubs
   * [How Bayesian inference works - Data Science and Robots Blog](https://brohrer.github.io/how_bayesian_inference_works.html)
   * [bayestestR - Utilities for analyzing Bayesian models and posterior distributions ](https://github.com/easystats/bayestestR#documentation)
   * [Describe and understand Bayesian models and posteriors using bayestestR](ps://easystats.github.io/blog/posts/bayestestr_presentation/)
+  * [Bayesian models in R](https://poissonisfish.wordpress.com/2019/05/01/bayesian-models-in-r/amp/)
 
 ## Distribuições de probabilidade
 
@@ -560,6 +561,8 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Machine Learning Basics - Gradient Boosting & XGBoost](https://shirinsplayground.netlify.com/2018/11/ml_basics_gbm/)
   * [How to use DALEX with the xgboost models](https://pbiecek.github.io/DALEX/articles/DALEX_and_xgboost.html#regression)
   * [The Complete Guide to Decision Trees](https://towardsdatascience.com/the-complete-guide-to-decision-trees-28a4e3c7be14)
+  * [ggparty - ggplot2 visualizations for the partykit package - conditional trees](https://github.com/mmostly-harmless/ggparty)
+  * [Ensemble methods: bagging, boosting and stacking](https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205)
 
 ## knn
 
@@ -874,6 +877,7 @@ Conditional GANs (cGANs)](https://blogs.rstudio.com/tensorflow/posts/2018-09-20-
   * [Demo Week: Time Series Machine Learning with timetk](https://www.business-science.io/code-tools/2017/10/24/demo_week_timetk.html)
   * [7 ways to time series - From Machine Learning To Time Series Forecasting ](https://www.datascience.com/blog/time-series-forecasting-machine-learning-differences)  
   * [TSstudio 0.1.2 - ferramentas para análise descritiva e preditiva de dados de séries temporais interativo](https://ramikrispin.github.io/2018/09/tsstudio-0.1.2/)
+  * [Introduction to optimal changepoint detection algorithms](http://members.cbio.mines-paristech.fr/~thocking/change-tutorial/RK-CptWorkshop.html)
 
 # Slides
 
