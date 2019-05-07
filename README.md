@@ -205,6 +205,14 @@ Making Data-Driven Decisions - MIT](https://bigdataanalytics.mit.edu/)
   * [Running your R script in Docker](https://www.r-bloggers.com/running-your-r-script-in-docker/amp/)
   * [How I implemented googleSignIn in R (shiny) and lived](https://www.r-bloggers.com/how-i-implemented-googlesignin-in-r-shiny-and-lived/amp/)
   * [Shiny Apps for Interactive Data Analysis - Exemplo de Shiny muito bom](https://blog.rsquaredacademy.com/shiny-apps/)
+  * [countdown - Contagem regressiva em um simples cronômetro de contagem regressiva em slides e documentos HTML escritos em R Markdown.](https://github.com/gadenbuie/countdown)
+	* [golem - É um pacote que fornece ferramentas para um melhor fluxo de trabalho para trabalhar em shinyapps](https://thinkr-open.github.io/golem/)
+	* [Lorem-Ipsum-like - Helpers for fast Shiny Prototyping](https://github.com/ThinkR-open/shinipsum)
+	* [fakir - Create Fake Data in R](https://github.com/ThinkR-open/fakir)
+	* [shinysnippets - The goal of shinysnippets is to Installation of snippets](https://github.com/ThinkR-open/shinysnippets)
+	* [Building Big Shiny Apps — A Workflow – 1/2](https://rtask.thinkr.fr/blog/building-big-shiny-apps-a-workflow-1/)
+	* [Building Big Shiny Apps — A Workflow 2/2](https://rtask.thinkr.fr/blog/building-big-shiny-apps-a-workflow-2/)
+	* [Our Package template to design a prod-ready Shiny application](https://rtask.thinkr.fr/blog/our-shiny-template-to-design-a-prod-ready-app/)
 
 # Elastic Search
 
