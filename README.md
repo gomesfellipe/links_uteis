@@ -412,6 +412,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [The Elements of Statistical Learning](https://web.stanford.edu/~hastie/Papers/ESLII.pdf)
   * [R Graphics Cookbook, 2nd edition](https://r-graphics.org/)
   * [Introduction to Econometrics with R](https://www.econometrics-with-r.org/)
+  * [Building Big Shiny Apps - A Workflow](https://thinkr-open.github.io/building-shiny-apps-workflow/)
 
 # Machine Learning
 
