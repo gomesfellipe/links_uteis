@@ -77,6 +77,8 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
   * [The ggforce Awakens (again)](https://www.data-imaginist.com/2019/the-ggforce-awakens-again/)
   * [Graph analysis using the tidyverse](https://rviews.rstudio.com/2019/03/06/intro-to-graph-analysis/)
   * [Tidy correlation tests in R](https://dominicroye.github.io/en/2019/tidy-correlation-tests-in-r/)
+  * [Set Analysis: A face off between Venn diagrams and UpSet plots](https://www.littlemissdata.com/blog/set-analysis)
+  * [3D LEGO models and mosaics from images using R and #tidyverse](https://github.com/ryantimpe/brickr)
 
 ## Animação de Gráficos
 
@@ -413,6 +415,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [R Graphics Cookbook, 2nd edition](https://r-graphics.org/)
   * [Introduction to Econometrics with R](https://www.econometrics-with-r.org/)
   * [Building Big Shiny Apps - A Workflow](https://thinkr-open.github.io/building-shiny-apps-workflow/)
+  * [Free Book: Lecture Notes on Machine Learning](https://www.datasciencecentral.com/profiles/blogs/free-book-lecture-notes-on-machine-learning)
 
 # Machine Learning
 
@@ -473,6 +476,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Introduction to k-Nearest-Neighbors](https://towardsdatascience.com/introduction-to-k-nearest-neighbors-3b534bb11d26)
   * [Regularization in Machine Learning](https://towardsdatascience.com/regularization-in-machine-learning-76441ddcf99a)
   * [Linear, Quadratic, and Regularized Discriminant Analysis](https://www.r-bloggers.com/linear-quadratic-and-regularized-discriminant-analysis/amp/)
+  * [A Tour of Machine Learning Algorithms](https://www.datasciencecentral.com/profiles/blogs/a-tour-of-machine-learning-algorithms)
   
 ## Supervisionado
   
@@ -616,6 +620,8 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Como determinar automaticamente o número de clusters nos seus dados - e mais](https://www.datasciencecentral.com/profiles/blogs/how-to-automatically-determine-the-number-of-clusters-in-your-dat)
   * [Determining The Optimal Number Of Clusters: 3 Must Know Methods](https://www.datanovia.com/en/lessons/determining-the-optimal-number-of-clusters-3-must-know-methods/)
   * [Introdução à Análise de Componentes Principais](https://www.datasciencecentral.com/profiles/blogs/introduction-to-principal-component-analysis)
+  * [uwot umap - An R package implementing the UMAP dimensionality reduction method.](https://github.com/jlmelville/uwot)
+  * [Determining Number of Clusters in One Picture](https://www.datasciencecentral.com/profiles/blogs/determining-number-of-clusters-in-one-picture)
 
 
 
@@ -857,6 +863,8 @@ Conditional GANs (cGANs)](https://blogs.rstudio.com/tensorflow/posts/2018-09-20-
   * [Por que o GEMM está no centro do aprendizado profundo](https://petewarden.com/2015/04/20/why-gemm-is-at-the-heart-of-deep-learning/)
   * [Are Deep Neural Networks Dramatically Overfitted?](https://lilianweng.github.io/lil-log/2019/03/14/are-deep-neural-networks-dramatically-overfitted.html)
   * [Convolutional Neural Networks (CNN) Simplified (Part 4) (Com vídeo!)](http://ucanalytics.com/blogs/convolutional-neural-networks-cnn-simplified-part-4/)
+  * [R interface to Keras](https://keras.rstudio.com/)
+  * [Building Convolutional Neural Networks with Tensorflow](http://ataspinar.com/2017/08/15/building-convolutional-neural-networks-with-tensorflow/)
 
 ## Reconhecimento facial
 
