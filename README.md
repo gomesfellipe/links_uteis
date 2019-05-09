@@ -416,6 +416,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Introduction to Econometrics with R](https://www.econometrics-with-r.org/)
   * [Building Big Shiny Apps - A Workflow](https://thinkr-open.github.io/building-shiny-apps-workflow/)
   * [Free Book: Lecture Notes on Machine Learning](https://www.datasciencecentral.com/profiles/blogs/free-book-lecture-notes-on-machine-learning)
+  * [The Little Book of LDA](https://ldabook.com/what-is-lda.html)
 
 # Machine Learning
 
