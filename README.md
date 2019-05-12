@@ -23,6 +23,7 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
   * [GUIA QUARTZ PARA LIMPEZA DE DADOS](https://escoladedados.org/2016/09/08/guia-quartz-para-limpeza-de-dados/)
   * [Using the ExPanDaR package for panel data exploration](https://joachim-gassen.github.io/2018/10/using-the-expandar-package-for-panel-data-exploration/)
   * [visdat - Preliminary Exploratory Visualisation of Data ](https://github.com/ropensci/visdat)
+  * [A data.table and dplyr tour](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/)
   
 # Amostragem  
   
@@ -34,7 +35,6 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
   
 # Gráficos
 
- 
 ## ggplot2 - based on [The Grammar of Graphics](https://tinyurl.com/y7knbbxr)
 
   * [Top 50 ggplot](http://r-statistics.co/Top50-Ggplot2-Visualizations-MasterList-R-Code.html)
@@ -100,7 +100,7 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
 
 ## Materias
 
-* [Big Data área da saúde](https://drive.google.com/drive/folders/1GCHZdP_TikmIJTi9Xh4dA-GXtUICU5ar)
+  * [Big Data área da saúde](https://drive.google.com/drive/folders/1GCHZdP_TikmIJTi9Xh4dA-GXtUICU5ar)
 
 ## Arquitetura
 
@@ -112,7 +112,6 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
   * [Handling large datasets in R - Grandes bases de dados](https://rpubs.com/msundar/large_data_analysis)
   * ["Kindof" Big Data in R](https://api.ning.com/files/mGVffXP5TsiuDIUOnZTtMw1jLiuoTXkgMOnRCbC4phXv6G40D1AmFAGvfzmW6aY2LpGr4Y*ZzLsIeSdZIAEh7XVc-UfRYZMy/flightsODS.html?utm_campaign=News&utm_medium=Community&utm_source=DataCamp.com.)
   * [Como ler micro dados do ENEM no R](https://pt.stackoverflow.com/questions/154724/como-ler-os-microdados-do-enem-no-r/155387#155387)
-  
   
 # Blogs
 
@@ -147,6 +146,10 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
   * [Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml)
   * [Advanced R by Hadley Wickham - Style guide](http://adv-r.had.co.nz/Style.html)
   * [Pacote datapasta para copiar e colar df,  tbl, dbl](https://github.com/MilesMcBain/datapasta)
+
+# Dicas para Curriculo (CV - Curriculum Vitae)
+
+  * [How to tailor your Academic CV for Data Science roles](https://www.datasciencecentral.com/profiles/blogs/how-to-tailor-your-academic-cv-for-data-science-roles)
   
 # Kaggle
 
@@ -180,6 +183,26 @@ Making Data-Driven Decisions - MIT](https://bigdataanalytics.mit.edu/)
   * [Machine Learning para Cientista de Dados](http://cursos.leg.ufpr.br/ML4all/)
   * [R Learn the language designed for data analysis. This track includes data set-up, machine learning and data visualization.](https://www.kaggle.com/learn/r)
 
+# Shiny
+
+  * [Add tex path to RStudio - Ubuntu - StackOverFlow](https://stackoverflow.com/questions/30601171/add-tex-path-to-r-studio-ubuntu)
+  * [2 ways to permanently set $PATH variable in ubuntu](https://hackprogramming.com/2-ways-to-permanently-set-path-variable-in-ubuntu/)
+  * [yihui/tidytex - Github - issue - pdflatex not found](https://github.com/yihui/tinytex/issues/16)
+  * [yihui/tidytex - Github - issue - Shiny server in Docker #34](https://github.com/yihui/tinytex/issues/34)
+  * [R Sweave: NO TeX installation detected - StackOverFlow](https://stackoverflow.com/questions/47911135/r-sweave-no-tex-installation-detected)
+  * [Building An R Shiny App On Google Cloud To Display BigQuery Data](https://datarunsdeep.com.au/blog/building-r-shiny-app-google-cloud-display-bigquery-data)
+  * [How I implemented googleSignIn in R (shiny) and lived](https://www.r-bloggers.com/how-i-implemented-googlesignin-in-r-shiny-and-lived/amp/)
+  * [Shiny Apps for Interactive Data Analysis - Exemplo de Shiny muito bom](https://blog.rsquaredacademy.com/shiny-apps/)
+  * [countdown - Contagem regressiva em um simples cronômetro de contagem regressiva em slides e documentos HTML escritos em R Markdown.](https://github.com/gadenbuie/countdown)
+	* [golem - É um pacote que fornece ferramentas para um melhor fluxo de trabalho para trabalhar em shinyapps](https://thinkr-open.github.io/golem/)
+	* [Lorem-Ipsum-like - Helpers for fast Shiny Prototyping](https://github.com/ThinkR-open/shinipsum)
+	* [fakir - Create Fake Data in R](https://github.com/ThinkR-open/fakir)
+	* [shinysnippets - The goal of shinysnippets is to Installation of snippets](https://github.com/ThinkR-open/shinysnippets)
+	* [Building Big Shiny Apps — A Workflow – 1/2](https://rtask.thinkr.fr/blog/building-big-shiny-apps-a-workflow-1/)
+	* [Building Big Shiny Apps — A Workflow 2/2](https://rtask.thinkr.fr/blog/building-big-shiny-apps-a-workflow-2/)
+	* [Our Package template to design a prod-ready Shiny application](https://rtask.thinkr.fr/blog/our-shiny-template-to-design-a-prod-ready-app/)
+	* [Shiny com Painel de Fundos de Renda Fixa ](https://www.msperlin.com/shiny/PIRF/)
+
 # Docker para R / Shiny
 
   * [Beginner’s guide to use docker (Build, Run, Push and Pull)](https://medium.com/@deepakshakya/beginners-guide-to-use-docker-build-run-push-and-pull-4a132c094d75)
@@ -193,28 +216,12 @@ Making Data-Driven Decisions - MIT](https://bigdataanalytics.mit.edu/)
   * [How To Dockerize R Shiny App — Part 1](https://towardsdatascience.com/how-to-dockerize-an-r-shiny-app-part-1-d4267659312a)
   * [How To Dockerize an R shiny App — Part 2](https://towardsdatascience.com/how-to-dockerize-an-r-shiny-app-part-2-b029d915e6ac)
   * [Hospedando seu shiny app no now com docker](https://www.curso-r.com/blog/2018-03-05-shiny-now/)
-  * [Add tex path to RStudio - Ubuntu - StackOverFlow](https://stackoverflow.com/questions/30601171/add-tex-path-to-r-studio-ubuntu)
-  * [2 ways to permanently set $PATH variable in ubuntu](https://hackprogramming.com/2-ways-to-permanently-set-path-variable-in-ubuntu/)
-  * [yihui/tidytex - Github - issue - pdflatex not found](https://github.com/yihui/tinytex/issues/16)
-  * [yihui/tidytex - Github - issue - Shiny server in Docker #34](https://github.com/yihui/tinytex/issues/34)
-  * [R Sweave: NO TeX installation detected - StackOverFlow](https://stackoverflow.com/questions/47911135/r-sweave-no-tex-installation-detected)
-  * [Building An R Shiny App On Google Cloud To Display BigQuery Data](https://datarunsdeep.com.au/blog/building-r-shiny-app-google-cloud-display-bigquery-data)
   * [Dockeriser une application Shiny - ThinkR](https://thinkr.fr/dockeriser-application-shiny/)
   * [docker_shiny-server_centos7/Dockerfile - Github](https://github.com/keberwein/docker_shiny-server_centos7/blob/master/Dockerfile)
   * [Shiny Server on Docker: CentOS 7 Edition](https://www.datascienceriot.com//r/shiny-docker/)
   * [Lançamento OpenCPU 2.1: serviços escalonáveis](https://www.opencpu.org/posts/opencpu-201/)
   * [CONTAINERS ARE NOT VMS](https://blog.docker.com/2016/03/containers-are-not-vms/)
   * [Running your R script in Docker](https://www.r-bloggers.com/running-your-r-script-in-docker/amp/)
-  * [How I implemented googleSignIn in R (shiny) and lived](https://www.r-bloggers.com/how-i-implemented-googlesignin-in-r-shiny-and-lived/amp/)
-  * [Shiny Apps for Interactive Data Analysis - Exemplo de Shiny muito bom](https://blog.rsquaredacademy.com/shiny-apps/)
-  * [countdown - Contagem regressiva em um simples cronômetro de contagem regressiva em slides e documentos HTML escritos em R Markdown.](https://github.com/gadenbuie/countdown)
-	* [golem - É um pacote que fornece ferramentas para um melhor fluxo de trabalho para trabalhar em shinyapps](https://thinkr-open.github.io/golem/)
-	* [Lorem-Ipsum-like - Helpers for fast Shiny Prototyping](https://github.com/ThinkR-open/shinipsum)
-	* [fakir - Create Fake Data in R](https://github.com/ThinkR-open/fakir)
-	* [shinysnippets - The goal of shinysnippets is to Installation of snippets](https://github.com/ThinkR-open/shinysnippets)
-	* [Building Big Shiny Apps — A Workflow – 1/2](https://rtask.thinkr.fr/blog/building-big-shiny-apps-a-workflow-1/)
-	* [Building Big Shiny Apps — A Workflow 2/2](https://rtask.thinkr.fr/blog/building-big-shiny-apps-a-workflow-2/)
-	* [Our Package template to design a prod-ready Shiny application](https://rtask.thinkr.fr/blog/our-shiny-template-to-design-a-prod-ready-app/)
 
 # Elastic Search
 
@@ -545,6 +552,18 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 ## Sistema de recomendação
 
   * [Deep Learning para Sistemas de Recomendação (Parte 1) — Introdução](https://medium.com/data-hackers/deep-learning-para-sistemas-de-recomenda%C3%A7%C3%A3o-parte-1-introdu%C3%A7%C3%A3o-b19a896c471e)
+  * [Dataset obtido em grouplens: MovieLens](https://grouplens.org/datasets/movielens/)
+  * [Non-negative matrix factorization](https://en.wikipedia.org/wiki/Non-negative_matrix_factorization)
+  * [Item-item collaborative filtering](https://en.wikipedia.org/wiki/Item-item_collaborative_filtering)
+  * [Recommender system](https://en.wikipedia.org/wiki/Recommender_system#Content-based_filtering%A0)
+  * [k-nearest neighbors algorithm](https://en.wikipedia.org/wiki/K-nearest_neighbors_algorithm)
+  * [Knowledge-based recommender system](https://en.wikipedia.org/wiki/Knowledge-based_recommender_system)
+  * [Cluster analysis](https://en.wikipedia.org/wiki/Cluster_analysis)
+  * [Pearson correlation coefficient](https://en.wikipedia.org/wiki/Pearson_correlation_coefficient)
+  * [Cosine similarity](https://en.wikipedia.org/wiki/Cosine_similarity)
+  * [Bayesian network](https://en.wikipedia.org/wiki/Bayesian_network)
+  * [Hidden Markov model](https://en.wikipedia.org/wiki/Hidden_Markov_model)
+  * [Collaborative filtering](https://en.wikipedia.org/wiki/Collaborative_filtering)
   
 ## Tunnig do modelo
 
@@ -843,6 +862,8 @@ ou organizações maiores.](https://www.r-bloggers.com/shinyproxy-1-1-1-released
   * [TL-GAN: transparent latent-space GAN - interface para alterar rostos com GAN](https://github.com/SummitKwan/transparent_latent_gan)
   * [“GANs” vs “ODEs”: the end of mathematical modeling?](https://towardsdatascience.com/gans-vs-odes-the-end-of-mathematical-modeling-ec158f04acb9)
   * [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)
+  * [Introduction to Turing Learning and GANs](https://towardsdatascience.com/comprehensive-introduction-to-turing-learning-and-gans-part-1-81f6d02e644d)
+  * [How do Graph Neural Networks Work?](https://towardsdatascience.com/graph-neural-networks-20d0f8da7df6)
 
 ## Deep Learning  
 
@@ -896,6 +917,7 @@ Conditional GANs (cGANs)](https://blogs.rstudio.com/tensorflow/posts/2018-09-20-
   * [7 ways to time series - From Machine Learning To Time Series Forecasting ](https://www.datascience.com/blog/time-series-forecasting-machine-learning-differences)  
   * [TSstudio 0.1.2 - ferramentas para análise descritiva e preditiva de dados de séries temporais interativo](https://ramikrispin.github.io/2018/09/tsstudio-0.1.2/)
   * [Introduction to optimal changepoint detection algorithms](http://members.cbio.mines-paristech.fr/~thocking/change-tutorial/RK-CptWorkshop.html)
+  * [How a Kalman filter works, in pictures](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
 
 # Slides
 
@@ -918,6 +940,7 @@ Conditional GANs (cGANs)](https://blogs.rstudio.com/tensorflow/posts/2018-09-20-
 
   * [TensorSpace.js - Neural network 3D visualization framework (playgroud)](https://github.com/tensorspace-team/tensorspace)
   * [Experimenting with autoregressive flows in TensorFlow Probability](https://blogs.rstudio.com/tensorflow/posts/2019-04-24-autoregressive-flows/?utm_content=bufferb57dd&utm_medium=social&utm_source=linkedin&utm_campaign=buffer)
+  * [Tadpoles on TensorFlow: Hierarchical partial pooling with tfprobability](https://blogs.rstudio.com/tensorflow/posts/2019-05-06-tadpoles-on-tensorflow/?utm_content=buffer64b1f&utm_medium=social&utm_source=linkedin&utm_campaign=buffer)
 
 # Text Mining
   
@@ -959,6 +982,7 @@ Stanford University School of Engineering
 ](https://www.youtube.com/watch?v=ERibwqs9p38)
   * [SMART Information Retrieval System - Wikipedia](https://en.wikipedia.org/wiki/SMART_Information_Retrieval_System)
   * [textfeatures  - Easily extract useful features from character objects.](https://textfeatures.mikewk.com/)
+  * [Análise de dados: Latent Dirichlet Allocation (LDA) Aplicada em Textos Jornalistícos](https://blog.analystats.com/pt/2019/05/02/an%C3%A1lise-de-dados-latent-dirichlet-allocation-lda-aplicada-em-textos-jornalist%C3%ADcos/)
 
 
 ### NLP - Processamento de linguagem natural 
