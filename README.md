@@ -79,6 +79,8 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
   * [Tidy correlation tests in R](https://dominicroye.github.io/en/2019/tidy-correlation-tests-in-r/)
   * [Set Analysis: A face off between Venn diagrams and UpSet plots](https://www.littlemissdata.com/blog/set-analysis)
   * [3D LEGO models and mosaics from images using R and #tidyverse](https://github.com/ryantimpe/brickr)
+  * [scatterD3 - Um widget HTML R para visualização de gráficos de dispersão interativos. Ele é baseado no pacote R de htmlwidgets e na biblioteca javascript d3.js.](https://github.com/juba/scatterd3)
+  * [ggalt - Extra Coordinate Systems, Geoms, Statistical Transformations, Scales & Fonts for ‘ggplot2’](https://github.com/hrbrmstr/ggalt)
 
 ## Animação de Gráficos
 
@@ -158,7 +160,7 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
   * [STUDENT PERFORMANCE IN EXAMS](https://www.kaggle.com/karlentsatinyan/student-exams-analysis-classification)
   * [Data Science with Compassion](https://www.kaggle.com/arthurpaulino/data-science-with-compassion)
   * [Spatial analysis tutorial](https://www.kaggle.com/arthurpaulino/spatial-analysis-tutorial)  
-  * [Good Feature Building Techniques — Tricks for Kaggle — My Kaggle Code Repository](https://becominghuman.ai/good-feature-building-techniques-tricks-for-kaggle-my-kaggle-code-repository-c953b934f1e6)
+  * [Good Feature Building Techniques — Tricks for Kaggle — My Kaggle Code Repository](https://becominghuman.ai/good-feature-building-techniques-tricks-for-kaggle-my-kaggle-code-repository-c953b934f1e6)
 
 
 # Cursos Gratuitos diversos
@@ -182,46 +184,6 @@ Making Data-Driven Decisions - MIT](https://bigdataanalytics.mit.edu/)
   * [Mais de 100 cursos de Harvard, gratuitos e com certificado](http://www.estudosbrasil.com/2018/07/mais-de-100-cursos-de-harvard-gratuitos.html?m=1)
   * [Machine Learning para Cientista de Dados](http://cursos.leg.ufpr.br/ML4all/)
   * [R Learn the language designed for data analysis. This track includes data set-up, machine learning and data visualization.](https://www.kaggle.com/learn/r)
-
-# Shiny
-
-  * [Add tex path to RStudio - Ubuntu - StackOverFlow](https://stackoverflow.com/questions/30601171/add-tex-path-to-r-studio-ubuntu)
-  * [2 ways to permanently set $PATH variable in ubuntu](https://hackprogramming.com/2-ways-to-permanently-set-path-variable-in-ubuntu/)
-  * [yihui/tidytex - Github - issue - pdflatex not found](https://github.com/yihui/tinytex/issues/16)
-  * [yihui/tidytex - Github - issue - Shiny server in Docker #34](https://github.com/yihui/tinytex/issues/34)
-  * [R Sweave: NO TeX installation detected - StackOverFlow](https://stackoverflow.com/questions/47911135/r-sweave-no-tex-installation-detected)
-  * [Building An R Shiny App On Google Cloud To Display BigQuery Data](https://datarunsdeep.com.au/blog/building-r-shiny-app-google-cloud-display-bigquery-data)
-  * [How I implemented googleSignIn in R (shiny) and lived](https://www.r-bloggers.com/how-i-implemented-googlesignin-in-r-shiny-and-lived/amp/)
-  * [Shiny Apps for Interactive Data Analysis - Exemplo de Shiny muito bom](https://blog.rsquaredacademy.com/shiny-apps/)
-  * [countdown - Contagem regressiva em um simples cronômetro de contagem regressiva em slides e documentos HTML escritos em R Markdown.](https://github.com/gadenbuie/countdown)
-	* [golem - É um pacote que fornece ferramentas para um melhor fluxo de trabalho para trabalhar em shinyapps](https://thinkr-open.github.io/golem/)
-	* [Lorem-Ipsum-like - Helpers for fast Shiny Prototyping](https://github.com/ThinkR-open/shinipsum)
-	* [fakir - Create Fake Data in R](https://github.com/ThinkR-open/fakir)
-	* [shinysnippets - The goal of shinysnippets is to Installation of snippets](https://github.com/ThinkR-open/shinysnippets)
-	* [Building Big Shiny Apps — A Workflow – 1/2](https://rtask.thinkr.fr/blog/building-big-shiny-apps-a-workflow-1/)
-	* [Building Big Shiny Apps — A Workflow 2/2](https://rtask.thinkr.fr/blog/building-big-shiny-apps-a-workflow-2/)
-	* [Our Package template to design a prod-ready Shiny application](https://rtask.thinkr.fr/blog/our-shiny-template-to-design-a-prod-ready-app/)
-	* [Shiny com Painel de Fundos de Renda Fixa ](https://www.msperlin.com/shiny/PIRF/)
-
-# Docker para R / Shiny
-
-  * [Beginner’s guide to use docker (Build, Run, Push and Pull)](https://medium.com/@deepakshakya/beginners-guide-to-use-docker-build-run-push-and-pull-4a132c094d75)
-  * [R Docker tutorial](https://ropenscilabs.github.io/r-docker-tutorial/)
-  * [rize - A robust method to automagically dockerize your R Shiny Application](https://github.com/cole-brokamp/rize)
-  * [Super basic practical guide to Docker and RStudio](https://www.andrewheiss.com/blog/2017/04/27/super-basic-practical-guide-to-docker-and-rstudio/)
-  * [Dockerizando Shiny Apps](https://www.rmining.net/2015/04/30/dockerizando-shiny-apps/index.html)
-  * [YOUTUBE: Docker + Banco de Dados: Descomplicando a montagem de ambientes (Desenvolvimento e Testes)](https://www.youtube.com/watch?v=CNdopXlTEb0&app=desktop)
-  * [rocker-org/rocker - Using the RStudio image](https://github.com/rocker-org/rocker/wiki/Using-the-RStudio-image)
-  * [github: rocker-org/rocker-versioned com latex](https://github.com/rocker-org/rocker-versioned/blob/master/verse/Dockerfile)
-  * [How To Dockerize R Shiny App — Part 1](https://towardsdatascience.com/how-to-dockerize-an-r-shiny-app-part-1-d4267659312a)
-  * [How To Dockerize an R shiny App — Part 2](https://towardsdatascience.com/how-to-dockerize-an-r-shiny-app-part-2-b029d915e6ac)
-  * [Hospedando seu shiny app no now com docker](https://www.curso-r.com/blog/2018-03-05-shiny-now/)
-  * [Dockeriser une application Shiny - ThinkR](https://thinkr.fr/dockeriser-application-shiny/)
-  * [docker_shiny-server_centos7/Dockerfile - Github](https://github.com/keberwein/docker_shiny-server_centos7/blob/master/Dockerfile)
-  * [Shiny Server on Docker: CentOS 7 Edition](https://www.datascienceriot.com//r/shiny-docker/)
-  * [Lançamento OpenCPU 2.1: serviços escalonáveis](https://www.opencpu.org/posts/opencpu-201/)
-  * [CONTAINERS ARE NOT VMS](https://blog.docker.com/2016/03/containers-are-not-vms/)
-  * [Running your R script in Docker](https://www.r-bloggers.com/running-your-r-script-in-docker/amp/)
 
 # Elastic Search
 
@@ -642,6 +604,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Introdução à Análise de Componentes Principais](https://www.datasciencecentral.com/profiles/blogs/introduction-to-principal-component-analysis)
   * [uwot umap - An R package implementing the UMAP dimensionality reduction method.](https://github.com/jlmelville/uwot)
   * [Determining Number of Clusters in One Picture](https://www.datasciencecentral.com/profiles/blogs/determining-number-of-clusters-in-one-picture)
+  * [explor - é um pacote R para permitir a exploração interativa de resultados de análise multivariada.](https://github.com/juba/explor)
 
 
 
@@ -734,6 +697,11 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [finalfit package provides functions that help you quickly create elegant final results](https://finalfit.org/articles/finalfit.html)
   * [bestNormalize: Flexibly calculate the best normalizing transformation for a vector
 Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize)
+  * [needs is a simple R package to make package loading / installation hassle-free](https://github.com/joshkatz/needs)
+  * [progress - Progress bar in your R terminal](https://github.com/r-lib/progress#readme)
+  * [stressR - A set of stress tests for CPU, memory, and hdd, callable by R](https://github.com/shinra-dev/stressR)
+  * [memuse - An R package of utilities for benchmarking and optimization ](https://github.com/shinra-dev/memuse)
+  * [checkpoint - Install R packages from snapshots on checkpoint-server](https://github.com/revolutionanalytics/checkpoint)
 
 # RMarkdown
 
@@ -790,6 +758,26 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [waypointer - Simple animated waypoints for shiny](https://github.com/RinteRface/waypointer)
   * [Styling DataTables](http://www.stencilled.me/post/2019-04-20-stylingdt/)
   * [Stencilled - Download and Email reports in R Shiny app](http://www.stencilled.me/post/2019-04-14-downloadshiny/)
+  * [rintrojspacote -  R integra o Intro.js ao Shiny, para que os usuários possam adicionar facilmente instruções ao seu aplicativo sem precisar usar HTML, CSS ou JavaScript](https://carlganz.github.io/rintrojs/)
+  * [Add tex path to RStudio - Ubuntu - StackOverFlow](https://stackoverflow.com/questions/30601171/add-tex-path-to-r-studio-ubuntu)
+  * [2 ways to permanently set $PATH variable in ubuntu](https://hackprogramming.com/2-ways-to-permanently-set-path-variable-in-ubuntu/)
+  * [yihui/tidytex - Github - issue - pdflatex not found](https://github.com/yihui/tinytex/issues/16)
+  * [yihui/tidytex - Github - issue - Shiny server in Docker #34](https://github.com/yihui/tinytex/issues/34)
+  * [R Sweave: NO TeX installation detected - StackOverFlow](https://stackoverflow.com/questions/47911135/r-sweave-no-tex-installation-detected)
+  * [Building An R Shiny App On Google Cloud To Display BigQuery Data](https://datarunsdeep.com.au/blog/building-r-shiny-app-google-cloud-display-bigquery-data)
+  * [How I implemented googleSignIn in R (shiny) and lived](https://www.r-bloggers.com/how-i-implemented-googlesignin-in-r-shiny-and-lived/amp/)
+  * [Shiny Apps for Interactive Data Analysis - Exemplo de Shiny muito bom](https://blog.rsquaredacademy.com/shiny-apps/)
+  * [countdown - Contagem regressiva em um simples cronômetro de contagem regressiva em slides e documentos HTML escritos em R Markdown.](https://github.com/gadenbuie/countdown)
+	* [golem - É um pacote que fornece ferramentas para um melhor fluxo de trabalho para trabalhar em shinyapps](https://thinkr-open.github.io/golem/)
+	* [Lorem-Ipsum-like - Helpers for fast Shiny Prototyping](https://github.com/ThinkR-open/shinipsum)
+	* [fakir - Create Fake Data in R](https://github.com/ThinkR-open/fakir)
+	* [shinysnippets - The goal of shinysnippets is to Installation of snippets](https://github.com/ThinkR-open/shinysnippets)
+	* [Building Big Shiny Apps — A Workflow – 1/2](https://rtask.thinkr.fr/blog/building-big-shiny-apps-a-workflow-1/)
+	* [Building Big Shiny Apps — A Workflow 2/2](https://rtask.thinkr.fr/blog/building-big-shiny-apps-a-workflow-2/)
+	* [Our Package template to design a prod-ready Shiny application](https://rtask.thinkr.fr/blog/our-shiny-template-to-design-a-prod-ready-app/)
+	* [Shiny com Painel de Fundos de Renda Fixa ](https://www.msperlin.com/shiny/PIRF/)
+	* [Getting started with the manipulateWidget package (quase um grid.arrange() para shiny)](https://cran.r-project.org/web/packages/manipulateWidget/vignettes/manipulateWidgets.html)
+	* [shinytoastr - Notifications in Shiny, via toastr](https://github.com/mangothecat/shinytoastr)
 
 ## Shinydashboard
 
@@ -813,6 +801,26 @@ ou organizações maiores.](https://www.r-bloggers.com/shinyproxy-1-1-1-released
   * [xameeramir/default nginx configuration file - Github](https://gist.github.com/xameeramir/a5cb675fb6a6a64098365e89a239541d)
   * [Inicie o RStudio Server no Google Cloud com duas linhas de R](https://code.markedmondson.me/launch-rstudio-server-google-cloud-in-two-lines-r/)
   * [Configuração e utilização do RStudio e Shiny Server na AWS](http://rpubs.com/thop/r-aws)
+
+## Docker para R / Shiny
+
+  * [Beginner’s guide to use docker (Build, Run, Push and Pull)](https://medium.com/@deepakshakya/beginners-guide-to-use-docker-build-run-push-and-pull-4a132c094d75)
+  * [R Docker tutorial](https://ropenscilabs.github.io/r-docker-tutorial/)
+  * [rize - A robust method to automagically dockerize your R Shiny Application](https://github.com/cole-brokamp/rize)
+  * [Super basic practical guide to Docker and RStudio](https://www.andrewheiss.com/blog/2017/04/27/super-basic-practical-guide-to-docker-and-rstudio/)
+  * [Dockerizando Shiny Apps](https://www.rmining.net/2015/04/30/dockerizando-shiny-apps/index.html)
+  * [YOUTUBE: Docker + Banco de Dados: Descomplicando a montagem de ambientes (Desenvolvimento e Testes)](https://www.youtube.com/watch?v=CNdopXlTEb0&app=desktop)
+  * [rocker-org/rocker - Using the RStudio image](https://github.com/rocker-org/rocker/wiki/Using-the-RStudio-image)
+  * [github: rocker-org/rocker-versioned com latex](https://github.com/rocker-org/rocker-versioned/blob/master/verse/Dockerfile)
+  * [How To Dockerize R Shiny App — Part 1](https://towardsdatascience.com/how-to-dockerize-an-r-shiny-app-part-1-d4267659312a)
+  * [How To Dockerize an R shiny App — Part 2](https://towardsdatascience.com/how-to-dockerize-an-r-shiny-app-part-2-b029d915e6ac)
+  * [Hospedando seu shiny app no now com docker](https://www.curso-r.com/blog/2018-03-05-shiny-now/)
+  * [Dockeriser une application Shiny - ThinkR](https://thinkr.fr/dockeriser-application-shiny/)
+  * [docker_shiny-server_centos7/Dockerfile - Github](https://github.com/keberwein/docker_shiny-server_centos7/blob/master/Dockerfile)
+  * [Shiny Server on Docker: CentOS 7 Edition](https://www.datascienceriot.com//r/shiny-docker/)
+  * [Lançamento OpenCPU 2.1: serviços escalonáveis](https://www.opencpu.org/posts/opencpu-201/)
+  * [CONTAINERS ARE NOT VMS](https://blog.docker.com/2016/03/containers-are-not-vms/)
+  * [Running your R script in Docker](https://www.r-bloggers.com/running-your-r-script-in-docker/amp/)
 
 ## Highcharter 
   
@@ -918,6 +926,7 @@ Conditional GANs (cGANs)](https://blogs.rstudio.com/tensorflow/posts/2018-09-20-
   * [TSstudio 0.1.2 - ferramentas para análise descritiva e preditiva de dados de séries temporais interativo](https://ramikrispin.github.io/2018/09/tsstudio-0.1.2/)
   * [Introduction to optimal changepoint detection algorithms](http://members.cbio.mines-paristech.fr/~thocking/change-tutorial/RK-CptWorkshop.html)
   * [How a Kalman filter works, in pictures](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
+  * [ggseas - seasonal adjustment on the fly extension for ggplot2](https://github.com/ellisp/ggseas)
 
 # Slides
 
@@ -990,7 +999,7 @@ Stanford University School of Engineering
   * [cleanNLP - R package providing annotators and a tidy data model for natural language processing](https://github.com/statsmaths/cleannlp)
   * [Build a Simple Cosine Similarity Search Engine in R](http://rstudio-pubs-static.s3.amazonaws.com/266142_e947ad96bead4abdb3d0fa8a539f7511.html)
   * [Build a search engine in 20 minutes or less](https://anythingbutrbitrary.blogspot.com/2013/03/build-search-engine-in-20-minutes-or.html)
-  * [How to get started with Word2Vec — and then how to make it work](https://medium.freecodecamp.org/how-to-get-started-with-word2vec-and-then-how-to-make-it-work-d0a2fca9dad3)
+  * [How to get started with Word2Vec — and then how to make it work](https://medium.freecodecamp.org/how-to-get-started-with-word2vec-and-then-how-to-make-it-work-d0a2fca9dad3)
   * [Latent semantic analysis](https://en.wikipedia.org/wiki/Latent_semantic_analysis)
   * [Stop Using word2vec](https://multithreaded.stitchfix.com/blog/2017/10/18/stop-using-word2vec/)
   * [Word Tensors](https://multithreaded.stitchfix.com/blog/2017/10/25/word-tensors/)
