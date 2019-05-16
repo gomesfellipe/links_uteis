@@ -772,12 +772,14 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 	* [Lorem-Ipsum-like - Helpers for fast Shiny Prototyping](https://github.com/ThinkR-open/shinipsum)
 	* [fakir - Create Fake Data in R](https://github.com/ThinkR-open/fakir)
 	* [shinysnippets - The goal of shinysnippets is to Installation of snippets](https://github.com/ThinkR-open/shinysnippets)
+	* [Intro Shiny Modules](https://beta.rstudioconnect.com/content/2816/Shiny-Modules.html)
 	* [Building Big Shiny Apps — A Workflow – 1/2](https://rtask.thinkr.fr/blog/building-big-shiny-apps-a-workflow-1/)
 	* [Building Big Shiny Apps — A Workflow 2/2](https://rtask.thinkr.fr/blog/building-big-shiny-apps-a-workflow-2/)
 	* [Our Package template to design a prod-ready Shiny application](https://rtask.thinkr.fr/blog/our-shiny-template-to-design-a-prod-ready-app/)
 	* [Shiny com Painel de Fundos de Renda Fixa ](https://www.msperlin.com/shiny/PIRF/)
 	* [Getting started with the manipulateWidget package (quase um grid.arrange() para shiny)](https://cran.r-project.org/web/packages/manipulateWidget/vignettes/manipulateWidgets.html)
 	* [shinytoastr - Notifications in Shiny, via toastr](https://github.com/mangothecat/shinytoastr)
+	* [shinyF7 - shiny API for Framework7 (IOS/android)](https://github.com/RinteRface/shinyF7)
 
 ## Shinydashboard
 
