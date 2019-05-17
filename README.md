@@ -786,6 +786,8 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 
   * [Visualising US Voting Records with shinydashboard](https://www.gokhan.io/post/adavis/)
   * [Boas práticas de dashboards ShinyDashboards para Finanças](https://www.r-bloggers.com/using-shiny-dashboards-for-financial-analysis/)
+  * [bs4Dash - Bootstrap 4 shinydashboard using AdminLTE3](https://github.com/RinteRface/bs4Dash)
+  * [argonR - argonDash - Argon dashboard template](https://github.com/RinteRface/argonDash)
   
 ## Shiny Server
 
