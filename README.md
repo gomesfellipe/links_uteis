@@ -129,6 +129,7 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
   * [Data Science Academy](http://datascienceacademy.com.br/blog)
   * [DataCamp - Official Blog](https://www.datacamp.com/community/blog)
   * [Ensina.AI](https://medium.com/ensina-ai)
+  * [colah's blog - Artigos bons sobre Redes Neurais](http://colah.github.io/)
   
 # Bases de dados legais
 
