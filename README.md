@@ -81,6 +81,7 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
   * [3D LEGO models and mosaics from images using R and #tidyverse](https://github.com/ryantimpe/brickr)
   * [scatterD3 - Um widget HTML R para visualização de gráficos de dispersão interativos. Ele é baseado no pacote R de htmlwidgets e na biblioteca javascript d3.js.](https://github.com/juba/scatterd3)
   * [ggalt - Extra Coordinate Systems, Geoms, Statistical Transformations, Scales & Fonts for ‘ggplot2’](https://github.com/hrbrmstr/ggalt)
+  * [The 'see' package: beautiful figures for easystats](https://easystats.github.io/blog/posts/see_presentation/)
 
 ## Animação de Gráficos
 
@@ -99,6 +100,10 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
   * [Alpha Vantage - Free APIs for Realtime and Historical Financial Data, Technical Analysis, Charting, and More!](https://www.alphavantage.co/)
      
 # Big Data
+
+## Banco de Dados
+
+  * [Mongolite User Manual](https://jeroen.github.io/mongolite/)
 
 ## Materias
 
@@ -149,6 +154,7 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
   * [Google's R Style Guide](https://google.github.io/styleguide/Rguide.xml)
   * [Advanced R by Hadley Wickham - Style guide](http://adv-r.had.co.nz/Style.html)
   * [Pacote datapasta para copiar e colar df,  tbl, dbl](https://github.com/MilesMcBain/datapasta)
+  * [Building Reproducible Data Packages with DataPackageR](https://ropensci.org/blog/2018/09/18/datapackager/)
 
 # Dicas para Curriculo (CV - Curriculum Vitae)
 
@@ -488,6 +494,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 
   * [Interpreting Generalized Linear Models](https://www.r-bloggers.com/interpreting-generalized-linear-models/amp/)
   * [Descida de Gradiente para Regressão Logística Simplificada - Guia Visual Passo a Passo](http://ucanalytics.com/blogs/gradient-descent-logistic-regression-simplified-step-step-visual-guide/)
+  * [Curso: GAMs in R: by Noam Ross](https://github.com/noamross/gams-in-r-course)
   
 ## Modelos Mistos
 
@@ -511,6 +518,9 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Critérios de Seleção de Modelos](https://uc-r.github.io/model_selection)
   * [DALEX - Descriptive mAchine Learning EXplanations ](https://github.com/pbiecek/DALEX/)
   * [DALEX for Multi Layer Perceptron with H2O and Keras](https://rawgit.com/pbiecek/DALEX_docs/master/vignettes/DALEX_and_keras.html)
+  * [xaibot - conversas com modelos preditivos!](http://smarterpoland.pl/index.php/2019/05/xaibot-conversations-with-predictive-models/)
+  * [Descriptive mAchine Learning EXplanations <https://pbiecek.github.io/DALEX/>](https://github.com/pbiecek/DALEX/)
+  * [How to use DALEX with parsnip](https://raw.githack.com/pbiecek/DALEX_docs/master/vignettes/DALEX_parsnip.html)
 
 ## Sistema de recomendação
 
@@ -606,8 +616,11 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [uwot umap - An R package implementing the UMAP dimensionality reduction method.](https://github.com/jlmelville/uwot)
   * [Determining Number of Clusters in One Picture](https://www.datasciencecentral.com/profiles/blogs/determining-number-of-clusters-in-one-picture)
   * [explor - é um pacote R para permitir a exploração interativa de resultados de análise multivariada.](https://github.com/juba/explor)
+  * [Quick and easy t-SNE analysis in R](https://intobioinformatics.wordpress.com/2019/05/30/quick-and-easy-t-sne-analysis-in-r/)
 
+## Aprendizado por reforço
 
+  * [Using Reinforcement Learning to play Super Mario Bros on NES using TensorFlow](https://towardsdatascience.com/using-reinforcement-learning-to-play-super-mario-bros-on-nes-using-tensorflow-31281e35825)
 
 ## Semi-Supervisionado
 
@@ -703,6 +716,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [stressR - A set of stress tests for CPU, memory, and hdd, callable by R](https://github.com/shinra-dev/stressR)
   * [memuse - An R package of utilities for benchmarking and optimization ](https://github.com/shinra-dev/memuse)
   * [checkpoint - Install R packages from snapshots on checkpoint-server](https://github.com/revolutionanalytics/checkpoint)
+  * [emayili: Sending Email from R](https://datawookie.netlify.com/blog/2019/05/emayili-sending-email-from-r/)
 
 # RMarkdown
 
@@ -781,6 +795,8 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 	* [Getting started with the manipulateWidget package (quase um grid.arrange() para shiny)](https://cran.r-project.org/web/packages/manipulateWidget/vignettes/manipulateWidgets.html)
 	* [shinytoastr - Notifications in Shiny, via toastr](https://github.com/mangothecat/shinytoastr)
 	* [shinyF7 - shiny API for Framework7 (IOS/android)](https://github.com/RinteRface/shinyF7)
+	* [reactlog - Mostra o percurso dos reativos no aplicativo](https://rstudio.github.io/reactlog/)
+	* [Bookmarking state: users can save the state of an application and get a URL which will restore the application with that state](https://shiny.rstudio.com/articles/bookmarking-state.html)
 
 ## Shinydashboard
 
