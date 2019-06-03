@@ -488,6 +488,8 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Behind the Scenes with Lasso](https://healthcare.ai/behind-scenes-lasso/)
   * [Difference Between Correlation and Regression in Statistics](https://www.datasciencecentral.com/profiles/blogs/difference-between-correlation-and-regression-in-statistics)
   * [Logistic Regression in One Picture](https://www.datasciencecentral.com/profiles/blogs/logistic-regression-in-one-picture)
+  * [Implementing the Gradient Descent Algorithm in R](https://www.datasciencecentral.com/profiles/blogs/implementing-the-gradient-descent-algorithm-in-r)
+  * [How To Interpret R-squared and Goodness-of-Fit in Regression Analysis](https://www.datasciencecentral.com/profiles/blogs/regression-analysis-how-do-i-interpret-r-squared-and-assess-the)
 
   
 ## Modelos Generalizados
@@ -500,6 +502,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 
   * [Introdução aos Modelos Mistos no RPubs muito boa](https://rpubs.com/melinatarituba/309285)
   * [A Practical Guide to Mixed Models in R](https://www.juliapilowsky.com/2018/10/19/a-practical-guide-to-mixed-models-in-r/)
+  * [Mixture modelling from scratch, in R](https://towardsdatascience.com/mixture-modelling-from-scratch-in-r-5ab7bfc83eef)
 
 ## Seleção de Modelos / Interpretação
   
@@ -569,6 +572,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [The Complete Guide to Decision Trees](https://towardsdatascience.com/the-complete-guide-to-decision-trees-28a4e3c7be14)
   * [ggparty - ggplot2 visualizations for the partykit package - conditional trees](https://github.com/mmostly-harmless/ggparty)
   * [Ensemble methods: bagging, boosting and stacking](https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205)
+  * [Regularization Methods in Random Forests](http://brunaw.com/slides/CASI/presentation.html#1)
 
 ## knn
 
@@ -717,6 +721,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [memuse - An R package of utilities for benchmarking and optimization ](https://github.com/shinra-dev/memuse)
   * [checkpoint - Install R packages from snapshots on checkpoint-server](https://github.com/revolutionanalytics/checkpoint)
   * [emayili: Sending Email from R](https://datawookie.netlify.com/blog/2019/05/emayili-sending-email-from-r/)
+  * [fastmap - Fast map implementation for R ](https://github.com/r-lib/fastmap)
 
 # RMarkdown
 
@@ -893,6 +898,7 @@ ou organizações maiores.](https://www.r-bloggers.com/shinyproxy-1-1-1-released
   * [A Recipe for Training Neural Networks](http://karpathy.github.io/2019/04/25/recipe/)
   * [Introduction to Turing Learning and GANs](https://towardsdatascience.com/comprehensive-introduction-to-turing-learning-and-gans-part-1-81f6d02e644d)
   * [How do Graph Neural Networks Work?](https://towardsdatascience.com/graph-neural-networks-20d0f8da7df6)
+  * [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
 
 ## Deep Learning  
 
@@ -916,6 +922,7 @@ Conditional GANs (cGANs)](https://blogs.rstudio.com/tensorflow/posts/2018-09-20-
   * [Convolutional Neural Networks (CNN) Simplified (Part 4) (Com vídeo!)](http://ucanalytics.com/blogs/convolutional-neural-networks-cnn-simplified-part-4/)
   * [R interface to Keras](https://keras.rstudio.com/)
   * [Building Convolutional Neural Networks with Tensorflow](http://ataspinar.com/2017/08/15/building-convolutional-neural-networks-with-tensorflow/)
+  * [Tesla’s Deep Learning at Scale: Using Billions of Miles to Train Neural Networks](https://towardsdatascience.com/teslas-deep-learning-at-scale-7eed85b235d3)
 
 ## Reconhecimento facial
 
@@ -948,6 +955,8 @@ Conditional GANs (cGANs)](https://blogs.rstudio.com/tensorflow/posts/2018-09-20-
   * [Introduction to optimal changepoint detection algorithms](http://members.cbio.mines-paristech.fr/~thocking/change-tutorial/RK-CptWorkshop.html)
   * [How a Kalman filter works, in pictures](https://www.bzarg.com/p/how-a-kalman-filter-works-in-pictures/)
   * [ggseas - seasonal adjustment on the fly extension for ggplot2](https://github.com/ellisp/ggseas)
+  * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
+  * [First experience of building a LSTM model with TensorFlow](https://blog.goodaudience.com/first-experience-of-building-a-lstm-model-with-tensorflow-e632bde911e1)
 
 # Slides
 
