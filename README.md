@@ -393,6 +393,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Building Big Shiny Apps - A Workflow](https://thinkr-open.github.io/building-shiny-apps-workflow/)
   * [Free Book: Lecture Notes on Machine Learning](https://www.datasciencecentral.com/profiles/blogs/free-book-lecture-notes-on-machine-learning)
   * [The Little Book of LDA](https://ldabook.com/what-is-lda.html)
+  * [Ciencia de dados com R - Introdução - BPAD](https://cdr.ibpad.com.br/)
 
 # Machine Learning
 
@@ -573,6 +574,8 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [ggparty - ggplot2 visualizations for the partykit package - conditional trees](https://github.com/mmostly-harmless/ggparty)
   * [Ensemble methods: bagging, boosting and stacking](https://towardsdatascience.com/ensemble-methods-bagging-boosting-and-stacking-c9214a10a205)
   * [Regularization Methods in Random Forests](http://brunaw.com/slides/CASI/presentation.html#1)
+  * [Codificando Florestas Aleatórias em 100 linhas de código em R *
+](https://www.statworx.com/de/blog/coding-random-forests-in-100-lines-of-code/)
 
 ## knn
 
@@ -802,6 +805,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 	* [shinyF7 - shiny API for Framework7 (IOS/android)](https://github.com/RinteRface/shinyF7)
 	* [reactlog - Mostra o percurso dos reativos no aplicativo](https://rstudio.github.io/reactlog/)
 	* [Bookmarking state: users can save the state of an application and get a URL which will restore the application with that state](https://shiny.rstudio.com/articles/bookmarking-state.html)
+	* [shinyglide -shinyglide is an R package which provides carousel-like or assistant-like components to shiny applications](https://github.com/juba/shinyglide)
 
 ## Shinydashboard
 
@@ -899,6 +903,7 @@ ou organizações maiores.](https://www.r-bloggers.com/shinyproxy-1-1-1-released
   * [Introduction to Turing Learning and GANs](https://towardsdatascience.com/comprehensive-introduction-to-turing-learning-and-gans-part-1-81f6d02e644d)
   * [How do Graph Neural Networks Work?](https://towardsdatascience.com/graph-neural-networks-20d0f8da7df6)
   * [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
+  * [One LEGO at a Time: Explaining the Math of how Neural Networks Learn with Implementation from Scratch](https://medium.com/towards-artificial-intelligence/one-lego-at-a-time-explaining-the-math-of-how-neural-networks-learn-with-implementation-from-scratch-39144a1cf80)
 
 ## Deep Learning  
 
@@ -923,6 +928,7 @@ Conditional GANs (cGANs)](https://blogs.rstudio.com/tensorflow/posts/2018-09-20-
   * [R interface to Keras](https://keras.rstudio.com/)
   * [Building Convolutional Neural Networks with Tensorflow](http://ataspinar.com/2017/08/15/building-convolutional-neural-networks-with-tensorflow/)
   * [Tesla’s Deep Learning at Scale: Using Billions of Miles to Train Neural Networks](https://towardsdatascience.com/teslas-deep-learning-at-scale-7eed85b235d3)
+  * [Deep Learning Models - A collection of various deep learning architectures, models, and tips for TensorFlow and PyTorch in Jupyter Notebooks](https://github.com/rasbt/deeplearning-models)
 
 ## Reconhecimento facial
 
@@ -1022,6 +1028,7 @@ Stanford University School of Engineering
   * [SMART Information Retrieval System - Wikipedia](https://en.wikipedia.org/wiki/SMART_Information_Retrieval_System)
   * [textfeatures  - Easily extract useful features from character objects.](https://textfeatures.mikewk.com/)
   * [Análise de dados: Latent Dirichlet Allocation (LDA) Aplicada em Textos Jornalistícos](https://blog.analystats.com/pt/2019/05/02/an%C3%A1lise-de-dados-latent-dirichlet-allocation-lda-aplicada-em-textos-jornalist%C3%ADcos/)
+  * [d3wordcloud - d3wordcloud is a wrapper for the Word Cloud Layout by Jason Davies based on htmlwidgets](https://github.com/jbkunst/d3wordcloud)
 
 
 ### NLP - Processamento de linguagem natural 
