@@ -394,6 +394,8 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Free Book: Lecture Notes on Machine Learning](https://www.datasciencecentral.com/profiles/blogs/free-book-lecture-notes-on-machine-learning)
   * [The Little Book of LDA](https://ldabook.com/what-is-lda.html)
   * [Ciencia de dados com R - Introdução - BPAD](https://cdr.ibpad.com.br/)
+  * [O Zen do R - Curso R](https://curso-r.github.io/zen-do-r/)
+  * [Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/)
 
 # Machine Learning
 
@@ -525,6 +527,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [xaibot - conversas com modelos preditivos!](http://smarterpoland.pl/index.php/2019/05/xaibot-conversations-with-predictive-models/)
   * [Descriptive mAchine Learning EXplanations <https://pbiecek.github.io/DALEX/>](https://github.com/pbiecek/DALEX/)
   * [How to use DALEX with parsnip](https://raw.githack.com/pbiecek/DALEX_docs/master/vignettes/DALEX_parsnip.html)
+  * [A gentle introduction to tidymodels](https://rviews.rstudio.com/2019/06/19/a-gentle-intro-to-tidymodels/)
 
 ## Sistema de recomendação
 
@@ -806,6 +809,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 	* [reactlog - Mostra o percurso dos reativos no aplicativo](https://rstudio.github.io/reactlog/)
 	* [Bookmarking state: users can save the state of an application and get a URL which will restore the application with that state](https://shiny.rstudio.com/articles/bookmarking-state.html)
 	* [shinyglide -shinyglide is an R package which provides carousel-like or assistant-like components to shiny applications](https://github.com/juba/shinyglide)
+	* [Give httr::progress the ability to talk to shinyWidgets::progressBar.](https://github.com/curso-r/shinyhttr)
 
 ## Shinydashboard
 
@@ -968,6 +972,7 @@ Conditional GANs (cGANs)](https://blogs.rstudio.com/tensorflow/posts/2018-09-20-
 
   * [Slidex - converter ppt para rmd](https://rdrr.io/github/datalorax/slidex/)
   * [Apresentation Ninja with Xaringan](https://slides.yihui.name/xaringan/#1)
+  * [Kunoichi ⚔くノ一 A xaringan theme for the R-Ladies ninja](https://emitanaka.github.io/ninja-theme/themes/kunoichi/kunoichi-theme-example.html#1)
   
 # SQL com R
 
