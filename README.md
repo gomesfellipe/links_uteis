@@ -396,6 +396,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Ciencia de dados com R - Introdução - BPAD](https://cdr.ibpad.com.br/)
   * [O Zen do R - Curso R](https://curso-r.github.io/zen-do-r/)
   * [Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/)
+  * [Mastering Shiny - Joe Cheng](https://mastering-shiny.org/)
 
 # Machine Learning
 
