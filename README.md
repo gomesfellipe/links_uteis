@@ -82,6 +82,7 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
   * [scatterD3 - Um widget HTML R para visualização de gráficos de dispersão interativos. Ele é baseado no pacote R de htmlwidgets e na biblioteca javascript d3.js.](https://github.com/juba/scatterd3)
   * [ggalt - Extra Coordinate Systems, Geoms, Statistical Transformations, Scales & Fonts for ‘ggplot2’](https://github.com/hrbrmstr/ggalt)
   * [The 'see' package: beautiful figures for easystats](https://easystats.github.io/blog/posts/see_presentation/)
+  * [ggfittext - provides a ggplot2 geom for fitting text inside a box](https://wilkox.org/ggfittext/)
 
 ## Animação de Gráficos
 
