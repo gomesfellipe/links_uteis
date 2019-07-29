@@ -109,6 +109,7 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
 ## Materias
 
   * [Big Data área da saúde](https://drive.google.com/drive/folders/1GCHZdP_TikmIJTi9Xh4dA-GXtUICU5ar)
+  * [Using Spark with Kubernetes in R](https://www.youtube.com/watch?v=0VUcyJsi-kk&feature=youtu.be&utm_medium=social&utm_source=linkedin&utm_campaign=postfity&utm_content=postfity43fb5)
 
 ## Arquitetura
 
@@ -259,12 +260,13 @@ Analyses Using Only ANOVA Procedures](https://faculty.washington.edu/leahkf/pubs
 
 ## Inferencia Bayesiana
 
-   * [Tutorial para iniciantes em Inferência Bayesiana](https://www.analyticsvidhya.com/blog/2016/06/bayesian-statistics-beginners-simple-english/)
+  * [Tutorial para iniciantes em Inferência Bayesiana](https://www.analyticsvidhya.com/blog/2016/06/bayesian-statistics-beginners-simple-english/)
   * [Bayesplot - plotando modelo bayesianos](http://mc-stan.org/bayesplot/index.html)  
   * [How Bayesian inference works - Data Science and Robots Blog](https://brohrer.github.io/how_bayesian_inference_works.html)
   * [bayestestR - Utilities for analyzing Bayesian models and posterior distributions ](https://github.com/easystats/bayestestR#documentation)
   * [Describe and understand Bayesian models and posteriors using bayestestR](ps://easystats.github.io/blog/posts/bayestestr_presentation/)
   * [Bayesian models in R](https://poissonisfish.wordpress.com/2019/05/01/bayesian-models-in-r/amp/)
+  * [Bayesian Statistics - A departure from Frequentist Statistics](https://www.linkedin.com/pulse/bayesian-statistics-departure-from-frequentist-rahul-jain)
 
 ## Distribuições de probabilidade
 
@@ -423,6 +425,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [automl package: part 2/2 first steps how to](https://r-posts.com/automl-package-part-2-2-first-steps-how-to/)
   * [Material de machine learning](https://drive.google.com/drive/folders/1XdWtd2rjz09hYRpeb7ie0enezH5VvNMU)
   * [Quando Bayes, Ockham e Shannon se unem para definir o aprendizado de máquina](https://towardsdatascience.com/when-bayes-ockham-and-shannon-come-together-to-define-machine-learning-96422729a1ad)
+  * [Modelagem Avançada (em R) - Encontre o melhor modelo preditivo usando o pacote R / caret / modelgrid](https://datascienceplus.com/find-the-best-predictive-model-using-r-caret-package-modelgrid/)
 
 ## Amostragem para Machine Learning
 
@@ -812,6 +815,8 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 	* [Bookmarking state: users can save the state of an application and get a URL which will restore the application with that state](https://shiny.rstudio.com/articles/bookmarking-state.html)
 	* [shinyglide -shinyglide is an R package which provides carousel-like or assistant-like components to shiny applications](https://github.com/juba/shinyglide)
 	* [Give httr::progress the ability to talk to shinyWidgets::progressBar.](https://github.com/curso-r/shinyhttr)
+	* [shinymeta — a revolution for reproducibility](https://towardsdatascience.com/shinymeta-a-revolution-for-reproducibility-bfda6b329f68)
+	* [What NOT to do when building a shiny app (lessons learned the hard way)](https://adisarid.github.io/post/2019-07-03-shiny_app_lessons/)
 
 ## Shinydashboard
 
@@ -893,6 +898,7 @@ ou organizações maiores.](https://www.r-bloggers.com/shinyproxy-1-1-1-released
 
   * [Data-science? Agile? Cycles? My method for managing data-science projects in the Hi-tech industry.](https://towardsdatascience.com/data-science-agile-cycles-my-method-for-managing-data-science-projects-in-the-hi-tech-industry-b289e8a72818)
   * [Structuring R projects](https://chrisvoncsefalvay.com/structuring-r-projects/)
+  * [ProjectTemplate - ProjectTemplate é um sistema para automatizar as partes impensadas de um projeto de análise de dados:](http://projecttemplate.net/custom_templates.html)
 
 # Redes Neurais 
 
@@ -1050,6 +1056,15 @@ Stanford University School of Engineering
   * [WORD VECTORS WITH TIDY DATA PRINCIPLES - Julia Silge](https://juliasilge.com/blog/tidy-word-vectors/)
   * [GloVe vs word2vec revisited](http://dsnotes.com/post/glove-enwiki/)
   * [Introducing text2vec 0.4](http://dsnotes.com/post/text2vec-0-4/)
+  * [UDPipe Introduction](https://bnosac.github.io/udpipe/docs/doc0.html)
+  * [You did a sentiment analysis with tidytext but you forgot to do dependency parsing to answer WHY is something positive/negative](http://www.bnosac.be/index.php/blog/85-you-did-a-sentiment-analysis-with-tidytext-but-you-forgot-to-do-dependency-parsing-to-answer-why-is-something-positive-negative)
+  * [ruimtehol: R package to Embed All the Things! using StarSpace](https://github.com/bnosac/ruimtehol)
+  * [udpipe version 0.7 for Natural Language Processing (#NLP) alongside #tidytext, #quanteda, #tm](http://www.bnosac.be/index.php/blog/81-udpipe-version-0-7-for-natural-language-processing-nlp-alongside-tidytext-quanteda-tm)
+  * [Uma visão geral das técnicas de extração de palavras-chave](http://www.bnosac.be/index.php/blog/77-an-overview-of-keyword-extraction-techniques)
+  * [Textrank for summarizing text](https://cran.r-project.org/web/packages/textrank/vignettes/textrank.html)
+  * [Exploring the State of the Union Addresses: A Case Study with cleanNLP](https://cran.r-project.org/web/packages/cleanNLP/vignettes/case_study.html)
+  * [Modelos de tópicos BTM: Biterm para texto curto](https://cran.r-project.org/web/packages/BTM/index.html)
+  * [crfsuite - Conditional Random Fields for NLP](https://cran.r-project.org/web/packages/crfsuite/vignettes/crfsuite-nlp.html)
 
 ### Regex
 
