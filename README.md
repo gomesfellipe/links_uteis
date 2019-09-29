@@ -83,6 +83,9 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
   * [ggalt - Extra Coordinate Systems, Geoms, Statistical Transformations, Scales & Fonts for ‘ggplot2’](https://github.com/hrbrmstr/ggalt)
   * [The 'see' package: beautiful figures for easystats](https://easystats.github.io/blog/posts/see_presentation/)
   * [ggfittext - provides a ggplot2 geom for fitting text inside a box](https://wilkox.org/ggfittext/)
+  * [Easyalluvial - Model Response Plots with Categorical Variables](https://www.datisticsblog.com/2019/09/easyalluvial-0-2-1-released/)
+  * [How to make Square (Pie) Charts for Infographics in R](https://www.programmingwithr.com/how-to-make-square-pie-charts-for-infographics-in-r/)
+  * [INTRODUCING 3D GGPLOTS WITH RAYSHADER](https://www.tylermw.com/3d-ggplots-with-rayshader/)
 
 ## Animação de Gráficos
 
@@ -143,7 +146,7 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
   * [Base do netflix](https://data.world/chasweillden/netflix-shows)
   * [Whisks](http://blog.revolutionanalytics.com/2014/01/where-the-whisky-flavor-profile-data-came-from.html)
   
-# Boas práticas para escrever um código
+# Boas práticas para escrever um código (formatacao)
 
   * [Good code vs bad code: why writing good code matters, and how to do it](https://medium.com/@navdeepsingh_2336/good-code-vs-bad-code-35624b4e91bc)
   * [Why I want to write nice R code](https://nicercode.github.io/blog/2013-04-05-why-nice-code/)
@@ -157,6 +160,8 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
   * [Advanced R by Hadley Wickham - Style guide](http://adv-r.had.co.nz/Style.html)
   * [Pacote datapasta para copiar e colar df,  tbl, dbl](https://github.com/MilesMcBain/datapasta)
   * [Building Reproducible Data Packages with DataPackageR](https://ropensci.org/blog/2018/09/18/datapackager/)
+  * [beautifyR - RStudio addin for formatting Rmarkdown tables](https://github.com/mwip/beautifyR)
+  * [remedy - RStudio Addins to Simplify Markdown Writing https://rtask.thinkr.fr](https://github.com/ThinkR-open/remedy)
 
 # Dicas para Curriculo (CV - Curriculum Vitae)
 
@@ -204,6 +209,7 @@ Making Data-Driven Decisions - MIT](https://bigdataanalytics.mit.edu/)
   * [HANDBOOK - Summary and Analysis of Extension Program Evaluation in R](http://rcompanion.org/handbook/)
   * [CheetSheet Super resumão resumido](https://www.sas.upenn.edu/~astocker/lab/teaching-files/PSYC739-2016/probability_cheatsheet.pdf)
   * [A bit more understanding of Cronbach’s alpha](https://theressomethingaboutr.wordpress.com/2019/03/27/a-bit-more-understanding-of-cronbachs-alpha/amp/)
+  * [Where do p-values come from? Fundamental concepts and simulation approach](https://alemorales.info/post/introduction-sampling-distribution/)
 
 ## Estatística Descritiva
 
@@ -267,6 +273,7 @@ Analyses Using Only ANOVA Procedures](https://faculty.washington.edu/leahkf/pubs
   * [Describe and understand Bayesian models and posteriors using bayestestR](ps://easystats.github.io/blog/posts/bayestestr_presentation/)
   * [Bayesian models in R](https://poissonisfish.wordpress.com/2019/05/01/bayesian-models-in-r/amp/)
   * [Bayesian Statistics - A departure from Frequentist Statistics](https://www.linkedin.com/pulse/bayesian-statistics-departure-from-frequentist-rahul-jain)
+  * [Variable selection using Gibbs sampling](https://fabiandablander.com/r/Spike-and-Slab.html)
 
 ## Distribuições de probabilidade
 
@@ -279,6 +286,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 # Análise de Sobrevivência
 
   * [Análise de Sobrevivência Aplicada - Enrico e Suely](https://docs.ufpr.br/~giolo/Livro/)  
+  * [Survival analysis with strata, clusters, frailties and competing risks in in Finalfit](https://www.datasurg.net/2019/09/12/survival-analysis-with-strata-clusters-frailties-and-competing-risks-in-in-finalfit/)
 
 # Extras sobre R
 
@@ -298,6 +306,8 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [askpass - login to RStudio](https://github.com/jeroen/askpass#readme)  
   * [6 Reasons To Learn R For Business](https://www.business-science.io/business/2017/12/27/six-reasons-to-use-R-for-business.html)
   * [staplr - Este pacote fornece funções para manipular arquivos PDF](https://pridiltal.github.io/staplr/)
+  * [giphyr - A R package for giphy API](https://github.com/haozhu233/giphyr)
+  * [Simple Gantt charts in R with ggplot2 … and Microsoft Excel (cronograma para projetos)](https://www.molecularecologist.com/2019/01/simple-gantt-charts-in-r-with-ggplot2-and-the-tidyverse/)
   
 ## Palestras sobre R
 
@@ -431,6 +441,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 
   * [Bootstrap in R](https://www.datacamp.com/community/tutorials/bootstrap-r)
   * [Cross-Validation: Concept and Example in R](https://www.datasciencecentral.com/profiles/blogs/cross-validation-concept-and-example-in-r)
+  * [Beyond normality: the bootstrap method for hypothesis testing](https://alemorales.info/post/beyond-normality-bootstrap-method/)
 
 ## H20  
   
@@ -584,6 +595,8 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Regularization Methods in Random Forests](http://brunaw.com/slides/CASI/presentation.html#1)
   * [Codificando Florestas Aleatórias em 100 linhas de código em R *
 ](https://www.statworx.com/de/blog/coding-random-forests-in-100-lines-of-code/)
+  * [Explaining Predictions: Random Forest Post-hoc Analysis (randomForestExplainer package)](https://notast.netlify.com/post/explaining-predictions-random-forest-post-hoc-analysis-randomforestexplainer-package/)
+  * [Network model trees](https://eeecon.uibk.ac.at/~zeileis/news/networktree/)
 
 ## knn
 
@@ -655,6 +668,8 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 
   * [h3r - Biblioteca de indexação geográfica h3 do Uber](https://github.com/scottmmjackson/h3r)
   * [Geocoding with ggmap and the Google API - Map Porn](https://www.r-bloggers.com/geocoding-with-ggmap-and-the-google-api/amp/)
+  * [geobr: Loads Shapefiles of Official Spatial Data Sets of Brazil](https://cran.r-project.org/web/packages/geobr/index.html)
+  * [Interactive visualization of large-scale spatial data sets in R](https://urbandemographics.blogspot.com/2019/06/interactive-visualization-of-large.html?m=1)
 
 # Música
   
@@ -733,6 +748,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [checkpoint - Install R packages from snapshots on checkpoint-server](https://github.com/revolutionanalytics/checkpoint)
   * [emayili: Sending Email from R](https://datawookie.netlify.com/blog/2019/05/emayili-sending-email-from-r/)
   * [fastmap - Fast map implementation for R ](https://github.com/r-lib/fastmap)
+  * [apexcharter - Htmlwidget for apexcharts.js : A modern JavaScript charting library to build interactive charts and visualizations with simple API.](https://dreamrs.github.io/apexcharter/articles/starting-with-apexcharts.html)
 
 # RMarkdown
 
@@ -751,6 +767,8 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Remedy - A package for easier Markdown writing](https://www.r-bloggers.com/remedy-is-now-on-cran/amp/)
   * [Alternative to Latex for High Quality Reports with RMarkdown](https://speakerdeck.com/rlesur/alternative-to-latex-for-high-quality-reports-with-rmarkdown?slide=14)
   * [Pimp my RMD: a few tips for R Markdown](https://holtzy.github.io/Pimp-my-rmd/)
+  * [Distill for R Markdown Scientific and technical writing, native to the web](https://rstudio.github.io/distill/)
+  * [posterdown - Use RMarkdown to generate PDF Conference Posters via HTML ](https://github.com/brentthorne/posterdown)
 
 # Shiny 
 
@@ -817,6 +835,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 	* [Give httr::progress the ability to talk to shinyWidgets::progressBar.](https://github.com/curso-r/shinyhttr)
 	* [shinymeta — a revolution for reproducibility](https://towardsdatascience.com/shinymeta-a-revolution-for-reproducibility-bfda6b329f68)
 	* [What NOT to do when building a shiny app (lessons learned the hard way)](https://adisarid.github.io/post/2019-07-03-shiny_app_lessons/)
+	* [polished - Authentication and Administration for Shiny apps https://polished.tychobra.com/](https://github.com/Tychobra/polished)
 
 ## Shinydashboard
 
@@ -899,6 +918,7 @@ ou organizações maiores.](https://www.r-bloggers.com/shinyproxy-1-1-1-released
   * [Data-science? Agile? Cycles? My method for managing data-science projects in the Hi-tech industry.](https://towardsdatascience.com/data-science-agile-cycles-my-method-for-managing-data-science-projects-in-the-hi-tech-industry-b289e8a72818)
   * [Structuring R projects](https://chrisvoncsefalvay.com/structuring-r-projects/)
   * [ProjectTemplate - ProjectTemplate é um sistema para automatizar as partes impensadas de um projeto de análise de dados:](http://projecttemplate.net/custom_templates.html)
+  * [Cookiecutter Data Science -  A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.](https://github.com/drivendata/cookiecutter-data-science/blob/master/README.md)
 
 # Redes Neurais 
 
@@ -916,6 +936,8 @@ ou organizações maiores.](https://www.r-bloggers.com/shinyproxy-1-1-1-released
   * [How do Graph Neural Networks Work?](https://towardsdatascience.com/graph-neural-networks-20d0f8da7df6)
   * [Hacker's guide to Neural Networks](http://karpathy.github.io/neuralnets/)
   * [One LEGO at a Time: Explaining the Math of how Neural Networks Learn with Implementation from Scratch](https://medium.com/towards-artificial-intelligence/one-lego-at-a-time-explaining-the-math-of-how-neural-networks-learn-with-implementation-from-scratch-39144a1cf80)
+  * [NEW RSTUDIO ADDINS FOR NETWORK ANALYSIS](http://blog.schochastics.net/post/new-rstudio-addins-for-network-analysis/)
+  * [R Neural Network - (Data Science, Machine Learning and Predictive Analytics)](https://blog.alpha-analysis.com/2019/09/r-neural-network.html)
 
 ## Deep Learning  
 
@@ -941,6 +963,7 @@ Conditional GANs (cGANs)](https://blogs.rstudio.com/tensorflow/posts/2018-09-20-
   * [Building Convolutional Neural Networks with Tensorflow](http://ataspinar.com/2017/08/15/building-convolutional-neural-networks-with-tensorflow/)
   * [Tesla’s Deep Learning at Scale: Using Billions of Miles to Train Neural Networks](https://towardsdatascience.com/teslas-deep-learning-at-scale-7eed85b235d3)
   * [Deep Learning Models - A collection of various deep learning architectures, models, and tips for TensorFlow and PyTorch in Jupyter Notebooks](https://github.com/rasbt/deeplearning-models)
+  * [An End to End Introduction to GANs](https://towardsdatascience.com/an-end-to-end-introduction-to-gans-bf253f1fa52f)
 
 ## Reconhecimento facial
 
@@ -999,6 +1022,7 @@ Conditional GANs (cGANs)](https://blogs.rstudio.com/tensorflow/posts/2018-09-20-
   * [TensorSpace.js - Neural network 3D visualization framework (playgroud)](https://github.com/tensorspace-team/tensorspace)
   * [Experimenting with autoregressive flows in TensorFlow Probability](https://blogs.rstudio.com/tensorflow/posts/2019-04-24-autoregressive-flows/?utm_content=bufferb57dd&utm_medium=social&utm_source=linkedin&utm_campaign=buffer)
   * [Tadpoles on TensorFlow: Hierarchical partial pooling with tfprobability](https://blogs.rstudio.com/tensorflow/posts/2019-05-06-tadpoles-on-tensorflow/?utm_content=buffer64b1f&utm_medium=social&utm_source=linkedin&utm_campaign=buffer)
+  * [R Tensorflow Multiple Linear Regression](https://blog.alpha-analysis.com/2019/08/r-tensorflow-multiple-linear-regression.html)
 
 # Text Mining
   
@@ -1042,6 +1066,7 @@ Stanford University School of Engineering
   * [textfeatures  - Easily extract useful features from character objects.](https://textfeatures.mikewk.com/)
   * [Análise de dados: Latent Dirichlet Allocation (LDA) Aplicada em Textos Jornalistícos](https://blog.analystats.com/pt/2019/05/02/an%C3%A1lise-de-dados-latent-dirichlet-allocation-lda-aplicada-em-textos-jornalist%C3%ADcos/)
   * [d3wordcloud - d3wordcloud is a wrapper for the Word Cloud Layout by Jason Davies based on htmlwidgets](https://github.com/jbkunst/d3wordcloud)
+  * [REORDERING AND FACETTING FOR GGPLOT2 - Julia Silge ](https://juliasilge.com/blog/reorder-within/)
 
 
 ### NLP - Processamento de linguagem natural 
