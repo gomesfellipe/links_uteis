@@ -86,6 +86,7 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
   * [Easyalluvial - Model Response Plots with Categorical Variables](https://www.datisticsblog.com/2019/09/easyalluvial-0-2-1-released/)
   * [How to make Square (Pie) Charts for Infographics in R](https://www.programmingwithr.com/how-to-make-square-pie-charts-for-infographics-in-r/)
   * [INTRODUCING 3D GGPLOTS WITH RAYSHADER](https://www.tylermw.com/3d-ggplots-with-rayshader/)
+  * [Creating a pretty Gantt chart with ggplot2 - cronograma para projetos](https://stats.andrewheiss.com/misc/gantt.html)
 
 ## Animação de Gráficos
 
@@ -93,6 +94,7 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
   * [Communicate your work with animated graphs in R!](https://buzzrbeeline.blog/2018/07/25/communicate-your-work-with-animated-graphs-in-r-2/)
   * [Animating Data Transformations](https://omnianalytics.io/2018/08/30/animating-the-data-transformation-process-with-gganimate/)
   * [gganimate has transitioned to a state of release](https://www.data-imaginist.com/2019/gganimate-has-transitioned-to-a-state-of-release/)
+  * [Sunburst  - Grafico moderno de setores / pizza / rosca](https://cran.r-project.org/web/packages/sunburstR/vignettes/sunburst-2-0-0.html)
    
   
 # APIs
@@ -198,6 +200,7 @@ Making Data-Driven Decisions - MIT](https://bigdataanalytics.mit.edu/)
   * [Mais de 100 cursos de Harvard, gratuitos e com certificado](http://www.estudosbrasil.com/2018/07/mais-de-100-cursos-de-harvard-gratuitos.html?m=1)
   * [Machine Learning para Cientista de Dados](http://cursos.leg.ufpr.br/ML4all/)
   * [R Learn the language designed for data analysis. This track includes data set-up, machine learning and data visualization.](https://www.kaggle.com/learn/r)
+  * [R e PostgreeSQL - como usar o postgreesql a partir do R](https://rpsql.consudata.com.br/)
 
 # Elastic Search
 
@@ -769,6 +772,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Pimp my RMD: a few tips for R Markdown](https://holtzy.github.io/Pimp-my-rmd/)
   * [Distill for R Markdown Scientific and technical writing, native to the web](https://rstudio.github.io/distill/)
   * [posterdown - Use RMarkdown to generate PDF Conference Posters via HTML ](https://github.com/brentthorne/posterdown)
+  * [myprettyreport - Detailed introduction of "myprettyreport" R package](https://blog.myhappydata.com/rstats/2018/11/10/detailed-introduction-of-myprettyreport-r-package.html)
 
 # Shiny 
 
@@ -912,6 +916,7 @@ ou organizações maiores.](https://www.r-bloggers.com/shinyproxy-1-1-1-released
   * [Por que R para ciência de dados - e não Python? ](http://blog.ephorie.de/why-r-for-data-science-and-not-python)
   * [How to Learn Python in 30 days](https://www.datasciencecentral.com/m/blogpost?id=6448529%3ABlogPost%3A792505)
   * [The reticulate package solves the hardest problem in data science: people](https://www.r-bloggers.com/the-reticulate-package-solves-the-hardest-problem-in-data-science-people/amp/)
+  * [rminiconda](https://ryanhafen.com/blog/rminiconda/)
 
 # Projetos
 
@@ -1094,6 +1099,7 @@ Stanford University School of Engineering
 ### Regex
 
   * [RegExplain - Expressões regulares são complicadas. RegExplain torna mais fácil ver o que você está fazendo.](https://www.garrickadenbuie.com/project/regexplain/)
+  * [RVerbalExpressions - make it easier to construct regular expressions using grammar and functionality inspired by VerbalExpressions](https://rverbalexpressions.netlify.com/index.html)
 
   
 ## Tópicos principais
