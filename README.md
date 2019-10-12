@@ -24,6 +24,7 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
   * [Using the ExPanDaR package for panel data exploration](https://joachim-gassen.github.io/2018/10/using-the-expandar-package-for-panel-data-exploration/)
   * [visdat - Preliminary Exploratory Visualisation of Data ](https://github.com/ropensci/visdat)
   * [A data.table and dplyr tour](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/)
+  * [DataExplorer - automate most of data handling and visualization, so that users could focus on studying the data and extracting insights](https://boxuancui.github.io/DataExplorer/)
   
 # Amostragem  
   
@@ -95,6 +96,7 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
   * [Animating Data Transformations](https://omnianalytics.io/2018/08/30/animating-the-data-transformation-process-with-gganimate/)
   * [gganimate has transitioned to a state of release](https://www.data-imaginist.com/2019/gganimate-has-transitioned-to-a-state-of-release/)
   * [Sunburst  - Grafico moderno de setores / pizza / rosca](https://cran.r-project.org/web/packages/sunburstR/vignettes/sunburst-2-0-0.html)
+  * [Aster plot in D3js](https://gist.github.com/bbest/2de0e25d4840c68f2db1)
    
   
 # APIs
@@ -519,6 +521,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Interpreting Generalized Linear Models](https://www.r-bloggers.com/interpreting-generalized-linear-models/amp/)
   * [Descida de Gradiente para Regressão Logística Simplificada - Guia Visual Passo a Passo](http://ucanalytics.com/blogs/gradient-descent-logistic-regression-simplified-step-step-visual-guide/)
   * [Curso: GAMs in R: by Noam Ross](https://github.com/noamross/gams-in-r-course)
+  * [Explaining Logistic Regression as Generalized Linear Model (in use as a classifier)](https://www.datasciencecentral.com/profiles/blogs/explaining-logistic-regression-as-generalized-linear-model-in-use)
   
 ## Modelos Mistos
 
@@ -1095,8 +1098,10 @@ Stanford University School of Engineering
   * [Exploring the State of the Union Addresses: A Case Study with cleanNLP](https://cran.r-project.org/web/packages/cleanNLP/vignettes/case_study.html)
   * [Modelos de tópicos BTM: Biterm para texto curto](https://cran.r-project.org/web/packages/BTM/index.html)
   * [crfsuite - Conditional Random Fields for NLP](https://cran.r-project.org/web/packages/crfsuite/vignettes/crfsuite-nlp.html)
+  * [awesome-nlp - Awesome - A curated list of resources dedicated to Natural Language Processing](https://github.com/keon/awesome-nlp/blob/master/README.md)
 
 ### Regex
+
 
   * [RegExplain - Expressões regulares são complicadas. RegExplain torna mais fácil ver o que você está fazendo.](https://www.garrickadenbuie.com/project/regexplain/)
   * [RVerbalExpressions - make it easier to construct regular expressions using grammar and functionality inspired by VerbalExpressions](https://rverbalexpressions.netlify.com/index.html)
