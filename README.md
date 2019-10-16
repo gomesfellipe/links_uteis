@@ -550,6 +550,8 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Descriptive mAchine Learning EXplanations <https://pbiecek.github.io/DALEX/>](https://github.com/pbiecek/DALEX/)
   * [How to use DALEX with parsnip](https://raw.githack.com/pbiecek/DALEX_docs/master/vignettes/DALEX_parsnip.html)
   * [A gentle introduction to tidymodels](https://rviews.rstudio.com/2019/06/19/a-gentle-intro-to-tidymodels/)
+  * [Model evaluation audit](https://modeloriented.github.io/auditor/articles/model_evaluation_audit.html)
+  * [auditor: uma visita guiada através de resíduos](https://feelml.com/post/2019-09-10-auditor/)
 
 ## Sistema de recomendação
 
