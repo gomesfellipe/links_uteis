@@ -1077,6 +1077,7 @@ Stanford University School of Engineering
   * [Análise de dados: Latent Dirichlet Allocation (LDA) Aplicada em Textos Jornalistícos](https://blog.analystats.com/pt/2019/05/02/an%C3%A1lise-de-dados-latent-dirichlet-allocation-lda-aplicada-em-textos-jornalist%C3%ADcos/)
   * [d3wordcloud - d3wordcloud is a wrapper for the Word Cloud Layout by Jason Davies based on htmlwidgets](https://github.com/jbkunst/d3wordcloud)
   * [REORDERING AND FACETTING FOR GGPLOT2 - Julia Silge ](https://juliasilge.com/blog/reorder-within/)
+  * [quanteda - COLLOCATION ANALYSIS](https://tutorials.quanteda.io/statistical-analysis/collocation/)
 
 
 ### NLP - Processamento de linguagem natural 
