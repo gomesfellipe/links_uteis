@@ -25,6 +25,7 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
   * [visdat - Preliminary Exploratory Visualisation of Data ](https://github.com/ropensci/visdat)
   * [A data.table and dplyr tour](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/)
   * [DataExplorer - automate most of data handling and visualization, so that users could focus on studying the data and extracting insights](https://boxuancui.github.io/DataExplorer/)
+  * [Fast and efficient alternatives to tidyr functions built on data.table](https://github.com/TysonStanley/tidyfast)
   
 # Amostragem  
   
@@ -1016,6 +1017,7 @@ Conditional GANs (cGANs)](https://blogs.rstudio.com/tensorflow/posts/2018-09-20-
   * [Slidex - converter ppt para rmd](https://rdrr.io/github/datalorax/slidex/)
   * [Apresentation Ninja with Xaringan](https://slides.yihui.name/xaringan/#1)
   * [Kunoichi ⚔くノ一 A xaringan theme for the R-Ladies ninja](https://emitanaka.github.io/ninja-theme/themes/kunoichi/kunoichi-theme-example.html#1)
+  * [xaringan template with logo on all slides](https://github.com/gadenbuie/xaringan-logo)
   
 # SQL com R
 
