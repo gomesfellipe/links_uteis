@@ -88,6 +88,8 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
   * [How to make Square (Pie) Charts for Infographics in R](https://www.programmingwithr.com/how-to-make-square-pie-charts-for-infographics-in-r/)
   * [INTRODUCING 3D GGPLOTS WITH RAYSHADER](https://www.tylermw.com/3d-ggplots-with-rayshader/)
   * [Creating a pretty Gantt chart with ggplot2 - cronograma para projetos](https://stats.andrewheiss.com/misc/gantt.html)
+  * [Scientific Journal and Sci-Fi Themed Color Palettes for ggplot2](https://nanx.me/ggsci/articles/ggsci.html)
+  * [MapPalettes](https://github.com/disarm-platform/MapPalettes)
 
 ## Animação de Gráficos
 
