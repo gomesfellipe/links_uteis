@@ -487,6 +487,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Dicas de aprendizado supervisionado - MIT stanford.edu em PORTUGUES](https://stanford.edu/~shervine/l/pt/teaching/cs-229/dicas-aprendizado-supervisionado)
   * [sparklyr: supervised learning](https://samuelmacedo.netlify.com/2018/05/sparklyr-supervised-learning/)
   * [AdaBoost, Clearly Explained - video youtube](https://www.youtube.com/watch?v=LsK-xG1cLYA&feature=youtu.be)
+  * [6 Easy Steps to Learn Naive Bayes Algorithm with codes in Python and R](https://www.analyticsvidhya.com/blog/2017/09/naive-bayes-explained/)
 
 ## Modelos de Regressão
 
