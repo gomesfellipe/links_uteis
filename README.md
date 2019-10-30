@@ -850,6 +850,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 	* [What NOT to do when building a shiny app (lessons learned the hard way)](https://adisarid.github.io/post/2019-07-03-shiny_app_lessons/)
 	* [polished - Authentication and Administration for Shiny apps https://polished.tychobra.com/](https://github.com/Tychobra/polished)
 	* [bsplus - provide a framework to use Bootstrap’s JavaScript-markup API for shiny: http://getbootstrap.com/javascript/](https://github.com/ijlyttle/bsplus)
+	* [bulma.io for Shiny. Contains extensions: bulma-extensions as well as themes](https://github.com/RinteRface/shinybulma)
 
 ## Shinydashboard
 
