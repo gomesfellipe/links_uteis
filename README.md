@@ -980,6 +980,7 @@ Conditional GANs (cGANs)](https://blogs.rstudio.com/tensorflow/posts/2018-09-20-
   * [Tesla’s Deep Learning at Scale: Using Billions of Miles to Train Neural Networks](https://towardsdatascience.com/teslas-deep-learning-at-scale-7eed85b235d3)
   * [Deep Learning Models - A collection of various deep learning architectures, models, and tips for TensorFlow and PyTorch in Jupyter Notebooks](https://github.com/rasbt/deeplearning-models)
   * [An End to End Introduction to GANs](https://towardsdatascience.com/an-end-to-end-introduction-to-gans-bf253f1fa52f)
+  * [Afinal, o que é Deep learning?](https://medium.com/@lauradamaceno/afinal-o-que-é-deep-learning-c6e429d04d20)
 
 ## Reconhecimento facial
 
