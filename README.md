@@ -290,6 +290,7 @@ Analyses Using Only ANOVA Procedures](https://faculty.washington.edu/leahkf/pubs
   * [JOHNSON TRANSFORMATION FOR NON-NORMAL DATA](https://rexplorations.wordpress.com/2015/11/03/johnson-transformation-for-non-normal-data/)
   * [bestNormalize: Flexibly calculate the best normalizing transformation for a vector
 Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize)
+	* [Seeing Theory - site muito legal explicando as distribuicoes de probabilidade com graficos animados](https://seeing-theory.brown.edu/basic-probability/index.html)
 
 # Análise de Sobrevivência
 
@@ -761,6 +762,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [emayili: Sending Email from R](https://datawookie.netlify.com/blog/2019/05/emayili-sending-email-from-r/)
   * [fastmap - Fast map implementation for R ](https://github.com/r-lib/fastmap)
   * [apexcharter - Htmlwidget for apexcharts.js : A modern JavaScript charting library to build interactive charts and visualizations with simple API.](https://dreamrs.github.io/apexcharter/articles/starting-with-apexcharts.html)
+  * [Fast Disk-Based Parallelized Data Manipulation Framework for Larger-than-RAM Data https://diskframe.com](https://github.com/xiaodaigh/disk.frame)
 
 # RMarkdown
 
@@ -954,6 +956,7 @@ ou organizações maiores.](https://www.r-bloggers.com/shinyproxy-1-1-1-released
   * [One LEGO at a Time: Explaining the Math of how Neural Networks Learn with Implementation from Scratch](https://medium.com/towards-artificial-intelligence/one-lego-at-a-time-explaining-the-math-of-how-neural-networks-learn-with-implementation-from-scratch-39144a1cf80)
   * [NEW RSTUDIO ADDINS FOR NETWORK ANALYSIS](http://blog.schochastics.net/post/new-rstudio-addins-for-network-analysis/)
   * [R Neural Network - (Data Science, Machine Learning and Predictive Analytics)](https://blog.alpha-analysis.com/2019/09/r-neural-network.html)
+  * [Matrix Multiplication in Neural Networks - COlor Guided Matrix Multiplication for Binary Classification Task with N = 4](https://www.datasciencecentral.com/profiles/blogs/matrix-multiplication-in-neural-networks)
 
 ## Deep Learning  
 
