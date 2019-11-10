@@ -115,6 +115,8 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
 ## Banco de Dados
 
   * [Mongolite User Manual](https://jeroen.github.io/mongolite/)
+  * [Desapegando do SQL com R](https://www.linkedin.com/pulse/desapegando-do-sql-com-r-pedro-toledo/)
+  * [sparklyr: R interface for Apache Spark](https://spark.rstudio.com/)
 
 ## Materias
 
