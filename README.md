@@ -26,6 +26,7 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
   * [A data.table and dplyr tour](https://atrebas.github.io/post/2019-03-03-datatable-dplyr/)
   * [DataExplorer - automate most of data handling and visualization, so that users could focus on studying the data and extracting insights](https://boxuancui.github.io/DataExplorer/)
   * [Fast and efficient alternatives to tidyr functions built on data.table](https://github.com/TysonStanley/tidyfast)
+  * [Correlation Coefficients in One Picture](https://www.datasciencecentral.com/profiles/blogs/correlation-coefficients-in-one-picture)
   
 # Amostragem  
   
@@ -660,6 +661,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Determining Number of Clusters in One Picture](https://www.datasciencecentral.com/profiles/blogs/determining-number-of-clusters-in-one-picture)
   * [explor - é um pacote R para permitir a exploração interativa de resultados de análise multivariada.](https://github.com/juba/explor)
   * [Quick and easy t-SNE analysis in R](https://intobioinformatics.wordpress.com/2019/05/30/quick-and-easy-t-sne-analysis-in-r/)
+  * [3 distances that every data scientist should](https://towardsdatascience.com/3-distances-that-every-data-scientist-should-know-59d864e5030a)
 
 ## Aprendizado por reforço
 
@@ -855,6 +857,8 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 	* [polished - Authentication and Administration for Shiny apps https://polished.tychobra.com/](https://github.com/Tychobra/polished)
 	* [bsplus - provide a framework to use Bootstrap’s JavaScript-markup API for shiny: http://getbootstrap.com/javascript/](https://github.com/ijlyttle/bsplus)
 	* [bulma.io for Shiny. Contains extensions: bulma-extensions as well as themes](https://github.com/RinteRface/shinybulma)
+	* [reacttable - Interactive data tables for R, based on the React Table library and made with reactR](https://glin.github.io/reactable/articles/examples.html)
+	* [Awesome Shiny Extensions - curated list](https://github.com/nanxstats/awesome-shiny-extensions)
 
 ## Shinydashboard
 
