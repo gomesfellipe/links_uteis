@@ -35,6 +35,7 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
   * [G*Power: Statistical Power Analyses for Windows and Mac](http://www.gpower.hhu.de/)
   * [An Alternative to Cohen's Standardized Mean Difference Effect Size: A Robust Parameter and Confidence Interval in the Two Independent Groups Case.](https://www.researchgate.net/publication/7545280_An_Alternative_to_Cohen%27s_Standardized_Mean_Difference_Effect_Size_A_Robust_Parameter_and_Confidence_Interval_in_the_Two_Independent_Groups_Case)
   * [Effect Sizes for Research: Univariate and Multivariate Applications, Second Edition](https://www.amazon.com/Effect-Sizes-Research-Multivariate-Applications/dp/0415877695)
+  * [SMOTE explained for noobs - Synthetic Minority Over-sampling TEchnique line by line](http://rikunert.com/SMOTE_explained)
   
 # Gráficos
 
@@ -662,6 +663,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [explor - é um pacote R para permitir a exploração interativa de resultados de análise multivariada.](https://github.com/juba/explor)
   * [Quick and easy t-SNE analysis in R](https://intobioinformatics.wordpress.com/2019/05/30/quick-and-easy-t-sne-analysis-in-r/)
   * [3 distances that every data scientist should](https://towardsdatascience.com/3-distances-that-every-data-scientist-should-know-59d864e5030a)
+  * [The essence of Eigenvalues and eigenvectors in Machine Learning](https://towardsdatascience.com/the-essence-of-eigenvalues-and-eigenvectors-in-machine-learning-f28c4727f56f)
 
 ## Aprendizado por reforço
 
