@@ -102,6 +102,7 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
   * [gganimate has transitioned to a state of release](https://www.data-imaginist.com/2019/gganimate-has-transitioned-to-a-state-of-release/)
   * [Sunburst  - Grafico moderno de setores / pizza / rosca](https://cran.r-project.org/web/packages/sunburstR/vignettes/sunburst-2-0-0.html)
   * [Aster plot in D3js](https://gist.github.com/bbest/2de0e25d4840c68f2db1)
+  * [Introducing R2D3](http://www.coppelia.io/2014/08/introducing-r2d3/)
    
   
 # APIs
