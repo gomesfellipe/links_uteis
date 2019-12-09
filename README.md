@@ -615,6 +615,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 ](https://www.statworx.com/de/blog/coding-random-forests-in-100-lines-of-code/)
   * [Explaining Predictions: Random Forest Post-hoc Analysis (randomForestExplainer package)](https://notast.netlify.com/post/explaining-predictions-random-forest-post-hoc-analysis-randomforestexplainer-package/)
   * [Network model trees](https://eeecon.uibk.ac.at/~zeileis/news/networktree/)
+  * [FFTrees - plot elegante dos resultados da arvore de decisao](https://ndphillips.github.io/FFTrees/)
 
 ## knn
 
@@ -683,6 +684,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [ROC Curve Explained in One Picture](https://www.datasciencecentral.com/profiles/blogs/roc-curve-explained-in-one-picture)
   * [Visualizing ML Models with LIME](http://uc-r.github.io/lime)
   * [shapper is on CRAN, it’s an R wrapper over SHAP explainer for black-box models](http://smarterpoland.pl/index.php/2019/03/shapper-is-on-cran-its-an-r-wrapper-over-shap-explainer-for-black-box-models/)
+  * [ROC Curve Example Using Base R](http://rstudio-pubs-static.s3.amazonaws.com/220197_7131fb0b2455404cb95ea8f788d45828.html)
 
 # Mapas
 
