@@ -617,6 +617,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Explaining Predictions: Random Forest Post-hoc Analysis (randomForestExplainer package)](https://notast.netlify.com/post/explaining-predictions-random-forest-post-hoc-analysis-randomforestexplainer-package/)
   * [Network model trees](https://eeecon.uibk.ac.at/~zeileis/news/networktree/)
   * [FFTrees - plot elegante dos resultados da arvore de decisao](https://ndphillips.github.io/FFTrees/)
+  * [A Kaggle Master Explains Gradient Boosting](http://blog.kaggle.com/2017/01/23/a-kaggle-master-explains-gradient-boosting/)
 
 ## knn
 
