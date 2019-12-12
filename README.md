@@ -562,6 +562,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [A gentle introduction to tidymodels](https://rviews.rstudio.com/2019/06/19/a-gentle-intro-to-tidymodels/)
   * [Model evaluation audit](https://modeloriented.github.io/auditor/articles/model_evaluation_audit.html)
   * [auditor: uma visita guiada através de resíduos](https://feelml.com/post/2019-09-10-auditor/)
+  * [ROC Curve Example Using Base R](http://rstudio-pubs-static.s3.amazonaws.com/220197_7131fb0b2455404cb95ea8f788d45828.html)
 
 ## Sistema de recomendação
 
@@ -1124,6 +1125,7 @@ Stanford University School of Engineering
   * [Modelos de tópicos BTM: Biterm para texto curto](https://cran.r-project.org/web/packages/BTM/index.html)
   * [crfsuite - Conditional Random Fields for NLP](https://cran.r-project.org/web/packages/crfsuite/vignettes/crfsuite-nlp.html)
   * [awesome-nlp - Awesome - A curated list of resources dedicated to Natural Language Processing](https://github.com/keon/awesome-nlp/blob/master/README.md)
+  * [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
 
 ### Regex
 
