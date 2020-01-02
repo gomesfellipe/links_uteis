@@ -27,6 +27,12 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
   * [DataExplorer - automate most of data handling and visualization, so that users could focus on studying the data and extracting insights](https://boxuancui.github.io/DataExplorer/)
   * [Fast and efficient alternatives to tidyr functions built on data.table](https://github.com/TysonStanley/tidyfast)
   * [Correlation Coefficients in One Picture](https://www.datasciencecentral.com/profiles/blogs/correlation-coefficients-in-one-picture)
+  * [UpSetR - An R implementation of the UpSet set visualization technique](https://github.com/hms-dbmi/UpSetR)
+  * [naniar - Analise Exploratoria de dados faltantes](http://naniar.njtierney.com/)
+  * [visdat - helps you visualise a dataframe and “get a look at the data”](http://visdat.njtierney.com/)
+  * [DataExplorer - Exploratory Data Analysis (EDA) is the initial and an important phase of data analysis/predictive modeling](https://boxuancui.github.io/DataExplorer/)
+  * [SKIMR: ESTATÍSTICAS BÁSICAS COM R](https://www.curso-r.com/blog/2017-06-17-skimr/)
+  * [correlationfunnel - Methodology, Key Considerations, and FAQs](https://business-science.github.io/correlationfunnel/articles/key_considerations.html)
   
 # Amostragem  
   
