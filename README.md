@@ -424,6 +424,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [O Zen do R - Curso R](https://curso-r.github.io/zen-do-r/)
   * [Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/)
   * [Mastering Shiny - Joe Cheng](https://mastering-shiny.org/)
+  * [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
 
 # Machine Learning
 
@@ -618,6 +619,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Network model trees](https://eeecon.uibk.ac.at/~zeileis/news/networktree/)
   * [FFTrees - plot elegante dos resultados da arvore de decisao](https://ndphillips.github.io/FFTrees/)
   * [A Kaggle Master Explains Gradient Boosting](http://blog.kaggle.com/2017/01/23/a-kaggle-master-explains-gradient-boosting/)
+  * [autoxgboost: Automatic XGBoost using Bayesian Optimization](https://liuyanguu.github.io/post/2018/10/03/autoxgboost-bayesian-optimization/)
 
 ## knn
 
@@ -694,6 +696,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Geocoding with ggmap and the Google API - Map Porn](https://www.r-bloggers.com/geocoding-with-ggmap-and-the-google-api/amp/)
   * [geobr: Loads Shapefiles of Official Spatial Data Sets of Brazil](https://cran.r-project.org/web/packages/geobr/index.html)
   * [Interactive visualization of large-scale spatial data sets in R](https://urbandemographics.blogspot.com/2019/06/interactive-visualization-of-large.html?m=1)
+  * [yutannihilation/ggsflabel - Labels for 'sf' with 'ggplot2' ](https://github.com/yutannihilation/ggsflabel)
 
 # Música
   
@@ -866,6 +869,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 	* [bulma.io for Shiny. Contains extensions: bulma-extensions as well as themes](https://github.com/RinteRface/shinybulma)
 	* [reacttable - Interactive data tables for R, based on the React Table library and made with reactR](https://glin.github.io/reactable/articles/examples.html)
 	* [Awesome Shiny Extensions - curated list](https://github.com/nanxstats/awesome-shiny-extensions)
+	* [shinymobile - miniUI 2.0 brings new inputs for iOs and android](https://dgranjon.shinyapps.io/miniUI2DemoMd/_w_ef1db051/)
 
 ## Shinydashboard
 
@@ -1127,6 +1131,8 @@ Stanford University School of Engineering
   * [crfsuite - Conditional Random Fields for NLP](https://cran.r-project.org/web/packages/crfsuite/vignettes/crfsuite-nlp.html)
   * [awesome-nlp - Awesome - A curated list of resources dedicated to Natural Language Processing](https://github.com/keon/awesome-nlp/blob/master/README.md)
   * [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
+  * [Introduction to Amazon SageMaker Object2Vec](https://aws.amazon.com/ru/blogs/machine-learning/introduction-to-amazon-sagemaker-object2vec/)
+  * [COTA: Improving Uber Customer Care with NLP & Machine Learning - Uber Engineering](https://eng.uber.com/cota/)
 
 ### Regex
 
