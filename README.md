@@ -431,6 +431,9 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Feature Engineering and Selection: A Practical Approach for Predictive Models](http://www.feat.engineering/)
   * [Mastering Shiny - Joe Cheng](https://mastering-shiny.org/)
   * [Hands-On Machine Learning with R](https://bradleyboehmke.github.io/HOML/)
+  * [Creating APIs in R with Plumber](https://www.rplumber.io/docs/index.html)
+  * [Shiny Production with AWS Book](https://business-science.github.io/shiny-production-with-aws-book/)
+  * [YaRrr! The Pirate’s Guide to R](https://bookdown.org/ndphillips/YaRrr/where-did-this-book-come-from.html)
 
 # Machine Learning
 
@@ -1007,6 +1010,7 @@ Conditional GANs (cGANs)](https://blogs.rstudio.com/tensorflow/posts/2018-09-20-
   * [Deep Learning Models - A collection of various deep learning architectures, models, and tips for TensorFlow and PyTorch in Jupyter Notebooks](https://github.com/rasbt/deeplearning-models)
   * [An End to End Introduction to GANs](https://towardsdatascience.com/an-end-to-end-introduction-to-gans-bf253f1fa52f)
   * [Afinal, o que é Deep learning?](https://medium.com/@lauradamaceno/afinal-o-que-é-deep-learning-c6e429d04d20)
+  * [R Markdown Notebooks for "Deep Learning with R](https://github.com/jjallaire/deep-learning-with-r-notebooks)
 
 ## Reconhecimento facial
 
