@@ -242,6 +242,7 @@ Making Data-Driven Decisions - MIT](https://bigdataanalytics.mit.edu/)
   * [Testes de variância e Análise de
 Variância (ANOVA)](https://perguntasaopo.files.wordpress.com/2012/02/aula_10_anova.pdf)
   * [A Visual Demonstration of a Chi Squared Test](https://myko101.home.blog/2019/03/09/a-visual-demonstration-of-a-chi-squared-test/)
+  * [ggstatsplot: ggplot2 Based Plots with Statistical Details](https://github.com/IndrajeetPatil/ggstatsplot)
   
 # Anova / Planejamento de Experimento
 
@@ -280,8 +281,6 @@ Analyses Using Only ANOVA Procedures](https://faculty.washington.edu/leahkf/pubs
   * <https://stats.stackexchange.com/questions/91872/alternatives-to-one-way-anova-for-heteroskedastic-data>
   * <https://stats.idre.ucla.edu/r/faq/how-can-i-do-post-hoc-pairwise-comparisons-in-r/>
   * <https://stackoverflow.com/questions/12288312/in-r-how-do-i-run-a-two-way-anova-that-uses-type-iii-errors-and-looks-at-pairwi>
-
-    
 
 ## Inferencia Bayesiana
 
@@ -329,6 +328,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [giphyr - A R package for giphy API](https://github.com/haozhu233/giphyr)
   * [Simple Gantt charts in R with ggplot2 … and Microsoft Excel (cronograma para projetos)](https://www.molecularecologist.com/2019/01/simple-gantt-charts-in-r-with-ggplot2-and-the-tidyverse/)
   * [Hacking RStudio - useR Colin Fay](https://github.com/ColinFay/user2019workshop/blob/master/part1.pdf)
+  * [Praise useRs when they have done something good, or when they just need it](https://github.com/rladies/praise)
   
 ## Palestras sobre R
 
@@ -881,6 +881,8 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 	* [reacttable - Interactive data tables for R, based on the React Table library and made with reactR](https://glin.github.io/reactable/articles/examples.html)
 	* [Awesome Shiny Extensions - curated list](https://github.com/nanxstats/awesome-shiny-extensions)
 	* [shinymobile - miniUI 2.0 brings new inputs for iOs and android](https://dgranjon.shinyapps.io/miniUI2DemoMd/_w_ef1db051/)
+	* [MobileTrigger Setup: Run R Scripts, Models, Reports with Mobile Device](https://r-bar.net/mobiletrigger-setup-run-r-scripts-mobile-device/)
+	* [vov.css animations for shiny](https://github.com/tyluRp/vov)
 
 ## Shinydashboard
 
