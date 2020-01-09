@@ -328,6 +328,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [staplr - Este pacote fornece funções para manipular arquivos PDF](https://pridiltal.github.io/staplr/)
   * [giphyr - A R package for giphy API](https://github.com/haozhu233/giphyr)
   * [Simple Gantt charts in R with ggplot2 … and Microsoft Excel (cronograma para projetos)](https://www.molecularecologist.com/2019/01/simple-gantt-charts-in-r-with-ggplot2-and-the-tidyverse/)
+  * [Hacking RStudio - useR Colin Fay](https://github.com/ColinFay/user2019workshop/blob/master/part1.pdf)
   
 ## Palestras sobre R
 
@@ -524,6 +525,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Intuitive Machine Learning : Gradient Descent Simplified
 ](http://ucanalytics.com/blogs/intuitive-machine-learning-gradient-descent-simplified/)
   * [Quantile Regression in Python](https://www.datasciencecentral.com/profiles/blogs/quantile-regression-in-python) 
+  * [Basic quantile regression in R](https://insightr.wordpress.com/2019/08/13/basic-quantile-regression/)
   * [What is logistic in the logistic regression?](https://www.r-bloggers.com/what-is-logistic-in-the-logistic-regression/amp/)
   * [Regularization Part 2: Lasso Regression - video youtube](https://www.youtube.com/watch?v=NGf0voTMlcs&feature=youtu.be)
   * [Regularization Part 3: Elastic Net Regression - video youtube](https://www.youtube.com/watch?v=1dKRdX9bfIo&feature=youtu.be)
