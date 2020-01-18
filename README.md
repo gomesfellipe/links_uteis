@@ -95,10 +95,11 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
   * [ggfittext - provides a ggplot2 geom for fitting text inside a box](https://wilkox.org/ggfittext/)
   * [Easyalluvial - Model Response Plots with Categorical Variables](https://www.datisticsblog.com/2019/09/easyalluvial-0-2-1-released/)
   * [How to make Square (Pie) Charts for Infographics in R](https://www.programmingwithr.com/how-to-make-square-pie-charts-for-infographics-in-r/)
-  * [INTRODUCING 3D GGPLOTS WITH RAYSHADER](https://www.tylermw.com/3d-ggplots-with-rayshader/)
-  * [Creating a pretty Gantt chart with ggplot2 - cronograma para projetos](https://stats.andrewheiss.com/misc/gantt.html)
-  * [Scientific Journal and Sci-Fi Themed Color Palettes for ggplot2](https://nanx.me/ggsci/articles/ggsci.html)
-  * [MapPalettes](https://github.com/disarm-platform/MapPalettes)
+  * [INTRODUCING 3D GGPLOTS WITH **RAYSHADER**](https://www.tylermw.com/3d-ggplots-with-rayshader/)
+  * [Creating a pretty Gantt chart with ggplot2 - **cronograma** para projetos](https://stats.andrewheiss.com/misc/gantt.html)
+  * [**ggsci** - Scientific Journal and Sci-Fi Themed Color Palettes for ggplot2](https://nanx.me/ggsci/articles/ggsci.html)
+  * [**MapPalettes**](https://github.com/disarm-platform/MapPalettes)
+  * [**heatmaply** 1.0.0 – beautiful interactive cluster heatmaps in R](https://www.r-statistics.com/2020/01/heatmaply-1-0-0-beautiful-interactive-cluster-heatmaps-in-r/)
 
 ## Animação de Gráficos
 
@@ -109,6 +110,7 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
   * [Sunburst  - Grafico moderno de setores / pizza / rosca](https://cran.r-project.org/web/packages/sunburstR/vignettes/sunburst-2-0-0.html)
   * [Aster plot in D3js](https://gist.github.com/bbest/2de0e25d4840c68f2db1)
   * [Introducing R2D3](http://www.coppelia.io/2014/08/introducing-r2d3/)
+  * [ggiraphExtra - Package ggiraphExtra contains many useful functions for exploratoty plots](https://cran.r-project.org/web/packages/ggiraphExtra/vignettes/introduction.html)
    
   
 # APIs
@@ -631,6 +633,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [FFTrees - plot elegante dos resultados da arvore de decisao](https://ndphillips.github.io/FFTrees/)
   * [A Kaggle Master Explains Gradient Boosting](http://blog.kaggle.com/2017/01/23/a-kaggle-master-explains-gradient-boosting/)
   * [autoxgboost: Automatic XGBoost using Bayesian Optimization](https://liuyanguu.github.io/post/2018/10/03/autoxgboost-bayesian-optimization/)
+  * [ggparty: Graphic Partying - ggparty aims to extend ggplot2 functionality to the partykit package. It provides the necessary tools to create clearly structured and highly customizable visualizations for tree-objects of the class 'party'.](https://cran.r-project.org/web/packages/ggparty/vignettes/ggparty-graphic-partying.html)
 
 ## knn
 
@@ -1147,6 +1150,7 @@ Stanford University School of Engineering
   * [How to solve 90% of NLP problems: a step-by-step guide](https://blog.insightdatascience.com/how-to-solve-90-of-nlp-problems-a-step-by-step-guide-fda605278e4e)
   * [Introduction to Amazon SageMaker Object2Vec](https://aws.amazon.com/ru/blogs/machine-learning/introduction-to-amazon-sagemaker-object2vec/)
   * [COTA: Improving Uber Customer Care with NLP & Machine Learning - Uber Engineering](https://eng.uber.com/cota/)
+  * [Projecto Floresta Sintá(c)tica](https://www.linguateca.pt/Floresta/)
 
 ### Regex
 
