@@ -294,6 +294,10 @@ Analyses Using Only ANOVA Procedures](https://faculty.washington.edu/leahkf/pubs
   * [Bayesian models in R](https://poissonisfish.wordpress.com/2019/05/01/bayesian-models-in-r/amp/)
   * [Bayesian Statistics - A departure from Frequentist Statistics](https://www.linkedin.com/pulse/bayesian-statistics-departure-from-frequentist-rahul-jain)
   * [Variable selection using Gibbs sampling](https://fabiandablander.com/r/Spike-and-Slab.html)
+  * [Analysis of Environmental Data Conceptual Foundations: Bayesian Inference](https://www.umass.edu/landeco/teaching/ecodata/schedule/bayesian.pdf)
+  * [Slides: Machine Learning - Bayesian Learning](https://slideplayer.com/slide/4940573/)
+  * [How Bayesian inference works
+part of the End-to-End Machine Learning library](https://brohrer.github.io/how_bayesian_inference_works.html)
 
 ## Distribuições de probabilidade
 
