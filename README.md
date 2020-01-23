@@ -335,6 +335,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Simple Gantt charts in R with ggplot2 … and Microsoft Excel (cronograma para projetos)](https://www.molecularecologist.com/2019/01/simple-gantt-charts-in-r-with-ggplot2-and-the-tidyverse/)
   * [Hacking RStudio - useR Colin Fay](https://github.com/ColinFay/user2019workshop/blob/master/part1.pdf)
   * [Praise useRs when they have done something good, or when they just need it](https://github.com/rladies/praise)
+  * [diffobj - Diffs for R Objects](https://github.com/brodieG/diffobj)
   
 ## Palestras sobre R
 
@@ -441,6 +442,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Creating APIs in R with Plumber](https://www.rplumber.io/docs/index.html)
   * [Shiny Production with AWS Book](https://business-science.github.io/shiny-production-with-aws-book/)
   * [YaRrr! The Pirate’s Guide to R](https://bookdown.org/ndphillips/YaRrr/where-did-this-book-come-from.html)
+  * [Mastering Shiny - Hadley Wickham](https://mastering-shiny.org/)
 
 # Machine Learning
 
@@ -890,6 +892,8 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 	* [shinymobile - miniUI 2.0 brings new inputs for iOs and android](https://dgranjon.shinyapps.io/miniUI2DemoMd/_w_ef1db051/)
 	* [MobileTrigger Setup: Run R Scripts, Models, Reports with Mobile Device](https://r-bar.net/mobiletrigger-setup-run-r-scripts-mobile-device/)
 	* [vov.css animations for shiny](https://github.com/tyluRp/vov)
+	* [reactor - reactor is a proof-of-concept for an <https://observablehq.com/> like experience powered by Shiny's built-in reactive expressions. (Parece um jupyter notebook feito em shiny)](https://github.com/tmastny/reactor)
+	* [Drag-and-Drop in shiny Apps with SortableJS](https://rstudio.github.io/sortable/)
 
 ## Shinydashboard
 
