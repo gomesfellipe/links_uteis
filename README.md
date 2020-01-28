@@ -186,6 +186,7 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
 # Dicas para Curriculo (CV - Curriculum Vitae)
 
   * [How to tailor your Academic CV for Data Science roles](https://www.datasciencecentral.com/profiles/blogs/how-to-tailor-your-academic-cv-for-data-science-roles)
+  * [How to create a timeline of your cv in R](https://www.statsandr.com/blog/how-to-create-a-timeline-of-your-cv-in-r/)
   
 # Kaggle
 
