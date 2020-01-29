@@ -313,6 +313,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 
   * [Análise de Sobrevivência Aplicada - Enrico e Suely](https://docs.ufpr.br/~giolo/Livro/)  
   * [Survival analysis with strata, clusters, frailties and competing risks in in Finalfit](https://www.datasurg.net/2019/09/12/survival-analysis-with-strata-clusters-frailties-and-competing-risks-in-in-finalfit/)
+  * [Survival Analysis - Fitting Weibull Models for Improving Device Reliability in R](https://rileyking.netlify.com/post/bayesian-modeling-of-censored-and-uncensored-fatigue-data-in-r/)
 
 # Extras sobre R
 
