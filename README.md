@@ -182,11 +182,13 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
   * [Building Reproducible Data Packages with DataPackageR](https://ropensci.org/blog/2018/09/18/datapackager/)
   * [beautifyR - RStudio addin for formatting Rmarkdown tables](https://github.com/mwip/beautifyR)
   * [remedy - RStudio Addins to Simplify Markdown Writing https://rtask.thinkr.fr](https://github.com/ThinkR-open/remedy)
+  * [goodpractice - Advice on R Package Building](http://mangothecat.github.io/goodpractice/index.html)
 
-# Dicas para Curriculo (CV - Curriculum Vitae)
+# Dicas para Curriculo (CV - Curriculum Vitae) e carreira
 
   * [How to tailor your Academic CV for Data Science roles](https://www.datasciencecentral.com/profiles/blogs/how-to-tailor-your-academic-cv-for-data-science-roles)
   * [How to create a timeline of your cv in R](https://www.statsandr.com/blog/how-to-create-a-timeline-of-your-cv-in-r/)
+  * [Um guia para reuniões "one on one" com lideranças](http://lgmoneda.github.io/2020/01/20/guia-de-one-on-one.html)
   
 # Kaggle
 
@@ -445,6 +447,8 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Shiny Production with AWS Book](https://business-science.github.io/shiny-production-with-aws-book/)
   * [YaRrr! The Pirate’s Guide to R](https://bookdown.org/ndphillips/YaRrr/where-did-this-book-come-from.html)
   * [Mastering Shiny - Hadley Wickham](https://mastering-shiny.org/)
+  * [Princípios de Modelagem Preditiva - andlima.github.io](https://andlima.github.io/principios-preditiva)
+  * [CS 109B: Advanced Topics in Data Science - Harvard](https://harvard-iacs.github.io/2019-CS109B/)
 
 # Machine Learning
 
@@ -921,6 +925,7 @@ ou organizações maiores.](https://www.r-bloggers.com/shinyproxy-1-1-1-released
   * [xameeramir/default nginx configuration file - Github](https://gist.github.com/xameeramir/a5cb675fb6a6a64098365e89a239541d)
   * [Inicie o RStudio Server no Google Cloud com duas linhas de R](https://code.markedmondson.me/launch-rstudio-server-google-cloud-in-two-lines-r/)
   * [Configuração e utilização do RStudio e Shiny Server na AWS](http://rpubs.com/thop/r-aws)
+  * [Business Science University - Exemplo de galeria de aplicativos](https://apps.business-science.io/)
 
 ## Docker para R / Shiny
 
@@ -941,6 +946,8 @@ ou organizações maiores.](https://www.r-bloggers.com/shinyproxy-1-1-1-released
   * [Lançamento OpenCPU 2.1: serviços escalonáveis](https://www.opencpu.org/posts/opencpu-201/)
   * [CONTAINERS ARE NOT VMS](https://blog.docker.com/2016/03/containers-are-not-vms/)
   * [Running your R script in Docker](https://www.r-bloggers.com/running-your-r-script-in-docker/amp/)
+  * [Docker para cientistas de dados (uma das principais habilidades para 2020)](https://www.business-science.io/business/2019/11/22/docker-for-data-science.html)
+  * [Deploying a Shiny Flexdashboard with Docker](https://medium.com/analytics-vidhya/deploying-a-shiny-flexdashboard-with-docker-cca338a10d12)
 
 ## Highcharter 
   
