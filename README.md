@@ -301,6 +301,7 @@ Analyses Using Only ANOVA Procedures](https://faculty.washington.edu/leahkf/pubs
   * [Slides: Machine Learning - Bayesian Learning](https://slideplayer.com/slide/4940573/)
   * [How Bayesian inference works
 part of the End-to-End Machine Learning library](https://brohrer.github.io/how_bayesian_inference_works.html)
+  * [Inferência Bayesiana - Intuição e Exemplo](https://towardsdatascience.com/bayesian-inference-intuition-and-example-148fd8fb95d6)
 
 ## Distribuições de probabilidade
 
@@ -315,6 +316,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 
   * [Análise de Sobrevivência Aplicada - Enrico e Suely](https://docs.ufpr.br/~giolo/Livro/)  
   * [Survival analysis with strata, clusters, frailties and competing risks in in Finalfit](https://www.datasurg.net/2019/09/12/survival-analysis-with-strata-clusters-frailties-and-competing-risks-in-in-finalfit/)
+  * [Survival Analysis - Fitting Weibull Models for Improving Device Reliability in R](https://rileyking.netlify.com/post/bayesian-modeling-of-censored-and-uncensored-fatigue-data-in-r/)
   * [Survival Analysis - Fitting Weibull Models for Improving Device Reliability in R](https://rileyking.netlify.com/post/bayesian-modeling-of-censored-and-uncensored-fatigue-data-in-r/)
 
 # Extras sobre R
@@ -646,6 +648,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [A Kaggle Master Explains Gradient Boosting](http://blog.kaggle.com/2017/01/23/a-kaggle-master-explains-gradient-boosting/)
   * [autoxgboost: Automatic XGBoost using Bayesian Optimization](https://liuyanguu.github.io/post/2018/10/03/autoxgboost-bayesian-optimization/)
   * [ggparty: Graphic Partying - ggparty aims to extend ggplot2 functionality to the partykit package. It provides the necessary tools to create clearly structured and highly customizable visualizations for tree-objects of the class 'party'.](https://cran.r-project.org/web/packages/ggparty/vignettes/ggparty-graphic-partying.html)
+  * [UM ESTUDO SOBRE OS CLASSIFICADORES GRADIENT BOOSTING](https://linux.ime.usp.br/~robotenique/mac0499/)
 
 ## knn
 
