@@ -1039,6 +1039,11 @@ Conditional GANs (cGANs)](https://blogs.rstudio.com/tensorflow/posts/2018-09-20-
   * [Afinal, o que é Deep learning?](https://medium.com/@lauradamaceno/afinal-o-que-é-deep-learning-c6e429d04d20)
   * [R Markdown Notebooks for "Deep Learning with R](https://github.com/jjallaire/deep-learning-with-r-notebooks)
 
+## Visão Computacional
+
+  * [Computer vision basics in Microsoft Excel](https://github.com/amzn/computer-vision-basics-in-microsoft-excel)
+
+
 ## Reconhecimento facial
 
   * [Reconhecimento facial com R](https://www.stoltzmaniac.com/facial-recognition-in-r/)
