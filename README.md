@@ -452,6 +452,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Princípios de Modelagem Preditiva - andlima.github.io](https://andlima.github.io/principios-preditiva)
   * [CS 109B: Advanced Topics in Data Science - Harvard](https://harvard-iacs.github.io/2019-CS109B/)
   * [Course Notes for IS 6489, Statistics and Predictive Analytics](https://bookdown.org/jefftemplewebb/IS-6489/)
+  * [Curso Avançado em Estatística com R da UFFS](https://smolski.github.io/livroavancado/)
 
 # Machine Learning
 
