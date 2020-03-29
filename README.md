@@ -189,6 +189,7 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
   * [How to tailor your Academic CV for Data Science roles](https://www.datasciencecentral.com/profiles/blogs/how-to-tailor-your-academic-cv-for-data-science-roles)
   * [How to create a timeline of your cv in R](https://www.statsandr.com/blog/how-to-create-a-timeline-of-your-cv-in-r/)
   * [Um guia para reuniões "one on one" com lideranças](http://lgmoneda.github.io/2020/01/20/guia-de-one-on-one.html)
+  * [O QUE OS RECRUTADORES PROCURAM EM UM CURRÍCULO PARA CIENTISTA DE DADOS?](http://datascienceacademy.com.br/blog/o-que-os-recrutadores-procuram-em-um-curriculo-para-cientista-de-dados/)
   
 # Kaggle
 
@@ -342,6 +343,8 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Hacking RStudio - useR Colin Fay](https://github.com/ColinFay/user2019workshop/blob/master/part1.pdf)
   * [Praise useRs when they have done something good, or when they just need it](https://github.com/rladies/praise)
   * [diffobj - Diffs for R Objects](https://github.com/brodieG/diffobj)
+  * [Why I use R - Gordon Shotwell](https://blog.shotwell.ca/posts/why_i_use_r/)
+  * [Why Gordon Shotwell uses R](https://paulvanderlaken.com/2020/01/06/why-gordon-shotwell-uses-r/)
   
 ## Palestras sobre R
 
@@ -382,6 +385,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Statistics versus machine learning](https://www.nature.com/articles/nmeth.4642)
   * [Why GitHub Won't Help You With Hiring](https://www.benfrederickson.com/github-wont-help-with-hiring/)
   * [Matemática que você não precisa saber para aprendizado de máquina](https://www.datasciencecentral.com/profiles/blogs/math-you-don-t-need-to-know-for-ml)
+  * [Statistical Mistakes Even Scientists Make](https://www.linkedin.com/pulse/statistical-mistakes-even-scientists-make-kevin-gray/)
   
 # Forecast  
   
@@ -701,6 +705,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Quick and easy t-SNE analysis in R](https://intobioinformatics.wordpress.com/2019/05/30/quick-and-easy-t-sne-analysis-in-r/)
   * [3 distances that every data scientist should](https://towardsdatascience.com/3-distances-that-every-data-scientist-should-know-59d864e5030a)
   * [The essence of Eigenvalues and eigenvectors in Machine Learning](https://towardsdatascience.com/the-essence-of-eigenvalues-and-eigenvectors-in-machine-learning-f28c4727f56f)
+  * [Tudo o que você precisa fazer com o PCA é em Factoshiny!](https://francoishusson.wordpress.com/2020/02/28/all-you-need-to-know-on-pca/)
 
 ## Aprendizado por reforço
 
@@ -1079,6 +1084,8 @@ Conditional GANs (cGANs)](https://blogs.rstudio.com/tensorflow/posts/2018-09-20-
   * [ggseas - seasonal adjustment on the fly extension for ggplot2](https://github.com/ellisp/ggseas)
   * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
   * [First experience of building a LSTM model with TensorFlow](https://blog.goodaudience.com/first-experience-of-building-a-lstm-model-with-tensorflow-e632bde911e1)
+  * [Time Series Machine Learning (and Feature Engineering) in R (tidymodels) - Business Science](https://www.business-science.io/time-series/2020/03/18/time-series-machine-learning.html)
+  * [Machine Learning (XGBoost) Time-Series Classification Trading Strategy](https://lf0.com/post/xgboost-time-series-classification-trading-strategy/xgboost-time-series-quant-trading-strategy/)
 
 # Slides
 
@@ -1178,6 +1185,7 @@ Stanford University School of Engineering
   * [Introduction to Amazon SageMaker Object2Vec](https://aws.amazon.com/ru/blogs/machine-learning/introduction-to-amazon-sagemaker-object2vec/)
   * [COTA: Improving Uber Customer Care with NLP & Machine Learning - Uber Engineering](https://eng.uber.com/cota/)
   * [Projecto Floresta Sintá(c)tica](https://www.linguateca.pt/Floresta/)
+  * [Stanza - A Python NLP Library for Many Human Languages](https://stanfordnlp.github.io/stanza/)
 
 ### Regex
 
