@@ -100,6 +100,7 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
   * [**ggsci** - Scientific Journal and Sci-Fi Themed Color Palettes for ggplot2](https://nanx.me/ggsci/articles/ggsci.html)
   * [**MapPalettes**](https://github.com/disarm-platform/MapPalettes)
   * [**heatmaply** 1.0.0 – beautiful interactive cluster heatmaps in R](https://www.r-statistics.com/2020/01/heatmaply-1-0-0-beautiful-interactive-cluster-heatmaps-in-r/)
+  * [Using gghalves - Frederik Tiedemann - Plot que ocupam metade do espaço](https://erocoar.github.io/gghalves/)
 
 ## Animação de Gráficos
 
