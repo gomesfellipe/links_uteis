@@ -656,6 +656,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [autoxgboost: Automatic XGBoost using Bayesian Optimization](https://liuyanguu.github.io/post/2018/10/03/autoxgboost-bayesian-optimization/)
   * [ggparty: Graphic Partying - ggparty aims to extend ggplot2 functionality to the partykit package. It provides the necessary tools to create clearly structured and highly customizable visualizations for tree-objects of the class 'party'.](https://cran.r-project.org/web/packages/ggparty/vignettes/ggparty-graphic-partying.html)
   * [UM ESTUDO SOBRE OS CLASSIFICADORES GRADIENT BOOSTING](https://linux.ime.usp.br/~robotenique/mac0499/)
+  * [ggRandomForests - ALL YOUR FIGURE ARE BELONG TO US](https://yutannihilation.github.io/allYourFigureAreBelongToUs/ggrandomforests/)
 
 ## knn
 
