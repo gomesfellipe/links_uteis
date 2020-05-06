@@ -236,6 +236,7 @@ Making Data-Driven Decisions - MIT](https://bigdataanalytics.mit.edu/)
   * [CheetSheet Super resumão resumido](https://www.sas.upenn.edu/~astocker/lab/teaching-files/PSYC739-2016/probability_cheatsheet.pdf)
   * [A bit more understanding of Cronbach’s alpha](https://theressomethingaboutr.wordpress.com/2019/03/27/a-bit-more-understanding-of-cronbachs-alpha/amp/)
   * [Where do p-values come from? Fundamental concepts and simulation approach](https://alemorales.info/post/introduction-sampling-distribution/)
+  * [How to calculate poker probabilities in python](https://towardsdatascience.com/how-to-calculate-poker-probabilities-in-python-75238c61421e)
 
 ## Estatística Descritiva
 
