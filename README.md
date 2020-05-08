@@ -1089,6 +1089,7 @@ Conditional GANs (cGANs)](https://blogs.rstudio.com/tensorflow/posts/2018-09-20-
   * [First experience of building a LSTM model with TensorFlow](https://blog.goodaudience.com/first-experience-of-building-a-lstm-model-with-tensorflow-e632bde911e1)
   * [Time Series Machine Learning (and Feature Engineering) in R (tidymodels) - Business Science](https://www.business-science.io/time-series/2020/03/18/time-series-machine-learning.html)
   * [Machine Learning (XGBoost) Time-Series Classification Trading Strategy](https://lf0.com/post/xgboost-time-series-classification-trading-strategy/xgboost-time-series-quant-trading-strategy/)
+  * [Advanced Time Series Analysis - with TSsudio](https://rpubs.com/VitoFanelli1990/advanced-time-series-analysis)
 
 # Slides
 
