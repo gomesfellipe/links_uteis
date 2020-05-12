@@ -605,6 +605,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Model evaluation audit](https://modeloriented.github.io/auditor/articles/model_evaluation_audit.html)
   * [auditor: uma visita guiada através de resíduos](https://feelml.com/post/2019-09-10-auditor/)
   * [ROC Curve Example Using Base R](http://rstudio-pubs-static.s3.amazonaws.com/220197_7131fb0b2455404cb95ea8f788d45828.html)
+  * [modelStudio e a gramática da análise interativa de modelos explicativos](https://medium.com/@ModelOriented/modelstudio-and-the-grammar-of-interactive-explanatory-model-analysis-5d274ab2d822)
 
 ## Sistema de recomendação
 
