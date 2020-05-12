@@ -256,6 +256,7 @@ Making Data-Driven Decisions - MIT](https://bigdataanalytics.mit.edu/)
 Variância (ANOVA)](https://perguntasaopo.files.wordpress.com/2012/02/aula_10_anova.pdf)
   * [A Visual Demonstration of a Chi Squared Test](https://myko101.home.blog/2019/03/09/a-visual-demonstration-of-a-chi-squared-test/)
   * [ggstatsplot: ggplot2 Based Plots with Statistical Details](https://github.com/IndrajeetPatil/ggstatsplot)
+  * [Testes de hipoteses para normalidade - karinnecristina - AceleraDev_Codenation](https://github.com/karinnecristina/AceleraDev_Codenation/blob/master/Desafio_4/main.ipynb)
   
 # Anova / Planejamento de Experimento
 
