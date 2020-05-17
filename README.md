@@ -465,6 +465,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [CS 109B: Advanced Topics in Data Science - Harvard](https://harvard-iacs.github.io/2019-CS109B/)
   * [Course Notes for IS 6489, Statistics and Predictive Analytics](https://bookdown.org/jefftemplewebb/IS-6489/)
   * [Curso Avançado em Estatística com R da UFFS](https://smolski.github.io/livroavancado/)
+  * [Análise Explicativa do Modelo - Explore, explique e examine modelos preditivos](https://pbiecek.github.io/ema/)
 
 # Machine Learning
 
