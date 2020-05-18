@@ -493,6 +493,10 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Quando Bayes, Ockham e Shannon se unem para definir o aprendizado de máquina](https://towardsdatascience.com/when-bayes-ockham-and-shannon-come-together-to-define-machine-learning-96422729a1ad)
   * [Modelagem Avançada (em R) - Encontre o melhor modelo preditivo usando o pacote R / caret / modelgrid](https://datascienceplus.com/find-the-best-predictive-model-using-r-caret-package-modelgrid/)
 
+## Machine learning - Tidymodels
+
+	* [tidymodels - logistic regression](https://stateofther.github.io/finistR2019/s-tidymodels.html)
+
 ## Amostragem para Machine Learning
 
   * [Bootstrap in R](https://www.datacamp.com/community/tutorials/bootstrap-r)
