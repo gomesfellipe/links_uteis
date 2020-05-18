@@ -495,7 +495,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 
 ## Machine learning - Tidymodels
 
-	* [tidymodels - logistic regression](https://stateofther.github.io/finistR2019/s-tidymodels.html)
+  * [tidymodels - logistic regression](https://stateofther.github.io/finistR2019/s-tidymodels.html)
 
 ## Amostragem para Machine Learning
 
