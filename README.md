@@ -496,6 +496,8 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 ## Machine learning - Tidymodels
 
   * [tidymodels - logistic regression](https://stateofther.github.io/finistR2019/s-tidymodels.html)
+  * [Curso-R workshop - XGBoost com tidymodels](https://www.kaggle.com/c/curso-r-workshop-xgboost)
+  * [Customer Churn Modeling using Machine Learning with parsnip](https://www.business-science.io/code-tools/2019/11/18/parsnip-churn-classification-machine-learning.html)
 
 ## Amostragem para Machine Learning
 
