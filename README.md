@@ -100,6 +100,7 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
   * [**ggsci** - Scientific Journal and Sci-Fi Themed Color Palettes for ggplot2](https://nanx.me/ggsci/articles/ggsci.html)
   * [**MapPalettes**](https://github.com/disarm-platform/MapPalettes)
   * [**heatmaply** 1.0.0 – beautiful interactive cluster heatmaps in R](https://www.r-statistics.com/2020/01/heatmaply-1-0-0-beautiful-interactive-cluster-heatmaps-in-r/)
+  * [Using gghalves - Frederik Tiedemann - Plot que ocupam metade do espaço](https://erocoar.github.io/gghalves/)
 
 ## Animação de Gráficos
 
@@ -123,11 +124,15 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
      
 # Big Data
 
+## Spark
+
+  * [sparklyr: R interface for Apache Spark](https://spark.rstudio.com/)
+  * [A Neanderthal’s Guide to Apache Spark in Python](https://towardsdatascience.com/a-neanderthals-guide-to-apache-spark-in-python-9ef1f156d427)
+
 ## Banco de Dados
 
   * [Mongolite User Manual](https://jeroen.github.io/mongolite/)
   * [Desapegando do SQL com R](https://www.linkedin.com/pulse/desapegando-do-sql-com-r-pedro-toledo/)
-  * [sparklyr: R interface for Apache Spark](https://spark.rstudio.com/)
 
 ## Materias
 
@@ -182,11 +187,14 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
   * [Building Reproducible Data Packages with DataPackageR](https://ropensci.org/blog/2018/09/18/datapackager/)
   * [beautifyR - RStudio addin for formatting Rmarkdown tables](https://github.com/mwip/beautifyR)
   * [remedy - RStudio Addins to Simplify Markdown Writing https://rtask.thinkr.fr](https://github.com/ThinkR-open/remedy)
+  * [goodpractice - Advice on R Package Building](http://mangothecat.github.io/goodpractice/index.html)
 
-# Dicas para Curriculo (CV - Curriculum Vitae)
+# Dicas para Curriculo (CV - Curriculum Vitae) e carreira
 
   * [How to tailor your Academic CV for Data Science roles](https://www.datasciencecentral.com/profiles/blogs/how-to-tailor-your-academic-cv-for-data-science-roles)
   * [How to create a timeline of your cv in R](https://www.statsandr.com/blog/how-to-create-a-timeline-of-your-cv-in-r/)
+  * [Um guia para reuniões "one on one" com lideranças](http://lgmoneda.github.io/2020/01/20/guia-de-one-on-one.html)
+  * [O QUE OS RECRUTADORES PROCURAM EM UM CURRÍCULO PARA CIENTISTA DE DADOS?](http://datascienceacademy.com.br/blog/o-que-os-recrutadores-procuram-em-um-curriculo-para-cientista-de-dados/)
   
 # Kaggle
 
@@ -220,6 +228,7 @@ Making Data-Driven Decisions - MIT](https://bigdataanalytics.mit.edu/)
   * [Machine Learning para Cientista de Dados](http://cursos.leg.ufpr.br/ML4all/)
   * [R Learn the language designed for data analysis. This track includes data set-up, machine learning and data visualization.](https://www.kaggle.com/learn/r)
   * [R e PostgreeSQL - como usar o postgreesql a partir do R](https://rpsql.consudata.com.br/)
+  * [Improving your statistical inferences - coursera](https://www.coursera.org/learn/statistical-inferences#syllabus)
 
 # Elastic Search
 
@@ -232,6 +241,7 @@ Making Data-Driven Decisions - MIT](https://bigdataanalytics.mit.edu/)
   * [CheetSheet Super resumão resumido](https://www.sas.upenn.edu/~astocker/lab/teaching-files/PSYC739-2016/probability_cheatsheet.pdf)
   * [A bit more understanding of Cronbach’s alpha](https://theressomethingaboutr.wordpress.com/2019/03/27/a-bit-more-understanding-of-cronbachs-alpha/amp/)
   * [Where do p-values come from? Fundamental concepts and simulation approach](https://alemorales.info/post/introduction-sampling-distribution/)
+  * [How to calculate poker probabilities in python](https://towardsdatascience.com/how-to-calculate-poker-probabilities-in-python-75238c61421e)
 
 ## Estatística Descritiva
 
@@ -246,6 +256,7 @@ Making Data-Driven Decisions - MIT](https://bigdataanalytics.mit.edu/)
 Variância (ANOVA)](https://perguntasaopo.files.wordpress.com/2012/02/aula_10_anova.pdf)
   * [A Visual Demonstration of a Chi Squared Test](https://myko101.home.blog/2019/03/09/a-visual-demonstration-of-a-chi-squared-test/)
   * [ggstatsplot: ggplot2 Based Plots with Statistical Details](https://github.com/IndrajeetPatil/ggstatsplot)
+  * [Testes de hipoteses para normalidade - karinnecristina - AceleraDev_Codenation](https://github.com/karinnecristina/AceleraDev_Codenation/blob/master/Desafio_4/main.ipynb)
   
 # Anova / Planejamento de Experimento
 
@@ -299,6 +310,7 @@ Analyses Using Only ANOVA Procedures](https://faculty.washington.edu/leahkf/pubs
   * [Slides: Machine Learning - Bayesian Learning](https://slideplayer.com/slide/4940573/)
   * [How Bayesian inference works
 part of the End-to-End Machine Learning library](https://brohrer.github.io/how_bayesian_inference_works.html)
+  * [Inferência Bayesiana - Intuição e Exemplo](https://towardsdatascience.com/bayesian-inference-intuition-and-example-148fd8fb95d6)
 
 ## Distribuições de probabilidade
 
@@ -313,6 +325,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 
   * [Análise de Sobrevivência Aplicada - Enrico e Suely](https://docs.ufpr.br/~giolo/Livro/)  
   * [Survival analysis with strata, clusters, frailties and competing risks in in Finalfit](https://www.datasurg.net/2019/09/12/survival-analysis-with-strata-clusters-frailties-and-competing-risks-in-in-finalfit/)
+  * [Survival Analysis - Fitting Weibull Models for Improving Device Reliability in R](https://rileyking.netlify.com/post/bayesian-modeling-of-censored-and-uncensored-fatigue-data-in-r/)
   * [Survival Analysis - Fitting Weibull Models for Improving Device Reliability in R](https://rileyking.netlify.com/post/bayesian-modeling-of-censored-and-uncensored-fatigue-data-in-r/)
 
 # Extras sobre R
@@ -338,6 +351,8 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Hacking RStudio - useR Colin Fay](https://github.com/ColinFay/user2019workshop/blob/master/part1.pdf)
   * [Praise useRs when they have done something good, or when they just need it](https://github.com/rladies/praise)
   * [diffobj - Diffs for R Objects](https://github.com/brodieG/diffobj)
+  * [Why I use R - Gordon Shotwell](https://blog.shotwell.ca/posts/why_i_use_r/)
+  * [Why Gordon Shotwell uses R](https://paulvanderlaken.com/2020/01/06/why-gordon-shotwell-uses-r/)
   
 ## Palestras sobre R
 
@@ -378,6 +393,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Statistics versus machine learning](https://www.nature.com/articles/nmeth.4642)
   * [Why GitHub Won't Help You With Hiring](https://www.benfrederickson.com/github-wont-help-with-hiring/)
   * [Matemática que você não precisa saber para aprendizado de máquina](https://www.datasciencecentral.com/profiles/blogs/math-you-don-t-need-to-know-for-ml)
+  * [Statistical Mistakes Even Scientists Make](https://www.linkedin.com/pulse/statistical-mistakes-even-scientists-make-kevin-gray/)
   
 # Forecast  
   
@@ -445,6 +461,11 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Shiny Production with AWS Book](https://business-science.github.io/shiny-production-with-aws-book/)
   * [YaRrr! The Pirate’s Guide to R](https://bookdown.org/ndphillips/YaRrr/where-did-this-book-come-from.html)
   * [Mastering Shiny - Hadley Wickham](https://mastering-shiny.org/)
+  * [Princípios de Modelagem Preditiva - andlima.github.io](https://andlima.github.io/principios-preditiva)
+  * [CS 109B: Advanced Topics in Data Science - Harvard](https://harvard-iacs.github.io/2019-CS109B/)
+  * [Course Notes for IS 6489, Statistics and Predictive Analytics](https://bookdown.org/jefftemplewebb/IS-6489/)
+  * [Curso Avançado em Estatística com R da UFFS](https://smolski.github.io/livroavancado/)
+  * [Análise Explicativa do Modelo - Explore, explique e examine modelos preditivos](https://pbiecek.github.io/ema/)
 
 # Machine Learning
 
@@ -472,6 +493,12 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Quando Bayes, Ockham e Shannon se unem para definir o aprendizado de máquina](https://towardsdatascience.com/when-bayes-ockham-and-shannon-come-together-to-define-machine-learning-96422729a1ad)
   * [Modelagem Avançada (em R) - Encontre o melhor modelo preditivo usando o pacote R / caret / modelgrid](https://datascienceplus.com/find-the-best-predictive-model-using-r-caret-package-modelgrid/)
   * [14 tipos diferentes de aprendizado no aprendizado de máquina](https://machinelearningmastery.com/types-of-learning-in-machine-learning/)
+
+## Machine learning - Tidymodels
+
+  * [tidymodels - logistic regression](https://stateofther.github.io/finistR2019/s-tidymodels.html)
+  * [Curso-R workshop - XGBoost com tidymodels](https://www.kaggle.com/c/curso-r-workshop-xgboost)
+  * [Customer Churn Modeling using Machine Learning with parsnip](https://www.business-science.io/code-tools/2019/11/18/parsnip-churn-classification-machine-learning.html)
 
 ## Amostragem para Machine Learning
 
@@ -586,6 +613,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Model evaluation audit](https://modeloriented.github.io/auditor/articles/model_evaluation_audit.html)
   * [auditor: uma visita guiada através de resíduos](https://feelml.com/post/2019-09-10-auditor/)
   * [ROC Curve Example Using Base R](http://rstudio-pubs-static.s3.amazonaws.com/220197_7131fb0b2455404cb95ea8f788d45828.html)
+  * [modelStudio e a gramática da análise interativa de modelos explicativos](https://medium.com/@ModelOriented/modelstudio-and-the-grammar-of-interactive-explanatory-model-analysis-5d274ab2d822)
 
 ## Sistema de recomendação
 
@@ -643,6 +671,8 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [A Kaggle Master Explains Gradient Boosting](http://blog.kaggle.com/2017/01/23/a-kaggle-master-explains-gradient-boosting/)
   * [autoxgboost: Automatic XGBoost using Bayesian Optimization](https://liuyanguu.github.io/post/2018/10/03/autoxgboost-bayesian-optimization/)
   * [ggparty: Graphic Partying - ggparty aims to extend ggplot2 functionality to the partykit package. It provides the necessary tools to create clearly structured and highly customizable visualizations for tree-objects of the class 'party'.](https://cran.r-project.org/web/packages/ggparty/vignettes/ggparty-graphic-partying.html)
+  * [UM ESTUDO SOBRE OS CLASSIFICADORES GRADIENT BOOSTING](https://linux.ime.usp.br/~robotenique/mac0499/)
+  * [ggRandomForests - ALL YOUR FIGURE ARE BELONG TO US](https://yutannihilation.github.io/allYourFigureAreBelongToUs/ggrandomforests/)
 
 ## knn
 
@@ -693,6 +723,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Quick and easy t-SNE analysis in R](https://intobioinformatics.wordpress.com/2019/05/30/quick-and-easy-t-sne-analysis-in-r/)
   * [3 distances that every data scientist should](https://towardsdatascience.com/3-distances-that-every-data-scientist-should-know-59d864e5030a)
   * [The essence of Eigenvalues and eigenvectors in Machine Learning](https://towardsdatascience.com/the-essence-of-eigenvalues-and-eigenvectors-in-machine-learning-f28c4727f56f)
+  * [Tudo o que você precisa fazer com o PCA é em Factoshiny!](https://francoishusson.wordpress.com/2020/02/28/all-you-need-to-know-on-pca/)
 
 ## Aprendizado por reforço
 
@@ -925,6 +956,7 @@ ou organizações maiores.](https://www.r-bloggers.com/shinyproxy-1-1-1-released
   * [xameeramir/default nginx configuration file - Github](https://gist.github.com/xameeramir/a5cb675fb6a6a64098365e89a239541d)
   * [Inicie o RStudio Server no Google Cloud com duas linhas de R](https://code.markedmondson.me/launch-rstudio-server-google-cloud-in-two-lines-r/)
   * [Configuração e utilização do RStudio e Shiny Server na AWS](http://rpubs.com/thop/r-aws)
+  * [Business Science University - Exemplo de galeria de aplicativos](https://apps.business-science.io/)
 
 ## Docker para R / Shiny
 
@@ -945,6 +977,8 @@ ou organizações maiores.](https://www.r-bloggers.com/shinyproxy-1-1-1-released
   * [Lançamento OpenCPU 2.1: serviços escalonáveis](https://www.opencpu.org/posts/opencpu-201/)
   * [CONTAINERS ARE NOT VMS](https://blog.docker.com/2016/03/containers-are-not-vms/)
   * [Running your R script in Docker](https://www.r-bloggers.com/running-your-r-script-in-docker/amp/)
+  * [Docker para cientistas de dados (uma das principais habilidades para 2020)](https://www.business-science.io/business/2019/11/22/docker-for-data-science.html)
+  * [Deploying a Shiny Flexdashboard with Docker](https://medium.com/analytics-vidhya/deploying-a-shiny-flexdashboard-with-docker-cca338a10d12)
 
 ## Highcharter 
   
@@ -1033,6 +1067,11 @@ Conditional GANs (cGANs)](https://blogs.rstudio.com/tensorflow/posts/2018-09-20-
   * [Afinal, o que é Deep learning?](https://medium.com/@lauradamaceno/afinal-o-que-é-deep-learning-c6e429d04d20)
   * [R Markdown Notebooks for "Deep Learning with R](https://github.com/jjallaire/deep-learning-with-r-notebooks)
 
+## Visão Computacional
+
+  * [Computer vision basics in Microsoft Excel](https://github.com/amzn/computer-vision-basics-in-microsoft-excel)
+
+
 ## Reconhecimento facial
 
   * [Reconhecimento facial com R](https://www.stoltzmaniac.com/facial-recognition-in-r/)
@@ -1066,6 +1105,9 @@ Conditional GANs (cGANs)](https://blogs.rstudio.com/tensorflow/posts/2018-09-20-
   * [ggseas - seasonal adjustment on the fly extension for ggplot2](https://github.com/ellisp/ggseas)
   * [Understanding LSTM Networks](http://colah.github.io/posts/2015-08-Understanding-LSTMs/)
   * [First experience of building a LSTM model with TensorFlow](https://blog.goodaudience.com/first-experience-of-building-a-lstm-model-with-tensorflow-e632bde911e1)
+  * [Time Series Machine Learning (and Feature Engineering) in R (tidymodels) - Business Science](https://www.business-science.io/time-series/2020/03/18/time-series-machine-learning.html)
+  * [Machine Learning (XGBoost) Time-Series Classification Trading Strategy](https://lf0.com/post/xgboost-time-series-classification-trading-strategy/xgboost-time-series-quant-trading-strategy/)
+  * [Advanced Time Series Analysis - with TSsudio](https://rpubs.com/VitoFanelli1990/advanced-time-series-analysis)
 
 # Slides
 
@@ -1165,6 +1207,8 @@ Stanford University School of Engineering
   * [Introduction to Amazon SageMaker Object2Vec](https://aws.amazon.com/ru/blogs/machine-learning/introduction-to-amazon-sagemaker-object2vec/)
   * [COTA: Improving Uber Customer Care with NLP & Machine Learning - Uber Engineering](https://eng.uber.com/cota/)
   * [Projecto Floresta Sintá(c)tica](https://www.linguateca.pt/Floresta/)
+  * [Stanza - A Python NLP Library for Many Human Languages](https://stanfordnlp.github.io/stanza/)
+  * [Como ter a performance de BERT utilizando uma Regressão Logística?](https://www.linkedin.com/pulse/como-ter-performance-de-bert-utilizando-uma-regress%25C3%25A3o-polo/?trackingId=h3QLCrMIB%2Ffli00zuyEU3w%3D%3D)
 
 ### Regex
 
