@@ -471,6 +471,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Material de machine learning](https://drive.google.com/drive/folders/1XdWtd2rjz09hYRpeb7ie0enezH5VvNMU)
   * [Quando Bayes, Ockham e Shannon se unem para definir o aprendizado de máquina](https://towardsdatascience.com/when-bayes-ockham-and-shannon-come-together-to-define-machine-learning-96422729a1ad)
   * [Modelagem Avançada (em R) - Encontre o melhor modelo preditivo usando o pacote R / caret / modelgrid](https://datascienceplus.com/find-the-best-predictive-model-using-r-caret-package-modelgrid/)
+  * [14 tipos diferentes de aprendizado no aprendizado de máquina](https://machinelearningmastery.com/types-of-learning-in-machine-learning/)
 
 ## Amostragem para Machine Learning
 
@@ -856,6 +857,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [ShinyMaterial - Material design in Shiny apps](https://ericrayanderson.github.io/shinymaterial/)
   * [Announcing the 1st Shiny Contest - Para inspiração](https://blog.rstudio.com/2019/01/07/first-shiny-contest/)
   * [waypointer - Simple animated waypoints for shiny](https://github.com/RinteRface/waypointer)
+<<<<<<< HEAD
   * [Styling DataTables](http://www.stencilled.me/post/2019-04-20-stylingdt/)
   * [Stencilled - Download and Email reports in R Shiny app](http://www.stencilled.me/post/2019-04-14-downloadshiny/)
   * [rintrojspacote -  R integra o Intro.js ao Shiny, para que os usuários possam adicionar facilmente instruções ao seu aplicativo sem precisar usar HTML, CSS ou JavaScript](https://carlganz.github.io/rintrojs/)
@@ -896,6 +898,8 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 	* [vov.css animations for shiny](https://github.com/tyluRp/vov)
 	* [reactor - reactor is a proof-of-concept for an <https://observablehq.com/> like experience powered by Shiny's built-in reactive expressions. (Parece um jupyter notebook feito em shiny)](https://github.com/tmastny/reactor)
 	* [Drag-and-Drop in shiny Apps with SortableJS](https://rstudio.github.io/sortable/)
+	* [shinytools](https://github.com/ardata-fr/shinytools)
+
 
 ## Shinydashboard
 
