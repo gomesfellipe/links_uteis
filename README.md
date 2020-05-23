@@ -1204,6 +1204,7 @@ Stanford University School of Engineering
   * [COTA: Improving Uber Customer Care with NLP & Machine Learning - Uber Engineering](https://eng.uber.com/cota/)
   * [Projecto Floresta Sintá(c)tica](https://www.linguateca.pt/Floresta/)
   * [Stanza - A Python NLP Library for Many Human Languages](https://stanfordnlp.github.io/stanza/)
+  * [Como ter a performance de BERT utilizando uma Regressão Logística?](https://www.linkedin.com/pulse/como-ter-performance-de-bert-utilizando-uma-regress%25C3%25A3o-polo/?trackingId=h3QLCrMIB%2Ffli00zuyEU3w%3D%3D)
 
 ### Regex
 
