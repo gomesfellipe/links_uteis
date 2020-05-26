@@ -33,6 +33,7 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
   * [DataExplorer - Exploratory Data Analysis (EDA) is the initial and an important phase of data analysis/predictive modeling](https://boxuancui.github.io/DataExplorer/)
   * [SKIMR: ESTATÍSTICAS BÁSICAS COM R](https://www.curso-r.com/blog/2017-06-17-skimr/)
   * [correlationfunnel - Methodology, Key Considerations, and FAQs](https://business-science.github.io/correlationfunnel/articles/key_considerations.html)
+  * [Tidylog, logging your pipelines](https://typethepipe.com/vizs-and-tips/tidylog-logging-pipelines/)
   
 # Amostragem  
   
