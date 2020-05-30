@@ -501,6 +501,8 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Curso-R workshop - XGBoost com tidymodels](https://www.kaggle.com/c/curso-r-workshop-xgboost)
   * [Customer Churn Modeling using Machine Learning with parsnip](https://www.business-science.io/code-tools/2019/11/18/parsnip-churn-classification-machine-learning.html)
   * [Iterative Bayesian optimization of a classification model](https://www.tidymodels.org/learn/work/bayes-opt/)
+  * [Tutorial on tidymodels for Machine Learning](https://hansjoerg.me/2020/02/09/tidymodels-for-machine-learning/)
+  * [Tune XGBoost with tidymodels and #TidyTuesday beach volleyball](https://juliasilge.com/blog/xgboost-tune-volleyball/)
 
 ## Amostragem para Machine Learning
 
