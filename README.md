@@ -354,6 +354,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [diffobj - Diffs for R Objects](https://github.com/brodieG/diffobj)
   * [Why I use R - Gordon Shotwell](https://blog.shotwell.ca/posts/why_i_use_r/)
   * [Why Gordon Shotwell uses R](https://paulvanderlaken.com/2020/01/06/why-gordon-shotwell-uses-r/)
+  * [Syntax Highlighting in Blogdown; a very specific solution](https://venciso.netlify.app/2020/05/syntax-highlighting-blogdown/)
   
 ## Palestras sobre R
 
