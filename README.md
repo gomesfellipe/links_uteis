@@ -396,6 +396,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Why GitHub Won't Help You With Hiring](https://www.benfrederickson.com/github-wont-help-with-hiring/)
   * [Matemática que você não precisa saber para aprendizado de máquina](https://www.datasciencecentral.com/profiles/blogs/math-you-don-t-need-to-know-for-ml)
   * [Statistical Mistakes Even Scientists Make](https://www.linkedin.com/pulse/statistical-mistakes-even-scientists-make-kevin-gray/)
+  * [R & stats illustrations by @allison_horst](https://github.com/allisonhorst/stats-illustrations)
   
 # Forecast  
   
@@ -468,6 +469,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Course Notes for IS 6489, Statistics and Predictive Analytics](https://bookdown.org/jefftemplewebb/IS-6489/)
   * [Curso Avançado em Estatística com R da UFFS](https://smolski.github.io/livroavancado/)
   * [Análise Explicativa do Modelo - Explore, explique e examine modelos preditivos](https://pbiecek.github.io/ema/)
+  * [Curso-R Ciência de Dados em R](livro.curso-r.com)
 
 # Machine Learning
 
@@ -504,6 +506,8 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Iterative Bayesian optimization of a classification model](https://www.tidymodels.org/learn/work/bayes-opt/)
   * [Tutorial on tidymodels for Machine Learning](https://hansjoerg.me/2020/02/09/tidymodels-for-machine-learning/)
   * [Tune XGBoost with tidymodels and #TidyTuesday beach volleyball](https://juliasilge.com/blog/xgboost-tune-volleyball/)
+  * [PCA and UMAP with tidymodels and #TidyTuesday cocktail recipes](https://juliasilge.com/blog/cocktail-recipes-umap/)
+  * [A Gentle Introduction to tidymodels](https://rviews.rstudio.com/2019/06/19/a-gentle-intro-to-tidymodels/)
 
 ## Amostragem para Machine Learning
 
@@ -1113,6 +1117,7 @@ Conditional GANs (cGANs)](https://blogs.rstudio.com/tensorflow/posts/2018-09-20-
   * [Time Series Machine Learning (and Feature Engineering) in R (tidymodels) - Business Science](https://www.business-science.io/time-series/2020/03/18/time-series-machine-learning.html)
   * [Machine Learning (XGBoost) Time-Series Classification Trading Strategy](https://lf0.com/post/xgboost-time-series-classification-trading-strategy/xgboost-time-series-quant-trading-strategy/)
   * [Advanced Time Series Analysis - with TSsudio](https://rpubs.com/VitoFanelli1990/advanced-time-series-analysis)
+  * [Simple Time Series Forecasting Models to Test So That You Don’t Fool Yourself](https://machinelearningmastery.com/simple-time-series-forecasting-models/)
 
 # Slides
 
