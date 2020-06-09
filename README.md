@@ -102,6 +102,7 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
   * [**MapPalettes**](https://github.com/disarm-platform/MapPalettes)
   * [**heatmaply** 1.0.0 – beautiful interactive cluster heatmaps in R](https://www.r-statistics.com/2020/01/heatmaply-1-0-0-beautiful-interactive-cluster-heatmaps-in-r/)
   * [Using gghalves - Frederik Tiedemann - Plot que ocupam metade do espaço](https://erocoar.github.io/gghalves/)
+  * [Evolve new colour palettes in R with evoPalette](http://gradientdescending.com/evolve-new-colour-palettes-in-r-with-evopalette/?utm_source=rss&utm_medium=rss&utm_campaign=evolve-new-colour-palettes-in-r-with-evopalette)
 
 ## Animação de Gráficos
 
