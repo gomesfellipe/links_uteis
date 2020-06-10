@@ -802,6 +802,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Detectando outliers com heatmap](http://blog.revolutionanalytics.com/2018/03/outliers.html)
   * [Detectando valores faltantes](https://cran.r-project.org/web/packages/Amelia/vignettes/amelia.pdf) 
   * [Outlier Detection with Extended Isolation Forest](https://towardsdatascience.com/outlier-detection-with-extended-isolation-forest-1e248a3fe97b)
+  * [How to Scale Data With Outliers for Machine Learning](https://machinelearningmastery.com/robust-scaler-transforms-for-machine-learning/?)
   
 # Pacotes
 
