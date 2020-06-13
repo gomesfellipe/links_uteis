@@ -43,6 +43,7 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
   * [An Alternative to Cohen's Standardized Mean Difference Effect Size: A Robust Parameter and Confidence Interval in the Two Independent Groups Case.](https://www.researchgate.net/publication/7545280_An_Alternative_to_Cohen%27s_Standardized_Mean_Difference_Effect_Size_A_Robust_Parameter_and_Confidence_Interval_in_the_Two_Independent_Groups_Case)
   * [Effect Sizes for Research: Univariate and Multivariate Applications, Second Edition](https://www.amazon.com/Effect-Sizes-Research-Multivariate-Applications/dp/0415877695)
   * [SMOTE explained for noobs - Synthetic Minority Over-sampling TEchnique line by line](http://rikunert.com/SMOTE_explained)
+  * [Visualizing and interpreting Cohen’s d effect sizes](https://paulvanderlaken.com/2020/06/09/visualize-interpret-cohens-d-effect-size/)
   
 # Gráficos
 
@@ -648,6 +649,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 ## Seleção de Variáveis
 
   * [Seleção de recursos em R com o pacote Boruta R](https://www.datacamp.com/community/tutorials/feature-selection-R-boruta)
+  * [Boruta explained exactly how you wished someone explained to you](https://towardsdatascience.com/boruta-explained-the-way-i-wish-someone-explained-it-to-me-4489d70e154a)
   * [Feature Selection using Genetic Algorithms in R](https://blog.datascienceheroes.com/feature-selection-using-genetic-algorithms-in-r/)
 
 ## Árvores
@@ -1120,6 +1122,8 @@ Conditional GANs (cGANs)](https://blogs.rstudio.com/tensorflow/posts/2018-09-20-
   * [Machine Learning (XGBoost) Time-Series Classification Trading Strategy](https://lf0.com/post/xgboost-time-series-classification-trading-strategy/xgboost-time-series-quant-trading-strategy/)
   * [Advanced Time Series Analysis - with TSsudio](https://rpubs.com/VitoFanelli1990/advanced-time-series-analysis)
   * [Simple Time Series Forecasting Models to Test So That You Don’t Fool Yourself](https://machinelearningmastery.com/simple-time-series-forecasting-models/)
+  * [How DTW (Dynamic Time Warping) algorithm works - Youtube](https://www.youtube.com/watch?v=_K1OsqCicBY)
+  * [Welcome to the Dynamic Time Warp project! - Comprehensive implementation of Dynamic Time Warping algorithms in R and Python](https://dynamictimewarping.github.io/)
 
 # Slides
 
