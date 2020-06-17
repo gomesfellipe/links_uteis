@@ -104,6 +104,7 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
   * [**heatmaply** 1.0.0 – beautiful interactive cluster heatmaps in R](https://www.r-statistics.com/2020/01/heatmaply-1-0-0-beautiful-interactive-cluster-heatmaps-in-r/)
   * [Using gghalves - Frederik Tiedemann - Plot que ocupam metade do espaço](https://erocoar.github.io/gghalves/)
   * [Evolve new colour palettes in R with evoPalette](http://gradientdescending.com/evolve-new-colour-palettes-in-r-with-evopalette/?utm_source=rss&utm_medium=rss&utm_campaign=evolve-new-colour-palettes-in-r-with-evopalette)
+  * [{mdthemes} is on CRAN: markdown powered themes for {ggplot2}](https://thomasadventure.blog/posts/mdthemes-is-on-cran-markdown-powered-themes-for-ggplot2/)
 
 ## Animação de Gráficos
 
@@ -593,6 +594,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Descida de Gradiente para Regressão Logística Simplificada - Guia Visual Passo a Passo](http://ucanalytics.com/blogs/gradient-descent-logistic-regression-simplified-step-step-visual-guide/)
   * [Curso: GAMs in R: by Noam Ross](https://github.com/noamross/gams-in-r-course)
   * [Explaining Logistic Regression as Generalized Linear Model (in use as a classifier)](https://www.datasciencecentral.com/profiles/blogs/explaining-logistic-regression-as-generalized-linear-model-in-use)
+  * [blorr package offers tools for building and validating binary logistic regression models](https://blorr.rsquaredacademy.com/articles/introduction.html)
   
 ## Modelos Mistos
 
