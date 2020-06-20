@@ -192,6 +192,7 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
   * [beautifyR - RStudio addin for formatting Rmarkdown tables](https://github.com/mwip/beautifyR)
   * [remedy - RStudio Addins to Simplify Markdown Writing https://rtask.thinkr.fr](https://github.com/ThinkR-open/remedy)
   * [goodpractice - Advice on R Package Building](http://mangothecat.github.io/goodpractice/index.html)
+  * [logger - A lightweight, modern and flexibly logging utility for R – heavily inspired by the futile.logger R package and logging Python module](https://daroczig.github.io/logger/)
 
 # Dicas para Curriculo (CV - Curriculum Vitae) e carreira
 
@@ -358,6 +359,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Why I use R - Gordon Shotwell](https://blog.shotwell.ca/posts/why_i_use_r/)
   * [Why Gordon Shotwell uses R](https://paulvanderlaken.com/2020/01/06/why-gordon-shotwell-uses-r/)
   * [Syntax Highlighting in Blogdown; a very specific solution](https://venciso.netlify.app/2020/05/syntax-highlighting-blogdown/)
+  * [deepdep - Visualize e explore profundas dependências de pacotes R](https://dominikrafacz.github.io/deepdep/)
   
 ## Palestras sobre R
 
@@ -511,6 +513,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Tune XGBoost with tidymodels and #TidyTuesday beach volleyball](https://juliasilge.com/blog/xgboost-tune-volleyball/)
   * [PCA and UMAP with tidymodels and #TidyTuesday cocktail recipes](https://juliasilge.com/blog/cocktail-recipes-umap/)
   * [A Gentle Introduction to tidymodels](https://rviews.rstudio.com/2019/06/19/a-gentle-intro-to-tidymodels/)
+  * [Tunando seu modelo preditivo no R com o pacote {dials}](https://www.linkedin.com/pulse/tunando-seu-modelo-preditivo-r-com-o-pacote-dials-edgar-cutar-junior/)
 
 ## Amostragem para Machine Learning
 
@@ -647,6 +650,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 ## Tunnig do modelo
 
   * [Using 3D visualizations to tune hyperparameters in ML models](https://towardsdatascience.com/using-3d-visualizations-to-tune-hyperparameters-of-ml-models-with-python-ba2885eab2e9)
+  * [Como implementar otimização bayesiana do zero em Python](https://machinelearningmastery.com/what-is-bayesian-optimization/)
 
 ## Seleção de Variáveis
 
@@ -1251,3 +1255,4 @@ Stanford University School of Engineering
   * [Scrapping Google News with rvest](https://allanvc.github.io/webscrapping_google_news/)
   * [Case: Obtendo dados da OLX](http://sillasgonzaga.com/post/olx01/)
   * [An R web crawler and scraper](https://github.com/salimk/Rcrawler)
+  * [polite - The three pillars of a polite session are seeking permission, taking slowly and never asking twice](https://dmi3kno.github.io/polite/)
