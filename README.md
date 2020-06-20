@@ -1145,6 +1145,7 @@ Conditional GANs (cGANs)](https://blogs.rstudio.com/tensorflow/posts/2018-09-20-
   
   * [R Markdown: How to number and reference tables](https://datascienceplus.com/r-markdown-how-to-number-and-reference-tables/)
   * [R xlsx package : A quick start guide to manipulate Excel files in R](/r-xlsx-package-a-quick-start-guide-to-manipulate-excel-files-in-r)
+  * [How to Make Beautiful Tables in R](https://rfortherestofus.com/2019/11/how-to-make-beautiful-tables-in-r/)
 
 # Tensor flow
 
