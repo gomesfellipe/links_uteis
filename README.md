@@ -630,6 +630,9 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [auditor: uma visita guiada através de resíduos](https://feelml.com/post/2019-09-10-auditor/)
   * [ROC Curve Example Using Base R](http://rstudio-pubs-static.s3.amazonaws.com/220197_7131fb0b2455404cb95ea8f788d45828.html)
   * [modelStudio e a gramática da análise interativa de modelos explicativos](https://medium.com/@ModelOriented/modelstudio-and-the-grammar-of-interactive-explanatory-model-analysis-5d274ab2d822)
+  * [Scott Lundberg, Microsoft Research - Explainable Machine Learning with Shapley Values - Youtube](https://www.youtube.com/watch?v=ngOBhhINWb8)
+  * [Book - Hands-on Machine Learning with R - Chapter 16 - Interpretable Machine Learning](https://bradleyboehmke.github.io/HOML/iml.html)
+  * [gist - SHAP_with_H2O_AutoML.R](https://github.com/renanxcortes/SHAP_with_H2O_AutoML/blob/master/SHAP_with_H2O_AutoML.R)
 
 ## Sistema de recomendação
 
@@ -1137,6 +1140,7 @@ Conditional GANs (cGANs)](https://blogs.rstudio.com/tensorflow/posts/2018-09-20-
   * [Apresentation Ninja with Xaringan](https://slides.yihui.name/xaringan/#1)
   * [Kunoichi ⚔くノ一 A xaringan theme for the R-Ladies ninja](https://emitanaka.github.io/ninja-theme/themes/kunoichi/kunoichi-theme-example.html#1)
   * [xaringan template with logo on all slides](https://github.com/gadenbuie/xaringan-logo)
+  * [Flipbooks - Flipbooks present code step-by-step and side-by-side with its output.](https://evamaerey.github.io/flipbooks/about)
   
 # SQL com R
 
