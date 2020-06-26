@@ -589,6 +589,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [Logistic Regression in One Picture](https://www.datasciencecentral.com/profiles/blogs/logistic-regression-in-one-picture)
   * [Implementing the Gradient Descent Algorithm in R](https://www.datasciencecentral.com/profiles/blogs/implementing-the-gradient-descent-algorithm-in-r)
   * [How To Interpret R-squared and Goodness-of-Fit in Regression Analysis](https://www.datasciencecentral.com/profiles/blogs/regression-analysis-how-do-i-interpret-r-squared-and-assess-the)
+  * [Fitting penalized regressions - In R package {bigstatsr}, you can fit efficient penalized (linear and logistic) regressions using functions big_spLinReg() and big_spLogReg().](https://privefl.github.io/bigstatsr/articles/penalized-regressions.html)
 
   
 ## Modelos Generalizados
@@ -854,6 +855,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [fastmap - Fast map implementation for R ](https://github.com/r-lib/fastmap)
   * [apexcharter - Htmlwidget for apexcharts.js : A modern JavaScript charting library to build interactive charts and visualizations with simple API.](https://dreamrs.github.io/apexcharter/articles/starting-with-apexcharts.html)
   * [Fast Disk-Based Parallelized Data Manipulation Framework for Larger-than-RAM Data https://diskframe.com](https://github.com/xiaodaigh/disk.frame)
+  * [peep - R's default head or tail functions print 6 or so rows and all columns.](https://github.com/romunov/peep/blob/master/README.md)
 
 # RMarkdown
 
