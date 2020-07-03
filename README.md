@@ -1004,6 +1004,7 @@ ou organizações maiores.](https://www.r-bloggers.com/shinyproxy-1-1-1-released
   * [Running your R script in Docker](https://www.r-bloggers.com/running-your-r-script-in-docker/amp/)
   * [Docker para cientistas de dados (uma das principais habilidades para 2020)](https://www.business-science.io/business/2019/11/22/docker-for-data-science.html)
   * [Deploying a Shiny Flexdashboard with Docker](https://medium.com/analytics-vidhya/deploying-a-shiny-flexdashboard-with-docker-cca338a10d12)
+  * [docknitr: Using Docker in Rmarkdown - Ben Artin](https://cran.r-project.org/web/packages/docknitr/vignettes/docknitr.html)
 
 ## Highcharter 
   
