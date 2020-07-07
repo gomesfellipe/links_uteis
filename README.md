@@ -1145,6 +1145,7 @@ Conditional GANs (cGANs)](https://blogs.rstudio.com/tensorflow/posts/2018-09-20-
   * [Kunoichi ⚔くノ一 A xaringan theme for the R-Ladies ninja](https://emitanaka.github.io/ninja-theme/themes/kunoichi/kunoichi-theme-example.html#1)
   * [xaringan template with logo on all slides](https://github.com/gadenbuie/xaringan-logo)
   * [Flipbooks - Flipbooks present code step-by-step and side-by-side with its output.](https://evamaerey.github.io/flipbooks/about)
+  * [praise - Praise Users- Build friendly R packages that praise their users if they have done something good, or they just need it to feel better.](https://github.com/rladies/praise)
   
 # SQL com R
 
