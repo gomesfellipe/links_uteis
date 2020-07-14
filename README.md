@@ -747,6 +747,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
   * [3 distances that every data scientist should](https://towardsdatascience.com/3-distances-that-every-data-scientist-should-know-59d864e5030a)
   * [The essence of Eigenvalues and eigenvectors in Machine Learning](https://towardsdatascience.com/the-essence-of-eigenvalues-and-eigenvectors-in-machine-learning-f28c4727f56f)
   * [Tudo o que você precisa fazer com o PCA é em Factoshiny!](https://francoishusson.wordpress.com/2020/02/28/all-you-need-to-know-on-pca/)
+  * [Principal Component Analysis vs. Linear Discriminant Analysis](https://sebastianraschka.com/Articles/2014_python_lda.html)
 
 ## Aprendizado por reforço
 
