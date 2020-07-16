@@ -955,7 +955,6 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 * [vov.css animations for shiny](https://github.com/tyluRp/vov)
 * [reactor - reactor is a proof-of-concept for an <https://observablehq.com/> like experience powered by Shiny's built-in reactive expressions. (Parece um jupyter notebook feito em shiny)](https://github.com/tmastny/reactor)
 * [Drag-and-Drop in shiny Apps with SortableJS](https://rstudio.github.io/sortable/)
-* [shinytools](https://github.com/https://datastorm-open.github.io/shinymanager/ardata-fr/shinytools)
 * [shinymanager - Simple and secure authentification mechanism for single ‘Shiny’ applications. Credentials are stored in an encrypted ‘SQLite’ database.](https://datastorm-open.github.io/shinymanager/)
 
 
