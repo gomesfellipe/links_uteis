@@ -775,6 +775,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 * [geobr: Loads Shapefiles of Official Spatial Data Sets of Brazil](https://cran.r-project.org/web/packages/geobr/index.html)
 * [Interactive visualization of large-scale spatial data sets in R](https://urbandemographics.blogspot.com/2019/06/interactive-visualization-of-large.html?m=1)
 * [yutannihilation/ggsflabel - Labels for 'sf' with 'ggplot2' ](https://github.com/yutannihilation/ggsflabel)
+* [leaflet extensions for mapview](https://github.com/r-spatial/leafem)
 
 # Música
 
