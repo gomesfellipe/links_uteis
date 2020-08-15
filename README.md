@@ -105,6 +105,7 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
 * [Using gghalves - Frederik Tiedemann - Plot que ocupam metade do espaço](https://erocoar.github.io/gghalves/)
 * [Evolve new colour palettes in R with evoPalette](http://gradientdescending.com/evolve-new-colour-palettes-in-r-with-evopalette/?utm_source=rss&utm_medium=rss&utm_campaign=evolve-new-colour-palettes-in-r-with-evopalette)
 * [{mdthemes} is on CRAN: markdown powered themes for {ggplot2}](https://thomasadventure.blog/posts/mdthemes-is-on-cran-markdown-powered-themes-for-ggplot2/)
+* [ggtext - Draw boxes containing text](https://wilkelab.org/ggtext/reference/geom_textbox.html)
 
 ## Animação de Gráficos
 
