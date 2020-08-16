@@ -916,7 +916,6 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 * [ShinyMaterial - Material design in Shiny apps](https://ericrayanderson.github.io/shinymaterial/)
 * [Announcing the 1st Shiny Contest - Para inspiração](https://blog.rstudio.com/2019/01/07/first-shiny-contest/)
 * [waypointer - Simple animated waypoints for shiny](https://github.com/RinteRface/waypointer)
-<<<<<<< HEAD
 * [Styling DataTables](http://www.stencilled.me/post/2019-04-20-stylingdt/)
 * [Stencilled - Download and Email reports in R Shiny app](http://www.stencilled.me/post/2019-04-14-downloadshiny/)
 * [rintrojspacote -  R integra o Intro.js ao Shiny, para que os usuários possam adicionar facilmente instruções ao seu aplicativo sem precisar usar HTML, CSS ou JavaScript](https://carlganz.github.io/rintrojs/)
@@ -958,6 +957,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 * [reactor - reactor is a proof-of-concept for an <https://observablehq.com/> like experience powered by Shiny's built-in reactive expressions. (Parece um jupyter notebook feito em shiny)](https://github.com/tmastny/reactor)
 * [Drag-and-Drop in shiny Apps with SortableJS](https://rstudio.github.io/sortable/)
 * [shinymanager - Simple and secure authentification mechanism for single ‘Shiny’ applications. Credentials are stored in an encrypted ‘SQLite’ database.](https://datastorm-open.github.io/shinymanager/)
+* [shinyFeedback - R package for displaying user feedback alongside Shiny inputs](https://merlinoa.github.io/shinyFeedback/)
 
 ## Shinydashboard
 
