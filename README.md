@@ -958,6 +958,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 * [Drag-and-Drop in shiny Apps with SortableJS](https://rstudio.github.io/sortable/)
 * [shinymanager - Simple and secure authentification mechanism for single ‘Shiny’ applications. Credentials are stored in an encrypted ‘SQLite’ database.](https://datastorm-open.github.io/shinymanager/)
 * [shinyFeedback - R package for displaying user feedback alongside Shiny inputs](https://merlinoa.github.io/shinyFeedback/)
+* [Shiny App ideas](https://github.com/florinpop17/app-ideas)
 
 ## Shinydashboard
 
