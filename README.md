@@ -503,6 +503,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 * [Quando Bayes, Ockham e Shannon se unem para definir o aprendizado de máquina](https://towardsdatascience.com/when-bayes-ockham-and-shannon-come-together-to-define-machine-learning-96422729a1ad)
 * [Modelagem Avançada (em R) - Encontre o melhor modelo preditivo usando o pacote R / caret / modelgrid](https://datascienceplus.com/find-the-best-predictive-model-using-r-caret-package-modelgrid/)
 * [14 tipos diferentes de aprendizado no aprendizado de máquina](https://machinelearningmastery.com/types-of-learning-in-machine-learning/)
+* [A Tour of Machine Learning Algorithms](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
 
 ## Machine learning - Tidymodels
 
@@ -591,6 +592,8 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 * [Implementing the Gradient Descent Algorithm in R](https://www.datasciencecentral.com/profiles/blogs/implementing-the-gradient-descent-algorithm-in-r)
 * [How To Interpret R-squared and Goodness-of-Fit in Regression Analysis](https://www.datasciencecentral.com/profiles/blogs/regression-analysis-how-do-i-interpret-r-squared-and-assess-the)
 * [Fitting penalized regressions - In R package {bigstatsr}, you can fit efficient penalized (linear and logistic) regressions using functions big_spLinReg() and big_spLogReg().](https://privefl.github.io/bigstatsr/articles/penalized-regressions.html)
+* [Understanding Lasso and Ridge Regression](https://scienceloft.com/technical/understanding-lasso-and-ridge-regression/)
+* [Tutorial: Poisson Regression in R](https://www.dataquest.io/blog/tutorial-poisson-regression-in-r/)
 
 
 ## Modelos Generalizados
