@@ -476,6 +476,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 * [Curso Avançado em Estatística com R da UFFS](https://smolski.github.io/livroavancado/)
 * [Análise Explicativa do Modelo - Explore, explique e examine modelos preditivos](https://pbiecek.github.io/ema/)
 * [Curso-R Ciência de Dados em R](livro.curso-r.com)
+* [Dive into Deep Learning](https://d2l.ai/d2l-en.pdf)
 
 # Machine Learning
 
