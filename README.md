@@ -34,6 +34,7 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
 * [SKIMR: ESTATÍSTICAS BÁSICAS COM R](https://www.curso-r.com/blog/2017-06-17-skimr/)
 * [correlationfunnel - Methodology, Key Considerations, and FAQs](https://business-science.github.io/correlationfunnel/articles/key_considerations.html)
 * [Tidylog, logging your pipelines](https://typethepipe.com/vizs-and-tips/tidylog-logging-pipelines/)
+* [inspectdf - Exploratory data analysis with categorical data](https://www.cesargamboasanabria.com/en/post/2019-06-23-exploraci%C3%B3n-de-datos-categ%C3%B3ricos-con-el-paquete-inspectdf/)
 
 # Amostragem  
 
@@ -194,6 +195,7 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
 * [remedy - RStudio Addins to Simplify Markdown Writing https://rtask.thinkr.fr](https://github.com/ThinkR-open/remedy)
 * [goodpractice - Advice on R Package Building](http://mangothecat.github.io/goodpractice/index.html)
 * [logger - A lightweight, modern and flexibly logging utility for R – heavily inspired by the futile.logger R package and logging Python module](https://daroczig.github.io/logger/)
+* [3 Princípios para facilitar a vida de todo programador (KISS, YAGNI, DRY)](https://medium.com/opensanca/3-princ%C3%ADpios-para-facilitar-a-vida-de-todo-programador-5842885c9659)
 
 # Dicas para Curriculo (CV - Curriculum Vitae) e carreira
 
@@ -660,6 +662,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 
 * [Using 3D visualizations to tune hyperparameters in ML models](https://towardsdatascience.com/using-3d-visualizations-to-tune-hyperparameters-of-ml-models-with-python-ba2885eab2e9)
 * [Como implementar otimização bayesiana do zero em Python](https://machinelearningmastery.com/what-is-bayesian-optimization/)
+* [Using Bayesian Optimization to reduce the time spent on hyperparameter tuning](https://medium.com/vantageai/bringing-back-the-time-spent-on-hyperparameter-tuning-with-bayesian-optimisation-2e21a3198afb)
 
 ## Seleção de Variáveis
 
