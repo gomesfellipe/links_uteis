@@ -704,6 +704,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 * [UM ESTUDO SOBRE OS CLASSIFICADORES GRADIENT BOOSTING](https://linux.ime.usp.br/~robotenique/mac0499/)
 * [ggRandomForests - ALL YOUR FIGURE ARE BELONG TO US](https://yutannihilation.github.io/allYourFigureAreBelongToUs/ggrandomforests/)
 * [stackgbm offers a minimalist implementation of model stacking for gradient boosted tree models built by xgboost, lightgbm, and catboost.](https://nanx.me/stackgbm/index.html)
+* [slides xgboost teoria e passo a passo - curso r](https://curso-r.github.io/main-xgboost/slides/slides_xgb_teoria_e_passo_a_passo.pdf)
 
 ## knn
 
