@@ -196,6 +196,7 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
 * [goodpractice - Advice on R Package Building](http://mangothecat.github.io/goodpractice/index.html)
 * [logger - A lightweight, modern and flexibly logging utility for R – heavily inspired by the futile.logger R package and logging Python module](https://daroczig.github.io/logger/)
 * [3 Princípios para facilitar a vida de todo programador (KISS, YAGNI, DRY)](https://medium.com/opensanca/3-princ%C3%ADpios-para-facilitar-a-vida-de-todo-programador-5842885c9659)
+* [Top 9 Keyboard Shortcuts in VSCode for Data Scientists](https://towardsdatascience.com/top-9-keyboard-shortcuts-in-vscode-for-data-scientists-468691b65ebe)
 
 # Dicas para Curriculo (CV - Curriculum Vitae) e carreira
 
@@ -479,6 +480,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 * [Análise Explicativa do Modelo - Explore, explique e examine modelos preditivos](https://pbiecek.github.io/ema/)
 * [Curso-R Ciência de Dados em R](livro.curso-r.com)
 * [Dive into Deep Learning](https://d2l.ai/d2l-en.pdf)
+* [Bayes Rules! An Introduction to Bayesian Modeling with R](https://www.bayesrulesbook.com/)
 
 # Machine Learning
 
