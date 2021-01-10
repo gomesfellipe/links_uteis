@@ -599,6 +599,9 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 * [Fitting penalized regressions - In R package {bigstatsr}, you can fit efficient penalized (linear and logistic) regressions using functions big_spLinReg() and big_spLogReg().](https://privefl.github.io/bigstatsr/articles/penalized-regressions.html)
 * [Understanding Lasso and Ridge Regression](https://scienceloft.com/technical/understanding-lasso-and-ridge-regression/)
 * [Tutorial: Poisson Regression in R](https://www.dataquest.io/blog/tutorial-poisson-regression-in-r/)
+* [A Shiny app for simple linear regression by hand and in R](https://statsandr.com/blog/a-shiny-app-for-simple-linear-regression-by-hand-and-in-r/)
+* [lmSubsets: Exact variable-subset selection in linear regression](https://www.zeileis.org/news/lmsubsets/)
+* [Machine Learning with R: A Complete Guide to Linear Regression](https://appsilon.com/r-linear-regression/)
 
 
 ## Modelos Generalizados
