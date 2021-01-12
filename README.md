@@ -481,6 +481,8 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 * [Curso-R Ciência de Dados em R](livro.curso-r.com)
 * [Dive into Deep Learning](https://d2l.ai/d2l-en.pdf)
 * [Bayes Rules! An Introduction to Bayesian Modeling with R](https://www.bayesrulesbook.com/)
+* [Aprendizado de máquina: uma abordagem estatística](http://www.rizbicki.ufscar.br/ame/)
+* [Big Book of R - Lista curada de links para livros relacionados à R](https://www.bigbookofr.com/index.html)
 
 # Machine Learning
 
@@ -710,6 +712,8 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 * [ggRandomForests - ALL YOUR FIGURE ARE BELONG TO US](https://yutannihilation.github.io/allYourFigureAreBelongToUs/ggrandomforests/)
 * [stackgbm offers a minimalist implementation of model stacking for gradient boosted tree models built by xgboost, lightgbm, and catboost.](https://nanx.me/stackgbm/index.html)
 * [slides xgboost teoria e passo a passo - curso r](https://curso-r.github.io/main-xgboost/slides/slides_xgb_teoria_e_passo_a_passo.pdf)
+* [Fast Gradient Boosting with CatBoost - kdnuggets](https://www.kdnuggets.com/2020/10/fast-gradient-boosting-catboost.html)
+* [Understanding XGBoost Algorithm In Detail](https://analyticsindiamag.com/xgboost-internal-working-to-make-decision-trees-and-deduce-predictions/)
 
 ## knn
 
