@@ -35,6 +35,7 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
 * [correlationfunnel - Methodology, Key Considerations, and FAQs](https://business-science.github.io/correlationfunnel/articles/key_considerations.html)
 * [Tidylog, logging your pipelines](https://typethepipe.com/vizs-and-tips/tidylog-logging-pipelines/)
 * [inspectdf - Exploratory data analysis with categorical data](https://www.cesargamboasanabria.com/en/post/2019-06-23-exploraci%C3%B3n-de-datos-categ%C3%B3ricos-con-el-paquete-inspectdf/)
+* [catmaply](https://cran.r-project.org/web/packages/catmaply/vignettes/catmaply.html)
 
 # Amostragem  
 
