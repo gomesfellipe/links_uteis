@@ -321,6 +321,7 @@ Analyses Using Only ANOVA Procedures](https://faculty.washington.edu/leahkf/pubs
 * [How Bayesian inference works
 part of the End-to-End Machine Learning library](https://brohrer.github.io/how_bayesian_inference_works.html)
 * [Inferência Bayesiana - Intuição e Exemplo](https://towardsdatascience.com/bayesian-inference-intuition-and-example-148fd8fb95d6)
+* [stantargets - an extension to targets and cmdstanr for Bayesian data analysis](https://github.com/wlandau/stantargets)
 
 ## Distribuições de probabilidade
 
@@ -795,6 +796,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 * [Interactive visualization of large-scale spatial data sets in R](https://urbandemographics.blogspot.com/2019/06/interactive-visualization-of-large.html?m=1)
 * [yutannihilation/ggsflabel - Labels for 'sf' with 'ggplot2' ](https://github.com/yutannihilation/ggsflabel)
 * [leaflet extensions for mapview](https://github.com/r-spatial/leafem)
+* [r5r: Rapid Realistic Routing with R5 in R](https://www.urbandemographics.org/post/r5r-fast-multimodal-transport-routing-in-r/)
 
 # Música
 
