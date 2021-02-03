@@ -900,6 +900,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 * [Distill for R Markdown Scientific and technical writing, native to the web](https://rstudio.github.io/distill/)
 * [posterdown - Use RMarkdown to generate PDF Conference Posters via HTML ](https://github.com/brentthorne/posterdown)
 * [myprettyreport - Detailed introduction of "myprettyreport" R package](https://blog.myhappydata.com/rstats/2018/11/10/detailed-introduction-of-myprettyreport-r-package.html)
+* [Welcome to reportfactory! - Lightweight Infrastructure for Handlling Multiple R Markdown Documents](https://www.repidemicsconsortium.org/reportfactory/)
 
 # Shiny 
 
@@ -1049,6 +1050,7 @@ ou organizações maiores.](https://www.r-bloggers.com/shinyproxy-1-1-1-released
 * [5 principais IDEs Python para Data Science](https://www.datacamp.com/community/tutorials/data-science-python-ide)
 * [Python Wrapper for NVD3 - It's time for beautiful charts](https://github.com/areski/python-nvd3)
 * [Jupyter Notebook Tutorial: The Definitive Guide](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook)
+* [rtven - Flow-based visual scripting for Python](https://ryven.org/)
 
 # Python para usuários de R
 
@@ -1070,6 +1072,7 @@ ou organizações maiores.](https://www.r-bloggers.com/shinyproxy-1-1-1-released
 * [Structuring R projects](https://chrisvoncsefalvay.com/structuring-r-projects/)
 * [ProjectTemplate - ProjectTemplate é um sistema para automatizar as partes impensadas de um projeto de análise de dados:](http://projecttemplate.net/custom_templates.html)
 * [Cookiecutter Data Science -  A logical, reasonably standardized, but flexible project structure for doing and sharing data science work.](https://github.com/drivendata/cookiecutter-data-science/blob/master/README.md)
+* [UMA TESE SÃO “SÓ” 5 COISAS…](https://silvio.meira.com/silvio/uma-tese-sao-so-5-coisas/)
 
 # Redes Neurais 
 
