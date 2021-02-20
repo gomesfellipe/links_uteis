@@ -839,6 +839,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 * [Detectando valores faltantes](https://cran.r-project.org/web/packages/Amelia/vignettes/amelia.pdf) 
 * [Outlier Detection with Extended Isolation Forest](https://towardsdatascience.com/outlier-detection-with-extended-isolation-forest-1e248a3fe97b)
 * [How to Scale Data With Outliers for Machine Learning](https://machinelearningmastery.com/robust-scaler-transforms-for-machine-learning/?)
+* [Tratar dados faltantes com random forest e tidymodels](https://www.business-science.io/code-tools/2021/01/19/handle-missing-data.html?utm_content=buffer3150b&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
 
 # Pacotes
 
