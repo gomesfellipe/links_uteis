@@ -199,6 +199,10 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
 * [3 Princípios para facilitar a vida de todo programador (KISS, YAGNI, DRY)](https://medium.com/opensanca/3-princ%C3%ADpios-para-facilitar-a-vida-de-todo-programador-5842885c9659)
 * [Top 9 Keyboard Shortcuts in VSCode for Data Scientists](https://towardsdatascience.com/top-9-keyboard-shortcuts-in-vscode-for-data-scientists-468691b65ebe)
 
+# Dashboards
+
+* [Best Website Dashboard UI Examples for Design Inspiration](https://medium.com/theymakedesign/website-dashboard-ui-examples-inspiration-90-63a87d5b475b)
+
 # Dicas para Curriculo (CV - Curriculum Vitae) e carreira
 
 * [How to tailor your Academic CV for Data Science roles](https://www.datasciencecentral.com/profiles/blogs/how-to-tailor-your-academic-cv-for-data-science-roles)
