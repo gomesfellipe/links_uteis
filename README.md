@@ -1070,6 +1070,7 @@ ou organizações maiores.](https://www.r-bloggers.com/shinyproxy-1-1-1-released
 * [Configurando o VS Code para desenvolvimento Python como o RStudio](https://stevenmortimer.com/setting-up-vs-code-for-python-development-like-rstudio/)
 * [Why you should use siuba, the dplyr of Python](https://timmastny.rbind.io/blog/why-you-should-use-siuba-dplyr-for-python/)
 * [Jupyter Black [Black formatter for Jupyter Notebook] - identa o codigo automaticamente](https://github.com/drillan/jupyter-black)
+* [Plotnine: Grammar of Graphics for Python](https://datascienceworkshops.com/blog/plotnine-grammar-of-graphics-for-python/)
 
 # Projetos
 
