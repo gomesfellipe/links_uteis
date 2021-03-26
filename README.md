@@ -108,6 +108,9 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
 * [Evolve new colour palettes in R with evoPalette](http://gradientdescending.com/evolve-new-colour-palettes-in-r-with-evopalette/?utm_source=rss&utm_medium=rss&utm_campaign=evolve-new-colour-palettes-in-r-with-evopalette)
 * [{mdthemes} is on CRAN: markdown powered themes for {ggplot2}](https://thomasadventure.blog/posts/mdthemes-is-on-cran-markdown-powered-themes-for-ggplot2/)
 * [ggtext - Draw boxes containing text](https://wilkelab.org/ggtext/reference/geom_textbox.html)
+* [ggcyberpunk](https://github.com/delabj/ggcyberpunk)
+* [tinter - provides a simple way to generate monochromatic palettes](https://github.com/sebdalgarno/tinter)
+* [82 registered extensions available to explore](https://exts.ggplot2.tidyverse.org/gallery/)
 
 ## Animação de Gráficos
 
@@ -326,6 +329,7 @@ Analyses Using Only ANOVA Procedures](https://faculty.washington.edu/leahkf/pubs
 part of the End-to-End Machine Learning library](https://brohrer.github.io/how_bayesian_inference_works.html)
 * [Inferência Bayesiana - Intuição e Exemplo](https://towardsdatascience.com/bayesian-inference-intuition-and-example-148fd8fb95d6)
 * [stantargets - an extension to targets and cmdstanr for Bayesian data analysis](https://github.com/wlandau/stantargets)
+* <https://michael-barr.com/datasci/bayesian-mbo?utm_source=rss&utm_medium=rss&utm_campaign=bayesian-mbo>
 
 ## Distribuições de probabilidade
 
@@ -489,6 +493,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 * [Bayes Rules! An Introduction to Bayesian Modeling with R](https://www.bayesrulesbook.com/)
 * [Aprendizado de máquina: uma abordagem estatística](http://www.rizbicki.ufscar.br/ame/)
 * [Big Book of R - Lista curada de links para livros relacionados à R](https://www.bigbookofr.com/index.html)
+* [Modern Data Science with R](https://mdsr-book.github.io/mdsr2e/)
 
 # Machine Learning
 
@@ -804,6 +809,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 * [yutannihilation/ggsflabel - Labels for 'sf' with 'ggplot2' ](https://github.com/yutannihilation/ggsflabel)
 * [leaflet extensions for mapview](https://github.com/r-spatial/leafem)
 * [r5r: Rapid Realistic Routing with R5 in R](https://www.urbandemographics.org/post/r5r-fast-multimodal-transport-routing-in-r/)
+* [Select points on maps](https://r-vogg-blog.netlify.app/posts/2021-02-12-select-points-on-maps/)
 
 # Música
 
@@ -1130,6 +1136,7 @@ Conditional GANs (cGANs)](https://blogs.rstudio.com/tensorflow/posts/2018-09-20-
 * [An End to End Introduction to GANs](https://towardsdatascience.com/an-end-to-end-introduction-to-gans-bf253f1fa52f)
 * [Afinal, o que é Deep learning?](https://medium.com/@lauradamaceno/afinal-o-que-é-deep-learning-c6e429d04d20)
 * [R Markdown Notebooks for "Deep Learning with R](https://github.com/jjallaire/deep-learning-with-r-notebooks)
+* [Neural Style Transfer com Torch](https://blog.curso-r.com/posts/2021-02-22-neural-style-transfer/)
 
 ## Visão Computacional
 
