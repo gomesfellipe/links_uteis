@@ -677,11 +677,14 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 * [Como implementar otimização bayesiana do zero em Python](https://machinelearningmastery.com/what-is-bayesian-optimization/)
 * [Using Bayesian Optimization to reduce the time spent on hyperparameter tuning](https://medium.com/vantageai/bringing-back-the-time-spent-on-hyperparameter-tuning-with-bayesian-optimisation-2e21a3198afb)
 
-## Seleção de Variáveis
+## Seleção de Features
 
 * [Seleção de recursos em R com o pacote Boruta R](https://www.datacamp.com/community/tutorials/feature-selection-R-boruta)
 * [Boruta explained exactly how you wished someone explained to you](https://towardsdatascience.com/boruta-explained-the-way-i-wish-someone-explained-it-to-me-4489d70e154a)
 * [Feature Selection using Genetic Algorithms in R](https://blog.datascienceheroes.com/feature-selection-using-genetic-algorithms-in-r/)
+* <https://www.business-science.io/code-tools/2021/02/16/power-score-vs-correlation-funnel.html>
+* <https://www.analyticsvidhya.com/blog/2016/03/select-important-variables-boruta-package/>
+* <https://www.machinelearningplus.com/machine-learning/feature-selection/>
 
 ## Árvores
 
