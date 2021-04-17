@@ -496,6 +496,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 * [Big Book of R - Lista curada de links para livros relacionados à R](https://www.bigbookofr.com/index.html)
 * [Modern Data Science with R](https://mdsr-book.github.io/mdsr2e/)
 * [Practical Data Science - Doing more with your data](https://m-clark.github.io/data-processing-and-visualization/)
+* [Modern Data Science with R](https://mdsr-book.github.io/mdsr2e/)
 
 # Machine Learning
 
@@ -1155,6 +1156,7 @@ Conditional GANs (cGANs)](https://blogs.rstudio.com/tensorflow/posts/2018-09-20-
 ## Reconhecimento de objetos
 
 * [Detecção de objetos com 10 linhas de codigo](https://towardsdatascience.com/object-detection-with-10-lines-of-code-d6cb4d86f606)
+* [How to build your own image recognition app with R! [Part 2]](https://www.r-bloggers.com/2021/03/how-to-build-your-own-image-recognition-app-with-r-part-2/?fbclid=IwAR0NW531lcLpD751h-Rexlt7MTrPK8KyBOJexzWcj2WLXKQ8LFDLjGynWnc)
 
 # Séries temporais
 
