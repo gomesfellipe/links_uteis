@@ -111,6 +111,7 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
 * [ggcyberpunk](https://github.com/delabj/ggcyberpunk)
 * [tinter - provides a simple way to generate monochromatic palettes](https://github.com/sebdalgarno/tinter)
 * [82 registered extensions available to explore](https://exts.ggplot2.tidyverse.org/gallery/)
+* [Raincloud Plots](https://github.com/RainCloudPlots/RainCloudPlots)
 
 ## Animação de Gráficos
 
@@ -494,6 +495,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 * [Aprendizado de máquina: uma abordagem estatística](http://www.rizbicki.ufscar.br/ame/)
 * [Big Book of R - Lista curada de links para livros relacionados à R](https://www.bigbookofr.com/index.html)
 * [Modern Data Science with R](https://mdsr-book.github.io/mdsr2e/)
+* [Practical Data Science - Doing more with your data](https://m-clark.github.io/data-processing-and-visualization/)
 
 # Machine Learning
 
@@ -690,6 +692,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 * <https://www.business-science.io/code-tools/2021/02/16/power-score-vs-correlation-funnel.html>
 * <https://www.analyticsvidhya.com/blog/2016/03/select-important-variables-boruta-package/>
 * <https://www.machinelearningplus.com/machine-learning/feature-selection/>
+* [SAFE - Simplify your model: Supervised Assisted Feature Extraction for Machine Learning](https://medium.com/responsibleml/simplify-your-model-supervised-assisted-feature-extraction-for-machine-learning-ee5433ad5613)
 
 ## Árvores
 
