@@ -112,6 +112,8 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
 * [tinter - provides a simple way to generate monochromatic palettes](https://github.com/sebdalgarno/tinter)
 * [82 registered extensions available to explore](https://exts.ggplot2.tidyverse.org/gallery/)
 * [Raincloud Plots](https://github.com/RainCloudPlots/RainCloudPlots)
+* [How to adjust labels in flashlight breakdown plots](https://cosimameyer.rbind.io/post/how-to-adjust-labels-in-flashlight-light-breakdown-plots/)
+* [Tabelas para ggplot2 - mmtable2](https://www.business-science.io/code-tools/2021/05/04/mmtable2.html)
 
 ## Animação de Gráficos
 
@@ -207,12 +209,13 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
 
 * [Best Website Dashboard UI Examples for Design Inspiration](https://medium.com/theymakedesign/website-dashboard-ui-examples-inspiration-90-63a87d5b475b)
 
-# Dicas para Curriculo (CV - Curriculum Vitae) e carreira
+# Dicas para Curriculo (CV - Curriculum Vitae) e Carreira
 
 * [How to tailor your Academic CV for Data Science roles](https://www.datasciencecentral.com/profiles/blogs/how-to-tailor-your-academic-cv-for-data-science-roles)
 * [How to create a timeline of your cv in R](https://www.statsandr.com/blog/how-to-create-a-timeline-of-your-cv-in-r/)
 * [Um guia para reuniões "one on one" com lideranças](http://lgmoneda.github.io/2020/01/20/guia-de-one-on-one.html)
 * [O QUE OS RECRUTADORES PROCURAM EM UM CURRÍCULO PARA CIENTISTA DE DADOS?](http://datascienceacademy.com.br/blog/o-que-os-recrutadores-procuram-em-um-curriculo-para-cientista-de-dados/)
+* [Carta de referencia para um emprego, modelo ideal](https://www.roberthalf.com.br/blog/curriculo/carta-de-referencia-para-emprego-o-modelo-ideal?utm_source=voicestorm&utm_medium=social)
 
 # Kaggle
 
@@ -417,11 +420,12 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 * [Matemática que você não precisa saber para aprendizado de máquina](https://www.datasciencecentral.com/profiles/blogs/math-you-don-t-need-to-know-for-ml)
 * [Statistical Mistakes Even Scientists Make](https://www.linkedin.com/pulse/statistical-mistakes-even-scientists-make-kevin-gray/)
 * [R & stats illustrations by @allison_horst](https://github.com/allisonhorst/stats-illustrations)
+* [Not even scientists can easily explain p-values](https://fivethirtyeight.com/features/not-even-scientists-can-easily-explain-p-values/)
 
-# Forecast  
+# Forecast - Series Temporais
 
 * [Selecting Forecasting Methods in Data Science](https://www.datasciencecentral.com/profiles/blogs/selecting-forecasting-methods-in-data-science)
-
+* [garchmodels](https://github.com/AlbertoAlmuinha/garchmodels)
 
 # Git e Github  
 
@@ -678,6 +682,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 * [Bayesian network](https://en.wikipedia.org/wiki/Bayesian_network)
 * [Hidden Markov model](https://en.wikipedia.org/wiki/Hidden_Markov_model)
 * [Collaborative filtering](https://en.wikipedia.org/wiki/Collaborative_filtering)
+* [Uma nova métrica para calcular relevância de busca](https://medium.com/olxbrasiltech/uma-nova-m%C3%A9trica-para-calcular-relev%C3%A2ncia-de-busca-65372f154f8f)
 
 ## Tunnig do modelo
 
@@ -1145,6 +1150,7 @@ Conditional GANs (cGANs)](https://blogs.rstudio.com/tensorflow/posts/2018-09-20-
 ## Visão Computacional
 
 * [Computer vision basics in Microsoft Excel](https://github.com/amzn/computer-vision-basics-in-microsoft-excel)
+* [How to build your own image recognition app with R! \[Part 2\]](https://www.r-bloggers.com/2021/03/how-to-build-your-own-image-recognition-app-with-r-part-2/?fbclid=IwAR0NW531lcLpD751h-Rexlt7MTrPK8KyBOJexzWcj2WLXKQ8LFDLjGynWnc)
 
 
 ## Reconhecimento facial
