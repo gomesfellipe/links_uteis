@@ -114,6 +114,7 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
 * [Raincloud Plots](https://github.com/RainCloudPlots/RainCloudPlots)
 * [How to adjust labels in flashlight breakdown plots](https://cosimameyer.rbind.io/post/how-to-adjust-labels-in-flashlight-light-breakdown-plots/)
 * [Tabelas para ggplot2 - mmtable2](https://www.business-science.io/code-tools/2021/05/04/mmtable2.html)
+* [ggsignif: Significance Brackets for ‘ggplot2’](https://github.com/const-ae/ggsignif)
 
 ## Animação de Gráficos
 
@@ -501,6 +502,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 * [Modern Data Science with R](https://mdsr-book.github.io/mdsr2e/)
 * [Practical Data Science - Doing more with your data](https://m-clark.github.io/data-processing-and-visualization/)
 * [Modern Data Science with R](https://mdsr-book.github.io/mdsr2e/)
+* [Bayes Rules! An Introduction to Bayesian Modeling with R](https://www.bayesrulesbook.com/)
 
 # Machine Learning
 
@@ -1151,6 +1153,7 @@ Conditional GANs (cGANs)](https://blogs.rstudio.com/tensorflow/posts/2018-09-20-
 
 * [Computer vision basics in Microsoft Excel](https://github.com/amzn/computer-vision-basics-in-microsoft-excel)
 * [How to build your own image recognition app with R! \[Part 2\]](https://www.r-bloggers.com/2021/03/how-to-build-your-own-image-recognition-app-with-r-part-2/?fbclid=IwAR0NW531lcLpD751h-Rexlt7MTrPK8KyBOJexzWcj2WLXKQ8LFDLjGynWnc)
+* [Semelhanca de imagens - Jogo dos sete erros com visao computacional](https://github.com/luandiego01/Visao_computacional/blob/main/01_semelhanca_de_imagens.ipynb)
 
 
 ## Reconhecimento facial
