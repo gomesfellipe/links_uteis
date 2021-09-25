@@ -115,6 +115,7 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
 * [How to adjust labels in flashlight breakdown plots](https://cosimameyer.rbind.io/post/how-to-adjust-labels-in-flashlight-light-breakdown-plots/)
 * [Tabelas para ggplot2 - mmtable2](https://www.business-science.io/code-tools/2021/05/04/mmtable2.html)
 * [ggsignif: Significance Brackets for ‘ggplot2’](https://github.com/const-ae/ggsignif)
+* [Reorder legend to match order of plot elements in ggplot2](https://www.nsgrantham.com/reorder-legend-ggplot2)
 
 ## Animação de Gráficos
 
@@ -503,6 +504,8 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 * [Practical Data Science - Doing more with your data](https://m-clark.github.io/data-processing-and-visualization/)
 * [Modern Data Science with R](https://mdsr-book.github.io/mdsr2e/)
 * [Bayes Rules! An Introduction to Bayesian Modeling with R](https://www.bayesrulesbook.com/)
+* [Introduction to Data Science - Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook/)
+* [An Introduction to Statistical Learning](https://www.statlearning.com/)
 
 # Machine Learning
 
@@ -543,6 +546,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 * [PCA and UMAP with tidymodels and #TidyTuesday cocktail recipes](https://juliasilge.com/blog/cocktail-recipes-umap/)
 * [A Gentle Introduction to tidymodels](https://rviews.rstudio.com/2019/06/19/a-gentle-intro-to-tidymodels/)
 * [Tunando seu modelo preditivo no R com o pacote {dials}](https://www.linkedin.com/pulse/tunando-seu-modelo-preditivo-r-com-o-pacote-dials-edgar-cutar-junior/)
+* [Use racing methods to tune xgboost models and predict home runs](https://juliasilge.com/blog/baseball-racing/)
 
 ## Amostragem para Machine Learning
 
@@ -1219,6 +1223,7 @@ Conditional GANs (cGANs)](https://blogs.rstudio.com/tensorflow/posts/2018-09-20-
 * [R xlsx package : A quick start guide to manipulate Excel files in R](/r-xlsx-package-a-quick-start-guide-to-manipulate-excel-files-in-r)
 * [How to Make Beautiful Tables in R](https://rfortherestofus.com/2019/11/how-to-make-beautiful-tables-in-r/)
 * [I am very happy to announce dataui (source,site,JavaScript library) for the R sparkline lovers.](https://timelyportfolio.github.io/dataui/articles/dataui_reactable.html)
+* [reactablefmtr](https://kcuilla.github.io/reactablefmtr/index.html)
 
 # Tensor flow
 
