@@ -1018,6 +1018,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 * [shinyFeedback - R package for displaying user feedback alongside Shiny inputs](https://merlinoa.github.io/shinyFeedback/)
 * [Shiny App ideas](https://github.com/florinpop17/app-ideas)
 * [Shiny Basics Introduction](https://finnstats.com/index.php/2021/10/15/shiny-basics-introduction/)
+* [Shiny.admin – user management and usage statistics](https://appsilon.com/user-authentication-in-r-shiny-sneak-peek-of-shiny-users-and-shiny-admin-packages/)
 
 ## Shinydashboard
 
