@@ -116,6 +116,10 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
 * [Tabelas para ggplot2 - mmtable2](https://www.business-science.io/code-tools/2021/05/04/mmtable2.html)
 * [ggsignif: Significance Brackets for ‘ggplot2’](https://github.com/const-ae/ggsignif)
 * [Reorder legend to match order of plot elements in ggplot2](https://www.nsgrantham.com/reorder-legend-ggplot2)
+* [Bagplot: generalização bivariada do Boxplot| R](https://luizpaulotavaresgonalves.medium.com/bagplot-generaliza%C3%A7%C3%A3o-bivariada-do-boxplot-r-1f832341f517)
+* [Add dogs to ggplot2 with ggdogs](https://r-charts.com/miscellaneous/ggdogs/)
+* [tidyHeatmap](https://github.com/stemangiola/tidyHeatmap)
+
 
 ## Animação de Gráficos
 
@@ -127,6 +131,7 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
 * [Aster plot in D3js](https://gist.github.com/bbest/2de0e25d4840c68f2db1)
 * [Introducing R2D3](http://www.coppelia.io/2014/08/introducing-r2d3/)
 * [ggiraphExtra - Package ggiraphExtra contains many useful functions for exploratoty plots](https://cran.r-project.org/web/packages/ggiraphExtra/vignettes/introduction.html)
+* [parcats trace, and adds marginal histograms for numerical variables.](https://www.datisticsblog.com/2021/10/parcats-0-0-3-released/)
 
 
 # APIs
@@ -428,6 +433,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 
 * [Selecting Forecasting Methods in Data Science](https://www.datasciencecentral.com/profiles/blogs/selecting-forecasting-methods-in-data-science)
 * [garchmodels](https://github.com/AlbertoAlmuinha/garchmodels)
+* [Automatic Forecasting with ahead::dynrmf and Ridge regression](https://thierrymoudiki.github.io//blog/2021/10/22/r/misc/ahead-ridge)
 
 # Git e Github  
 
@@ -506,6 +512,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 * [Bayes Rules! An Introduction to Bayesian Modeling with R](https://www.bayesrulesbook.com/)
 * [Introduction to Data Science - Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook/)
 * [An Introduction to Statistical Learning](https://www.statlearning.com/)
+* [Dos estatísticos, estatísticas](https://www.conre3.org.br/MTrabalho/DOS_ESTATISTICOS_ESTATISTICAS_EBOOK_ED1.pdf)
 
 # Machine Learning
 
@@ -628,6 +635,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 * [A Shiny app for simple linear regression by hand and in R](https://statsandr.com/blog/a-shiny-app-for-simple-linear-regression-by-hand-and-in-r/)
 * [lmSubsets: Exact variable-subset selection in linear regression](https://www.zeileis.org/news/lmsubsets/)
 * [Machine Learning with R: A Complete Guide to Linear Regression](https://appsilon.com/r-linear-regression/)
+* [7 Classical Assumptions of Ordinary Least Squares (OLS) Linear Regression](https://statisticsbyjim.com/regression/ols-linear-regression-assumptions/)
 
 
 ## Modelos Generalizados
@@ -1009,6 +1017,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 * [shinymanager - Simple and secure authentification mechanism for single ‘Shiny’ applications. Credentials are stored in an encrypted ‘SQLite’ database.](https://datastorm-open.github.io/shinymanager/)
 * [shinyFeedback - R package for displaying user feedback alongside Shiny inputs](https://merlinoa.github.io/shinyFeedback/)
 * [Shiny App ideas](https://github.com/florinpop17/app-ideas)
+* [Shiny Basics Introduction](https://finnstats.com/index.php/2021/10/15/shiny-basics-introduction/)
 
 ## Shinydashboard
 
