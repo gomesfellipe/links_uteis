@@ -119,6 +119,7 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
 * [Bagplot: generalização bivariada do Boxplot| R](https://luizpaulotavaresgonalves.medium.com/bagplot-generaliza%C3%A7%C3%A3o-bivariada-do-boxplot-r-1f832341f517)
 * [Add dogs to ggplot2 with ggdogs](https://r-charts.com/miscellaneous/ggdogs/)
 * [tidyHeatmap](https://github.com/stemangiola/tidyHeatmap)
+* [ggbump creates elegant bump charts in ggplot](https://github.com/davidsjoberg/ggbump)
 
 
 ## Animação de Gráficos
