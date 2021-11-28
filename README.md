@@ -429,6 +429,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 * [Statistical Mistakes Even Scientists Make](https://www.linkedin.com/pulse/statistical-mistakes-even-scientists-make-kevin-gray/)
 * [R & stats illustrations by @allison_horst](https://github.com/allisonhorst/stats-illustrations)
 * [Not even scientists can easily explain p-values](https://fivethirtyeight.com/features/not-even-scientists-can-easily-explain-p-values/)
+* [Creating your google chat R bot in under 5 minutes](https://adisarid.github.io/post/creating-your-google-chat-r-bot-in-under-5-minutes/)
 
 # Forecast - Series Temporais
 
@@ -681,6 +682,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 * [Scott Lundberg, Microsoft Research - Explainable Machine Learning with Shapley Values - Youtube](https://www.youtube.com/watch?v=ngOBhhINWb8)
 * [Book - Hands-on Machine Learning with R - Chapter 16 - Interpretable Machine Learning](https://bradleyboehmke.github.io/HOML/iml.html)
 * [gist - SHAP_with_H2O_AutoML.R](https://github.com/renanxcortes/SHAP_with_H2O_AutoML/blob/master/SHAP_with_H2O_AutoML.R)
+* [11 Important Model Evaluation Metrics for Machine Learning Everyone should know](https://www.analyticsvidhya.com/blog/2019/08/11-important-model-evaluation-error-metrics/)
 
 ## Sistema de recomendação
 
