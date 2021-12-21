@@ -386,6 +386,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 * [Why Gordon Shotwell uses R](https://paulvanderlaken.com/2020/01/06/why-gordon-shotwell-uses-r/)
 * [Syntax Highlighting in Blogdown; a very specific solution](https://venciso.netlify.app/2020/05/syntax-highlighting-blogdown/)
 * [deepdep - Visualize e explore profundas dependências de pacotes R](https://dominikrafacz.github.io/deepdep/)
+* [Introducing portfoliodown: The Data Science Portfolio Website Builder](https://www.business-science.io/code-tools/2021/12/20/portfoliodown.html)
 
 ## Palestras sobre R
 
