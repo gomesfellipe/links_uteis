@@ -387,6 +387,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 * [Syntax Highlighting in Blogdown; a very specific solution](https://venciso.netlify.app/2020/05/syntax-highlighting-blogdown/)
 * [deepdep - Visualize e explore profundas dependências de pacotes R](https://dominikrafacz.github.io/deepdep/)
 * [Introducing portfoliodown: The Data Science Portfolio Website Builder](https://www.business-science.io/code-tools/2021/12/20/portfoliodown.html)
+* [flow - provides tools to visualize as flow diagrams the logic of functions, expressions or scripts and ease debugging.](https://github.com/moodymudskipper/flow)
 
 ## Palestras sobre R
 
