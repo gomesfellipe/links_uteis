@@ -120,6 +120,8 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
 * [Add dogs to ggplot2 with ggdogs](https://r-charts.com/miscellaneous/ggdogs/)
 * [tidyHeatmap](https://github.com/stemangiola/tidyHeatmap)
 * [ggbump creates elegant bump charts in ggplot](https://github.com/davidsjoberg/ggbump)
+* [A QUICK HOW-TO ON LABELLING BAR GRAPHS IN GGPLOT2](https://www.cedricscherer.com/2021/07/05/a-quick-how-to-on-labelling-bar-graphs-in-ggplot2/)
+* [geomtextpath - Create curved text in ggplot2](https://github.com/AllanCameron/geomtextpath)
 
 
 ## Animação de Gráficos
@@ -388,6 +390,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 * [deepdep - Visualize e explore profundas dependências de pacotes R](https://dominikrafacz.github.io/deepdep/)
 * [Introducing portfoliodown: The Data Science Portfolio Website Builder](https://www.business-science.io/code-tools/2021/12/20/portfoliodown.html)
 * [flow - provides tools to visualize as flow diagrams the logic of functions, expressions or scripts and ease debugging.](https://github.com/moodymudskipper/flow)
+* [deepdep - Visualise and Explore Deep Dependencies of R Packages](https://github.com/DominikRafacz/deepdep)
 
 ## Palestras sobre R
 
@@ -517,6 +520,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 * [Introduction to Data Science - Data Analysis and Prediction Algorithms with R](https://rafalab.github.io/dsbook/)
 * [An Introduction to Statistical Learning](https://www.statlearning.com/)
 * [Dos estatísticos, estatísticas](https://www.conre3.org.br/MTrabalho/DOS_ESTATISTICOS_ESTATISTICAS_EBOOK_ED1.pdf)
+* [THE ART OF MACHINE LEARNING Algorithms+Data+R - by Norm Matloff](https://matloff.wordpress.com/2020/06/12/new-book-on-machine-learning/)
 
 # Machine Learning
 
