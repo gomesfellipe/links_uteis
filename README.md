@@ -122,6 +122,7 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
 * [ggbump creates elegant bump charts in ggplot](https://github.com/davidsjoberg/ggbump)
 * [A QUICK HOW-TO ON LABELLING BAR GRAPHS IN GGPLOT2](https://www.cedricscherer.com/2021/07/05/a-quick-how-to-on-labelling-bar-graphs-in-ggplot2/)
 * [geomtextpath - Create curved text in ggplot2](https://github.com/AllanCameron/geomtextpath)
+* [ggeasy - is here to make ggplots a little easier.](https://github.com/jonocarroll/ggeasy)
 
 
 ## Animação de Gráficos
