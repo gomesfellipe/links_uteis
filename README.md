@@ -1186,6 +1186,7 @@ Conditional GANs (cGANs)](https://blogs.rstudio.com/tensorflow/posts/2018-09-20-
 * [Reconhecimento facial com R](https://www.stoltzmaniac.com/facial-recognition-in-r/)
 * [Analisando face emotions no R](http://thinktostart.com/analyze-face-emotions-r/)
 * [Human Face Detection with R](http://bnosac.be/index.php/blog/89-human-face-detection-with-r)
+* [GFPGAN aims at developing a Practical Algorithm for Real-world Face Restoration](https://github.com/TencentARC/GFPGAN)
 
 ## Reconhecimento de objetos
 
