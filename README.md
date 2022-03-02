@@ -523,6 +523,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 * [Dos estatísticos, estatísticas](https://www.conre3.org.br/MTrabalho/DOS_ESTATISTICOS_ESTATISTICAS_EBOOK_ED1.pdf)
 * [THE ART OF MACHINE LEARNING Algorithms+Data+R - by Norm Matloff](https://matloff.wordpress.com/2020/06/12/new-book-on-machine-learning/)
 * [Introduction to Econometrics with R](https://www.econometrics-with-r.org/?fbclid=IwAR0s93FbpWx-xnLlDDtbX0WKJP-6MgbrYuKqxNxKkRDQ7kWFoGggiT60Yhg)
+* [R for Geographic Data Science](https://sdesabbata.github.io/r-for-geographic-data-science/index.html)
 
 # Machine Learning
 
