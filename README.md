@@ -345,6 +345,7 @@ part of the End-to-End Machine Learning library](https://brohrer.github.io/how_b
 * [Inferência Bayesiana - Intuição e Exemplo](https://towardsdatascience.com/bayesian-inference-intuition-and-example-148fd8fb95d6)
 * [stantargets - an extension to targets and cmdstanr for Bayesian data analysis](https://github.com/wlandau/stantargets)
 * <https://michael-barr.com/datasci/bayesian-mbo?utm_source=rss&utm_medium=rss&utm_campaign=bayesian-mbo>
+* [App Shiny ilustrando métodos de MCMC](https://chi-feng.github.io/mcmc-demo/app.html)
 
 ## Distribuições de probabilidade
 
@@ -525,6 +526,8 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 * [Introduction to Econometrics with R](https://www.econometrics-with-r.org/?fbclid=IwAR0s93FbpWx-xnLlDDtbX0WKJP-6MgbrYuKqxNxKkRDQ7kWFoGggiT60Yhg)
 * [R for Geographic Data Science](https://sdesabbata.github.io/r-for-geographic-data-science/index.html)
 * [Aprendizado de Máquina - Uma abordagem estatística](http://www.rizbicki.ufscar.br/ame/)
+* [Tidy Finance with R](https://tidy-finance.org/)
+* [Introduction to Probability for Data Science](https://probability4datascience.com/)
 
 # Machine Learning
 
