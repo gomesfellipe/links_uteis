@@ -124,6 +124,10 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
 * [geomtextpath - Create curved text in ggplot2](https://github.com/AllanCameron/geomtextpath)
 * [ggeasy - is here to make ggplots a little easier.](https://github.com/jonocarroll/ggeasy)
 
+## Data Art
+
+* [Make Stained Glass](https://github.com/IcaroBernardes/30DayChartChallenge/blob/master/2022/day10/day10.R)
+
 
 ## Animação de Gráficos
 
