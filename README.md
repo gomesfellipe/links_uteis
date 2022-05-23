@@ -123,6 +123,7 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
 * [A QUICK HOW-TO ON LABELLING BAR GRAPHS IN GGPLOT2](https://www.cedricscherer.com/2021/07/05/a-quick-how-to-on-labelling-bar-graphs-in-ggplot2/)
 * [geomtextpath - Create curved text in ggplot2](https://github.com/AllanCameron/geomtextpath)
 * [ggeasy - is here to make ggplots a little easier.](https://github.com/jonocarroll/ggeasy)
+* [ggside: Plot Linear Regression using Marginal Distributions](https://www.business-science.io/code-tools/2021/05/18/marginal_distributions.html?utm_content=bufferdb779&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
 
 ## Data Art
 
@@ -460,6 +461,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 # IDE
 
 * [pqR](http://www.pqr-project.org/)
+* [relodium - mostra tempo de processamento no VSCODE](https://github.com/reloadware/reloadium)
 
 # Interação em modelos
 
@@ -560,6 +562,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 * [Modelagem Avançada (em R) - Encontre o melhor modelo preditivo usando o pacote R / caret / modelgrid](https://datascienceplus.com/find-the-best-predictive-model-using-r-caret-package-modelgrid/)
 * [14 tipos diferentes de aprendizado no aprendizado de máquina](https://machinelearningmastery.com/types-of-learning-in-machine-learning/)
 * [A Tour of Machine Learning Algorithms](https://machinelearningmastery.com/a-tour-of-machine-learning-algorithms/)
+* [SuperML is to provide sckit-learn's fit,predict,transform standard way of building machine learning models in R](https://github.com/saraswatmks/superml)
 
 ## Machine learning - Tidymodels
 
