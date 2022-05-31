@@ -442,6 +442,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 * [R & stats illustrations by @allison_horst](https://github.com/allisonhorst/stats-illustrations)
 * [Not even scientists can easily explain p-values](https://fivethirtyeight.com/features/not-even-scientists-can-easily-explain-p-values/)
 * [Creating your google chat R bot in under 5 minutes](https://adisarid.github.io/post/creating-your-google-chat-r-bot-in-under-5-minutes/)
+* [170 projetos de DATA SCIENCE e MACHINE LEARNING com Python, resolvidos e explicados](https://www.e-setorial.com.br/blog/229-170-projetos-de-data-science-e-machine-learning-com-python-resolvidos-e-explicados)
 
 # Forecast - Series Temporais
 
