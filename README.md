@@ -266,6 +266,7 @@ Making Data-Driven Decisions - MIT](https://bigdataanalytics.mit.edu/)
 * [R Learn the language designed for data analysis. This track includes data set-up, machine learning and data visualization.](https://www.kaggle.com/learn/r)
 * [R e PostgreeSQL - como usar o postgreesql a partir do R](https://rpsql.consudata.com.br/)
 * [Improving your statistical inferences - coursera](https://www.coursera.org/learn/statistical-inferences#syllabus)
+* [Data Science for Beginners - A Curriculum](https://github.com/microsoft/Data-Science-For-Beginners/)
 
 # Elastic Search
 
