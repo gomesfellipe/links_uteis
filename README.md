@@ -267,6 +267,7 @@ Making Data-Driven Decisions - MIT](https://bigdataanalytics.mit.edu/)
 * [R e PostgreeSQL - como usar o postgreesql a partir do R](https://rpsql.consudata.com.br/)
 * [Improving your statistical inferences - coursera](https://www.coursera.org/learn/statistical-inferences#syllabus)
 * [Data Science for Beginners - A Curriculum](https://github.com/microsoft/Data-Science-For-Beginners/)
+* [Practical Deep Learning for Coders - Practical Deep Learning](https://course.fast.ai/)
 
 # Elastic Search
 
@@ -536,6 +537,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 * [Aprendizado de Máquina - Uma abordagem estatística](http://www.rizbicki.ufscar.br/ame/)
 * [Tidy Finance with R](https://tidy-finance.org/)
 * [Introduction to Probability for Data Science](https://probability4datascience.com/)
+* [A Short Chronology Of Deep Learning For Tabular Data](https://sebastianraschka.com/blog/2022/deep-learning-for-tabular-data.html)
 
 # Machine Learning
 
