@@ -538,6 +538,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 * [Tidy Finance with R](https://tidy-finance.org/)
 * [Introduction to Probability for Data Science](https://probability4datascience.com/)
 * [A Short Chronology Of Deep Learning For Tabular Data](https://sebastianraschka.com/blog/2022/deep-learning-for-tabular-data.html)
+* [`datasummary`: Crosstabs, frequencies, correlations, balance (a.k.a.](https://lnkd.in/ejZTkUNw)
 
 # Machine Learning
 
@@ -707,6 +708,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 * [Book - Hands-on Machine Learning with R - Chapter 16 - Interpretable Machine Learning](https://bradleyboehmke.github.io/HOML/iml.html)
 * [gist - SHAP_with_H2O_AutoML.R](https://github.com/renanxcortes/SHAP_with_H2O_AutoML/blob/master/SHAP_with_H2O_AutoML.R)
 * [11 Important Model Evaluation Metrics for Machine Learning Everyone should know](https://www.analyticsvidhya.com/blog/2019/08/11-important-model-evaluation-error-metrics/)
+* [fairmodels: a Flexible Tool for Bias Detection, Visualization, and Mitigation in Binary Classification Models](https://rjournal.github.io/articles/RJ-2022-019/)
 
 ## Sistema de recomendação
 
@@ -1262,6 +1264,7 @@ Conditional GANs (cGANs)](https://blogs.rstudio.com/tensorflow/posts/2018-09-20-
 * [How to Make Beautiful Tables in R](https://rfortherestofus.com/2019/11/how-to-make-beautiful-tables-in-r/)
 * [I am very happy to announce dataui (source,site,JavaScript library) for the R sparkline lovers.](https://timelyportfolio.github.io/dataui/articles/dataui_reactable.html)
 * [reactablefmtr](https://kcuilla.github.io/reactablefmtr/index.html)
+* [`datasummary`: Crosstabs, frequencies, correlations, balance (a.k.a.](https://lnkd.in/ejZTkUNw)
 
 # Tensor flow
 
