@@ -539,6 +539,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 * [Introduction to Probability for Data Science](https://probability4datascience.com/)
 * [A Short Chronology Of Deep Learning For Tabular Data](https://sebastianraschka.com/blog/2022/deep-learning-for-tabular-data.html)
 * [`datasummary`: Crosstabs, frequencies, correlations, balance (a.k.a.](https://lnkd.in/ejZTkUNw)
+* [Amostragem: Teoria e Prática Usando R](https://amostragemcomr.github.io/livro/)
 
 # Machine Learning
 
