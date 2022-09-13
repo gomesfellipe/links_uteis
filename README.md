@@ -445,6 +445,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 * [Not even scientists can easily explain p-values](https://fivethirtyeight.com/features/not-even-scientists-can-easily-explain-p-values/)
 * [Creating your google chat R bot in under 5 minutes](https://adisarid.github.io/post/creating-your-google-chat-r-bot-in-under-5-minutes/)
 * [170 projetos de DATA SCIENCE e MACHINE LEARNING com Python, resolvidos e explicados](https://www.e-setorial.com.br/blog/229-170-projetos-de-data-science-e-machine-learning-com-python-resolvidos-e-explicados)
+* [Is Data Scientist Still the Sexiest Job of the 21st Century?](https://hbr.org/2022/07/is-data-scientist-still-the-sexiest-job-of-the-21st-century)
 
 # Forecast - Series Temporais
 
@@ -1113,13 +1114,7 @@ ou organizações maiores.](https://www.r-bloggers.com/shinyproxy-1-1-1-released
 
 * [Alinhamento do texto ](https://pt.sharelatex.com/learn/Text_alignment)
 
-# Python stuffs
 
-* [Aprendendo com Python - IME USP](https://panda.ime.usp.br/pensepy/static/pensepy/)
-* [5 principais IDEs Python para Data Science](https://www.datacamp.com/community/tutorials/data-science-python-ide)
-* [Python Wrapper for NVD3 - It's time for beautiful charts](https://github.com/areski/python-nvd3)
-* [Jupyter Notebook Tutorial: The Definitive Guide](https://www.datacamp.com/community/tutorials/tutorial-jupyter-notebook)
-* [rtven - Flow-based visual scripting for Python](https://ryven.org/)
 
 # Python para usuários de R
 
