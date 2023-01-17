@@ -1052,6 +1052,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 * [Shiny Basics Introduction](https://finnstats.com/index.php/2021/10/15/shiny-basics-introduction/)
 * [Shiny.admin – user management and usage statistics](https://appsilon.com/user-authentication-in-r-shiny-sneak-peek-of-shiny-users-and-shiny-admin-packages/)
 * [howler - Interactive Audio Player](https://github.com/ashbaldry/howler)
+* [bslib - provides tools for customizing Bootstrap themes directly from R](https://shiny.rstudio.com/blog/announcing-new-r-shiny-ui-components.html)
 
 ## Shinydashboard
 
