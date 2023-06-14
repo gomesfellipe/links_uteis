@@ -542,6 +542,7 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 * [`datasummary`: Crosstabs, frequencies, correlations, balance (a.k.a.](https://lnkd.in/ejZTkUNw)
 * [Amostragem: Teoria e Prática Usando R](https://amostragemcomr.github.io/livro/)
 * [Imbalanced Binary Classification - A survey with code](https://pibieta.github.io/imbalanced_learning/notebooks/Introduction.html)
+* [Bayesian Optimization](https://bayesoptbook.com/book/bayesoptbook_a4.pdf)
 
 # Machine Learning
 
