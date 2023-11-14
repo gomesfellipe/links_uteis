@@ -232,6 +232,7 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
 * [Um guia para reuniões "one on one" com lideranças](http://lgmoneda.github.io/2020/01/20/guia-de-one-on-one.html)
 * [O QUE OS RECRUTADORES PROCURAM EM UM CURRÍCULO PARA CIENTISTA DE DADOS?](http://datascienceacademy.com.br/blog/o-que-os-recrutadores-procuram-em-um-curriculo-para-cientista-de-dados/)
 * [Carta de referencia para um emprego, modelo ideal](https://www.roberthalf.com.br/blog/curriculo/carta-de-referencia-para-emprego-o-modelo-ideal?utm_source=voicestorm&utm_medium=social)
+* [Post no Linkedin com dicas para CV - Step-by-step breakdown of a resume](https://www.linkedin.com/posts/learningmaterials_resume-technology-innovation-activity-7043155660150083584--8Oi/?utm_source=share&utm_medium=member_ios)
 
 # Kaggle
 
@@ -1317,6 +1318,17 @@ Stanford University School of Engineering
 * [d3wordcloud - d3wordcloud is a wrapper for the Word Cloud Layout by Jason Davies based on htmlwidgets](https://github.com/jbkunst/d3wordcloud)
 * [REORDERING AND FACETTING FOR GGPLOT2 - Julia Silge ](https://juliasilge.com/blog/reorder-within/)
 * [quanteda - COLLOCATION ANALYSIS](https://tutorials.quanteda.io/statistical-analysis/collocation/)
+* [Training, evaluating, and interpreting topic models](https://juliasilge.com/blog/evaluating-stm/)
+* [Topic modeling with stm package - 1 - Julia Silge](https://juliasilge.com/blog/spice-girls/)
+* [Topic modeling with stm package - 2 - Julia Silge](https://juliasilge.com/blog/sherlock-holmes-stm/)
+* [A Friendly Introduction to Text Clustering](https://towardsdatascience.com/a-friendly-introduction-to-text-clustering-fa996bcefd04?gi=d03398fc601d)
+* [Topic Modeling On Twitter Using Sentence BERT](https://www.atoti.io/articles/topic-modeling-on-twitter-using-sentence-bert/)
+* [Topic Modeling with BERT](https://towardsdatascience.com/topic-modeling-with-bert-779f7db187e6)
+* [Bert For Topic Modeling ( Bert vs LDA )](https://medium.com/analytics-vidhya/bert-for-topic-modeling-bert-vs-lda-8076e72c602b)
+* [Using LDA Topic Models as a Classification Model Input](https://towardsdatascience.com/unsupervised-nlp-topic-models-as-a-supervised-learning-input-cf8ee9e5cf28)
+* [Seeded Topic Models as a Yard Stick: Implement them in R with keyATM](https://towardsdatascience.com/why-to-use-seeded-topic-models-in-your-next-project-and-how-to-implement-them-in-r-8502d15d6e8d)
+
+
 
 
 ### NLP - Processamento de linguagem natural 
