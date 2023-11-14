@@ -233,6 +233,7 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
 * [O QUE OS RECRUTADORES PROCURAM EM UM CURRÍCULO PARA CIENTISTA DE DADOS?](http://datascienceacademy.com.br/blog/o-que-os-recrutadores-procuram-em-um-curriculo-para-cientista-de-dados/)
 * [Carta de referencia para um emprego, modelo ideal](https://www.roberthalf.com.br/blog/curriculo/carta-de-referencia-para-emprego-o-modelo-ideal?utm_source=voicestorm&utm_medium=social)
 * [Post no Linkedin com dicas para CV - Step-by-step breakdown of a resume](https://www.linkedin.com/posts/learningmaterials_resume-technology-innovation-activity-7043155660150083584--8Oi/?utm_source=share&utm_medium=member_ios)
+* [Resume Owrded - Free instant feedback on your resume and Linkedin profile](https://www.resumeworded.com/)
 
 # Kaggle
 
