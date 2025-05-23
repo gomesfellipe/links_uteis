@@ -124,6 +124,7 @@ Existem links tanto em portugues quanto em inglês e a maioria dos links aqui es
 * [geomtextpath - Create curved text in ggplot2](https://github.com/AllanCameron/geomtextpath)
 * [ggeasy - is here to make ggplots a little easier.](https://github.com/jonocarroll/ggeasy)
 * [ggside: Plot Linear Regression using Marginal Distributions](https://www.business-science.io/code-tools/2021/05/18/marginal_distributions.html?utm_content=bufferdb779&utm_medium=social&utm_source=linkedin.com&utm_campaign=buffer)
+* [150 registered extensions available to explore](https://exts.ggplot2.tidyverse.org/gallery/)
 
 ## Data Art
 
@@ -1058,6 +1059,9 @@ Travis-CI Build Status CRAN version ](https://github.com/petersonR/bestNormalize
 * [howler - Interactive Audio Player](https://github.com/ashbaldry/howler)
 * [bslib - provides tools for customizing Bootstrap themes directly from R](https://shiny.rstudio.com/blog/announcing-new-r-shiny-ui-components.html)
 * [R Shiny Dashboard Templates From Appsilon Are Now Available](https://appsilon.com/r-shiny-dashboard-templates/amp/)
+* [designer - initial generation of a UI wireframe of a shiny application as quick and simple as possible.](https://ashbaldry.github.io/designer/)
+* [Develop Professional Shiny Apps with shiny.fluent](https://www.r-bloggers.com/2021/06/shiny-ui-breakthrough-develop-professional-shiny-apps-with-shiny-fluent/)
+* [fresh themes for use in {shiny}, {shinydashboard} and {bs4Dash}](https://dreamrs.github.io/fresh/)
 
 ## Shinydashboard
 
